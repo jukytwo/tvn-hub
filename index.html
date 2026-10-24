@@ -1442,6 +1442,41 @@ function bdView(BD, heat, wdays) {
     : '<div class="empty">Chưa có tín hiệu đủ mạnh để xếp vào bảng.</div>') + `</div>`;
   return o + `<div class="small muted" style="margin-top:10px">${e(BD.cach_tinh)}</div></div>`;
 }
+// ---------- Mở bán từng phần (anh Vũ duyệt 23/10/2026): Tâm lý & chu kỳ dành cho gói TVN-Trading (quyền tam_ly) ----------
+// Gói công khai có D.khoa khi VPS đã bật khóa (cờ BAT_KHOA): phần Tâm lý & chu kỳ lấy qua máy chủ tài khoản /api/p/hub_tam_ly.
+// Trước ngày bật, mở ?thu=1 để xem thử (nhớ trong máy, chung với TVN Insight và Vĩ mô; tắt bằng ?thu=0).
+const TK_GOC = "https://taikhoan.103-110-85-100.sslip.io";
+let KHOA = null;
+function thuKhoa() {
+  try { const q = new URLSearchParams(location.search); if (q.get("thu") === "1") localStorage.setItem("tvn_thu", "1"); if (q.get("thu") === "0") localStorage.removeItem("tvn_thu");
+    return localStorage.getItem("tvn_thu") === "1"; } catch (e) { return false; }
+}
+function napAuth() {
+  return new Promise(res => {
+    if (window.TVNAuth) return res(window.TVNAuth);
+    const s = document.createElement("script"); s.src = TK_GOC + "/tvn-auth.js"; s.dataset.app = "hub"; if (EMBED) s.dataset.dai = "0";
+    s.onload = () => res(window.TVNAuth || null); s.onerror = () => res(null); document.body.appendChild(s);
+  });
+}
+async function moKhoa() {
+  if (!D.khoa && !thuKhoa()) return;
+  const A = await napAuth();
+  if (A) await A.san_sang;
+  if (A && A.co("tam_ly")) {
+    if (D.khoa) { try { const tp = await A.layTraPhi("hub_tam_ly"); Object.assign(D.them, tp.them || {}); ["dong_ho", "tam_ly_bt"].forEach(k => { if (tp[k] !== undefined) D[k] = tp[k]; }); } catch (e) { KHOA = {quyen: "tam_ly"}; } }
+  } else {
+    KHOA = {quyen: "tam_ly"};
+    ["dong_ho_tam_ly", "vi_tri_chu_ky", "la_ban", "doc_ky"].forEach(k => { if (D.them) D.them[k] = null; });
+  }
+  if (A) { let lan = 0; A.theo(() => { if (lan++) location.reload(); }); }
+}
+const oKhoa = () => `<div class="tvn-khoa"></div>`;
+function veKhoa() {
+  document.querySelectorAll(".tvn-khoa:empty").forEach(el => {
+    if (window.TVNAuth) window.TVNAuth.khoa(el, "tam_ly", {tieu_de: "Tâm lý & chu kỳ dành cho gói TVN-Trading"});
+    else el.innerHTML = '<div class="empty">🔒 Dành cho gói TVN-Trading. Đăng ký: <a href="tel:0938004541">093 800 4541</a></div>';
+  });
+}
 function renderData() {
   const T = D.them || {}, TL = T.dong_ho_tam_ly, HY = T.ham_y_giong, K = D.kpi || {}, VT = T.vi_tri_chu_ky, TT = T.thi_truong, LB = T.la_ban;
   const lab = n => n > 0 ? "tích cực" : n < 0 ? "tiêu cực" : "trung tính";
@@ -1451,8 +1486,8 @@ function renderData() {
   parts.push(`<div class="hook"><div class="lbl">Phát hiện nổi bật</div><div class="txt">${esc(D.hook)}</div></div>`);
   parts.push(`<div class="grid kpis">${[[vn(K.n24), "bài trong 24 giờ"], [vn(K.nw), `bài trong ${K.W || 5} phiên`], [vn(K.posw), "bài tích cực 5 phiên"], [vn(K.negw), "bài tiêu cực 5 phiên"]].map(x => `<div class="kpi"><b>${x[0]}</b><span>${x[1]}</span></div>`).join("")}</div>` + (HB.kpi ? hyNote(HB.kpi) : ""));
   parts.push(`<div class="grid three">` +
-    card("Đồng hồ hàm ý", "tâm lý đọc theo hàm ý, −100 đến +100", TL ? gauge2(TL.diem, TL.nhan, TL.thanh_phan.map(p => `${esc(p.ten)} ${sg(p.diem)} (×${vn(p.trong_so, 2)})`).join("<br>")) : '<div class="empty">—</div>') +
-    card("Đáy, hồi phục hay đỉnh", "", VT ? `<div class="phase">${esc(VT.nhan)}</div>${(VT.can_cu || []).map(x => `<div class="small">${esc(x)}</div>`).join("")}` : '<div class="empty">—</div>') +
+    card("Đồng hồ hàm ý", "tâm lý đọc theo hàm ý, −100 đến +100", TL ? gauge2(TL.diem, TL.nhan, TL.thanh_phan.map(p => `${esc(p.ten)} ${sg(p.diem)} (×${vn(p.trong_so, 2)})`).join("<br>")) : KHOA ? oKhoa() : '<div class="empty">—</div>') +
+    card("Đáy, hồi phục hay đỉnh", "", VT ? `<div class="phase">${esc(VT.nhan)}</div>${(VT.can_cu || []).map(x => `<div class="small">${esc(x)}</div>`).join("")}` : KHOA ? oKhoa() : '<div class="empty">—</div>') +
     card("Ba điều cần nhớ", "", (T.ba_dieu || []).map((x, i) => `<div class="cline"><b>${i + 1}.</b> ${esc(x)}</div>`).join("")) + `</div>`);
   if (HY && (HY.muc || []).length) {
     const rows = HY.muc.filter(m => m.nhom !== "f247" && m.y).sort((a, b) => (b.be_mat - b.ham_y) - (a.be_mat - a.ham_y)).slice(0, 12);
@@ -1462,7 +1497,7 @@ function renderData() {
   P("hamy", card("Kết luận phân tích", "24 giờ và 5 phiên", (D.conclusions || []).map(c => `<div class="concl"><div class="k">${esc(c.k)}</div><div class="lead">${esc(c.lead)}</div>${(c.lines || []).filter(Boolean).map(l => `<div class="small">${esc(l)}</div>`).join("")}<div class="small">${(c.ev || []).map(lk).filter(Boolean).join(" · ")}</div></div>`).join(""), true));
   P("cs", `<div class="grid two">` +
     card("Bốn lĩnh vực", "5 phiên", tbl([["Lĩnh vực"], ["24 giờ", 1], ["5 phiên", 1], ["Tích cực", 1], ["Tiêu cực", 1], ["Hàm ý"], ["Bài gốc"]], (D.sectors || []).map(s => { const o = NG[s.name]; return `<tr><td>${esc(s.name)}</td><td class="num">${vn(s.n24)}</td><td class="num">${vn(s.nw)}</td><td class="num">${vn(s.posw)}</td><td class="num">${vn(s.negw)}</td><td class="small">${s.ham_y ? hyTxt(s.ham_y.ham_y, (o ? o.o + ". " : "") + (s.ham_y.y || "")) : '<span class="muted">chưa đọc</span>'}</td><td>${(s.links || []).slice(0, 2).map(lk).join(" · ")}</td></tr>`; }))) +
-    card("Thị trường và La bàn", "", (TT ? tbl([["Chỉ số"], ["Giá trị", 1]], [["VN-Index", vn(TT.vnindex, 2)], ["5 phiên (%)", vn(TT.pct_5_phien, 2)], ["20 phiên (%)", vn(TT.pct_20_phien, 2)], ["MA20", vn(TT.ma20, 2)], ["MA50", vn(TT.ma50, 2)], ["Khối ngoại 5 phiên (tỷ)", vn(TT.khoi_ngoai_5_phien_ty, 0)]].map(r => `<tr><td>${r[0]}</td><td class="num">${r[1]}</td></tr>`)) : "") + (LB ? `<p class="small" style="margin-top:8px"><b>La bàn tuần ${esc(LB.tuan_ket_thuc)}:</b> đà ${esc(LB.da && LB.da.trang_thai)}, tâm lý ${esc(LB.tam_ly && LB.tam_ly.diem)} (${esc(LB.tam_ly && LB.tam_ly.muc)}). ${esc(LB.ket_luan || "")}</p>` : "")) + `</div>`);
+    card("Thị trường và La bàn", "", (TT ? tbl([["Chỉ số"], ["Giá trị", 1]], [["VN-Index", vn(TT.vnindex, 2)], ["5 phiên (%)", vn(TT.pct_5_phien, 2)], ["20 phiên (%)", vn(TT.pct_20_phien, 2)], ["MA20", vn(TT.ma20, 2)], ["MA50", vn(TT.ma50, 2)], ["Khối ngoại 5 phiên (tỷ)", vn(TT.khoi_ngoai_5_phien_ty, 0)]].map(r => `<tr><td>${r[0]}</td><td class="num">${r[1]}</td></tr>`)) : "") + (LB ? `<p class="small" style="margin-top:8px"><b>La bàn tuần ${esc(LB.tuan_ket_thuc)}:</b> đà ${esc(LB.da && LB.da.trang_thai)}, tâm lý ${esc(LB.tam_ly && LB.tam_ly.diem)} (${esc(LB.tam_ly && LB.tam_ly.muc)}). ${esc(LB.ket_luan || "")}</p>` : KHOA ? oKhoa() : "")) + `</div>`);
   P("hamy", card("Chủ đề được viết nhiều", "5 phiên", tbl([["Chủ đề"], ["5 phiên", 1], ["24 giờ", 1], ["Tích cực", 1], ["Tiêu cực", 1], ["Nhận định"], ["Bài gốc"]], (D.heat || []).filter(h => h.nw).slice(0, 12).map(h => `<tr><td><b>${esc(h.topic)}</b></td><td class="num">${vn(h.nw)}</td><td class="num">${vn(h.n24)}</td><td class="num">${vn(h.pos)}</td><td class="num">${vn(h.neg)}</td><td class="small">${esc(h.concl || "")}${h.watch ? `<div class="muted">Theo dõi: ${esc(h.watch)}</div>` : ""}</td><td>${(h.links || []).slice(0, 2).map(lk).join(" · ")}</td></tr>`)), true));
   if ((D.gov || []).length) B.csGov = B.cs.length;
   if ((D.gov || []).length) P("cs", card("Chính sách và điều hành", "ý chính và hàm ý do Claude Haiku đọc", (HB.khoi && HB.khoi.cs ? hyNote(HB.khoi.cs) : "") + tbl([["Ngày"], ["Nhóm"], ["Ý chính"], ["Hàm ý"], ["Bài gốc"]], (D.gov.filter(g => g.hy).length >= 8 ? D.gov.filter(g => g.hy) : [...D.gov].sort((a, b) => (b.hy ? 1 : 0) - (a.hy ? 1 : 0))).slice(0, 25).map(g => `<tr><td>${esc((g.d || "").slice(5, 10).split("-").reverse().join("/"))}</td><td>${esc(g.g)}${g.van_ban_so ? `<div class="small muted">${esc(g.van_ban_so)}</div>` : ""}</td><td>${esc(g.trich_y)}</td><td class="small">${g.hy ? hyTxt(g.hy_d, g.hy) : '<span class="muted">chưa đọc</span>'}</td><td>${lk(g)}</td></tr>`)), true));
@@ -1484,6 +1519,7 @@ function renderData() {
   });
   if (KHOI.length) renderKhoi(B, T);
   addGloss();
+  veKhoa();
 }
 
 // ---------- khối nhúng cho trang bản tin (?embed=1&khoi=...) ----------
@@ -1650,7 +1686,7 @@ let KTAB = null;
 function renderKhoi(B, T) {
   let box = $("#khoiBody");
   if (!box) { box = document.createElement("div"); box.id = "khoiBody"; box.className = "wrap"; document.querySelector("main").prepend(box); }
-  if (KHOI.includes("dongho")) { box.innerHTML = dongHoNho(T); document.querySelectorAll(".view").forEach(v => v.classList.remove("on")); return; }
+  if (KHOI.includes("dongho")) { box.innerHTML = KHOA ? oKhoa() : dongHoNho(T); document.querySelectorAll(".view").forEach(v => v.classList.remove("on")); veKhoa(); return; }
   const tabs = KHOI.filter(k => KHOI_TEN[k]);
   if (!KTAB) KTAB = new URLSearchParams(location.search).get("tab");  // trang chủ mở thẳng một tab, ví dụ tab=cs
   if (!KTAB || !tabs.includes(KTAB)) KTAB = tabs[0];
@@ -1684,6 +1720,7 @@ async function boot() {
   try {
     D = await gzJson("data/hub_pub.json.gz");
     status(`Số liệu cập nhật tới ${esc(D.ref_time)}. Tự làm mới mỗi giờ, 06:00 tới 22:30.`, "ok");
+    await moKhoa();
     renderData();
   } catch (e) { status("Chưa tải được số liệu. Kiểm tra mạng rồi tải lại trang.", "warn"); }
   META = await metaNow();
