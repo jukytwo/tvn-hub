@@ -1,0 +1,1047 @@
+{
+ "phien_ban": 1,
+ "loai": "vi_mo",
+ "chu_the": "Thị trường và Chính phủ",
+ "ten_day_du": "Vĩ mô Việt Nam và đọc hàm ý điều hành của Chính phủ, 5 phiên 12/10 đến 16/10/2026",
+ "ngay": "2026-10-18T07:07:50+07:00",
+ "dau_vao": {
+  "yeu_cau": "Phiếu vi_mo: Thị trường và Chính phủ, gửi lúc 00:48 ngày 18/10/2026",
+  "khoang_thoi_gian": "5 phiên",
+  "tu_ngay": "2026-10-12",
+  "den_ngay": "2026-10-16",
+  "pham_vi": [
+   "Báo chí bốn lĩnh vực (ngân hàng, tài chính, chứng khoán, bất động sản)",
+   "Tin Chính phủ, Bộ Tài chính, Ngân hàng Nhà nước",
+   "Diễn đàn F247",
+   "Giá, thanh khoản, khối ngoại HOSE",
+   "Chỉ số vĩ mô trong nước và quốc tế"
+  ]
+ },
+ "tieu_de": "Chính phủ muốn hạ chi phí vốn bằng mệnh lệnh qua ngân hàng, chưa bằng nới tiền tệ; thị trường vẫn lo và khối ngoại vẫn bán",
+ "tom_tat": "Thông điệp giảm lãi vay 1,5 đến 2 điểm phần trăm dồn gánh nặng lên ngân hàng, trong khi giá dầu 126,55 USD và tỷ giá giữ dư địa nới tiền tệ ở mức hẹp; tâm lý tổng hợp -32, khối ngoại bán ròng 2.879,1 tỷ đồng trong 5 phiên.",
+ "ket_luan": "Tín hiệu điều hành rõ nhất 5 phiên qua là yêu cầu giảm lãi suất cho vay 1,5 đến 2 điểm phần trăm cho sản xuất kinh doanh, được Vietcombank và BIDV hưởng ứng ngay, nhưng đi bằng kênh hành chính qua ngân hàng chứ không qua lãi suất điều hành. Hàm ý là Chính phủ ưu tiên tăng trưởng và sẵn sàng để ngân hàng gánh chi phí, trong khi ràng buộc giá dầu (Brent 126,55 USD/thùng) và tỷ giá khiến dư địa nới tiền tệ chính thức còn hẹp. Thị trường chưa tin: VN-Index 1.705,91 điểm, giảm 1,68% trong 5 phiên và 6,04% trong 20 phiên, thanh khoản bình quân 5 phiên chỉ bằng 0,84 lần bình quân 20 phiên, khối ngoại bán ròng 2.879,1 tỷ đồng. Đây là lần chạy đầu cho chủ thể này nên chưa có kỳ trước để so.",
+ "the_so": [
+  {
+   "so": "1.705,91",
+   "nhan": "VN-Index 16/10, giảm 1,68% trong 5 phiên"
+  },
+  {
+   "so": "-2.879,1 tỷ",
+   "nhan": "Khối ngoại bán ròng 5 phiên"
+  },
+  {
+   "so": "-32",
+   "nhan": "Tâm lý tổng hợp, vùng lo ngại"
+  },
+  {
+   "so": "303",
+   "nhan": "Bài về vĩ mô và chính sách, hạng nhất 5 phiên"
+  }
+ ],
+ "dong_ho": {
+  "diem": 34,
+  "nhan": "Lo ngại",
+  "mo_ta": "Quy đổi từ điểm tâm lý tổng hợp -32 trên thang -100 đến +100 sang thang 0 đến 100. Thành phần: tâm lý tuần xếp hạng 3 năm -33 (trọng số 40%), giọng tin và diễn đàn -47 (30%), hàm ý tin chính sách -15 (30%). Lần chạy đầu, chưa có điểm kỳ trước để so. Giọng chữ trên báo bốn lĩnh vực ở mức 65 (tích cực) nhưng đó là đếm chữ, không phải tâm lý."
+ },
+ "bay_cau": [
+  {
+   "cau": "Chủ thể đang muốn gì?",
+   "tra_loi": "Chính phủ muốn giữ đà tăng trưởng bằng cách hạ chi phí vốn cho sản xuất kinh doanh ngay trong quý IV, đồng thời chuẩn bị kế hoạch 2027 với đầu tư công có trọng tâm và phân bổ vốn theo kết quả giải ngân.",
+   "loai_nhan": "suy_luan",
+   "do_tin_cay": "cao",
+   "danh_gia": "tot",
+   "nguon": "Yêu cầu giảm lãi vay (9 nguồn cùng đưa, 16 đến 17/10); báo cáo kinh tế xã hội trước Quốc hội 17/10"
+  },
+  {
+   "cau": "Họ muốn thị trường tin điều gì?",
+   "tra_loi": "Thông điệp muốn thị trường tin rằng mặt bằng lãi vay sẽ đi xuống và môi trường kinh doanh được cởi trói: vĩ mô và chính sách là chủ đề số một với 303 bài trong 5 phiên (15,2% tổng số bài), kèm loạt dự luật cắt giảm điều kiện kinh doanh và quy định mới về hạ tầng sau giao dịch chứng khoán.",
+   "loai_nhan": "du_kien",
+   "do_tin_cay": "cao",
+   "danh_gia": "tot",
+   "nguon": "Số bài theo chủ đề 12 đến 16/10; tin Bộ Tài chính 17/10"
+  },
+  {
+   "cau": "Thị trường đang nghĩ gì?",
+   "tra_loi": "Thị trường lo hơn mặt chữ của báo: giọng chữ báo chí 65 điểm (tích cực) nhưng tâm lý tổng hợp -32 (lo ngại); khi đọc kỹ, tin bề mặt +6 mà hàm ý -10, riêng diễn đàn hàm ý -38. Mối lo số một là lãi suất và tín dụng.",
+   "loai_nhan": "du_kien",
+   "do_tin_cay": "trung_binh",
+   "danh_gia": "xau",
+   "nguon": "Đồng hồ tâm lý và đọc hàm ý tin, dữ liệu Hub 06:02 18/10"
+  },
+  {
+   "cau": "Thực tế có xác nhận không?",
+   "tra_loi": "Mới xác nhận một phần: Vietcombank cam kết giảm tối thiểu 2 điểm phần trăm lãi vay đến cuối năm và BIDV giảm tới 2 điểm phần trăm cho chương trình ưu đãi, nhưng lợi suất trái phiếu Chính phủ 10 năm gần như đứng yên ở 4,47% (giảm 0,7 điểm cơ bản trong tuần) và kho chưa có số liệu bơm hút thị trường mở hay lãi suất liên ngân hàng.",
+   "loai_nhan": "du_kien",
+   "do_tin_cay": "trung_binh",
+   "danh_gia": "trung_tinh",
+   "nguon": "Tin ngân hàng 17/10; lợi suất trái phiếu 16/10"
+  },
+  {
+   "cau": "Dòng tiền đã xác nhận chưa?",
+   "tra_loi": "Chưa: VN-Index nằm dưới cả MA20 (1.754,09), MA50 (1.776,30) và MA200 (1.797,26); giá trị giao dịch bình quân 5 phiên 13.182,4 tỷ đồng, bằng 0,84 lần bình quân 20 phiên; khối ngoại bán ròng 2.879,1 tỷ đồng. Riêng nhóm ngân hàng nhích 1,34% bình quân trong 5 phiên, là chỗ duy nhất có giá phản ứng với câu chuyện lãi suất.",
+   "loai_nhan": "du_kien",
+   "do_tin_cay": "cao",
+   "danh_gia": "xau",
+   "nguon": "Giá và giao dịch HOSE đến 16/10"
+  },
+  {
+   "cau": "Có gì bất thường hoặc đáng ngại?",
+   "tra_loi": "Có ba điểm vênh: yêu cầu giảm lãi vay đến trong lúc giá dầu Brent ở 126,55 USD/thùng và VIX Mỹ tăng 34,7% trong tuần; ngân hàng bị đặt gánh giảm lãi nhưng cổ phiếu ngân hàng lại tăng giá trong khi khối ngoại bán ròng 872,0 tỷ đồng ở 11 mã ngân hàng được nhắc nhiều; thông điệp mở cửa thị trường vốn đi cùng đợt bán ròng của khối ngoại.",
+   "loai_nhan": "suy_luan",
+   "do_tin_cay": "trung_binh",
+   "danh_gia": "xau",
+   "nguon": "Chỉ số quốc tế 14 đến 16/10; giao dịch khối ngoại 12 đến 16/10"
+  },
+  {
+   "cau": "Kết luận và kịch bản",
+   "tra_loi": "Đã xác nhận: Chính phủ ưu tiên hạ lãi vay và ngân hàng quốc doanh đi đầu. Còn là giả thuyết: dư địa nới tiền tệ chính thức hẹp và biên lãi ròng ngân hàng sẽ chịu áp lực từ quý IV. Kịch bản Cơ sở (55%) là thị trường dao động dưới MA20 trong vùng đáy; tín hiệu cần theo dõi là hành động của Ngân hàng Nhà nước, tỷ giá trung tâm và dòng bán của khối ngoại.",
+   "loai_nhan": "gia_thuyet",
+   "do_tin_cay": "trung_binh",
+   "danh_gia": "chua_ro",
+   "nguon": "Tổng hợp các mục trên"
+  }
+ ],
+ "ham_y": [
+  {
+   "ham_y": "Chính phủ đang hạ chi phí vốn bằng kênh hành chính qua ngân hàng vì dư địa nới tiền tệ chính thức còn hẹp.",
+   "loai_nhan": "gia_thuyet",
+   "do_tin_cay": "trung_binh",
+   "bang_chung": [
+    {
+     "text": "Yêu cầu giảm lãi suất cho vay 1,5 đến 2 điểm phần trăm với sản xuất kinh doanh, 9 nguồn cùng đưa.",
+     "nguon": "https://vneconomy.vn/pho-thu-tuong-yeu-cau-giam-lai-suat-cho-vay-15-2-doi-voi-san-xuat-kinh-doanh.htm",
+     "thoi_diem": "2026-10-17 10:33"
+    },
+    {
+     "text": "Vietcombank cam kết giảm tối thiểu 2 điểm phần trăm đến cuối năm; BIDV giảm tới 2 điểm phần trăm, 16 bài nhắc lại trong 48 giờ.",
+     "nguon": "https://thoibaonganhang.vn/bidv-giam-lai-suat-cho-vay-toi-20nam-189194.html",
+     "thoi_diem": "2026-10-17 17:46"
+    },
+    {
+     "text": "Giá dầu Brent 126,55 USD/thùng; tỷ giá trung tâm 25.637 đồng; lãi suất Fed trần 4,0%, lợi suất Mỹ 10 năm 5,09%.",
+     "nguon": "Chỉ số vĩ mô trong kho Hub",
+     "thoi_diem": "2026-10-14 đến 2026-10-17"
+    }
+   ],
+   "tac_dong": "Lãi suất cho vay giảm trước ở ngân hàng quốc doanh, biên lãi ròng ngân hàng chịu áp lực từ quý IV/2026 đến nửa đầu 2027; tỷ giá và lãi suất điều hành ít đổi; độ trễ vài tuần với lãi vay, vài quý với lợi nhuận ngân hàng.",
+   "xac_nhan_neu": "Trong 4 tuần tới Ngân hàng Nhà nước không đổi lãi suất điều hành, tỷ giá trung tâm tiếp tục nhích lên và các ngân hàng tư nhân lớn công bố giảm lãi vay theo.",
+   "bac_bo_neu": "Ngân hàng Nhà nước hạ lãi suất điều hành hoặc bơm ròng lớn qua thị trường mở trong tháng 11/2026."
+  },
+  {
+   "ham_y": "Ngân hàng là nơi gánh chi phí của chính sách, nhưng giá cổ phiếu ngân hàng đang được đọc theo chiều tăng tín dụng nhiều hơn chiều mất biên lãi.",
+   "loai_nhan": "suy_luan",
+   "do_tin_cay": "trung_binh",
+   "bang_chung": [
+    {
+     "text": "11 mã ngân hàng được nhắc nhiều nhất có 206 lượt nhắc, giá tăng bình quân 1,34% trong 5 phiên khi VN-Index giảm 1,68%.",
+     "nguon": "Bản tin mã trong kho Hub",
+     "thoi_diem": "2026-10-12 đến 2026-10-16"
+    },
+    {
+     "text": "Cùng nhóm đó khối ngoại bán ròng 872,0 tỷ đồng; thanh khoản bình quân chỉ 0,76 lần bình quân 20 phiên.",
+     "nguon": "Giao dịch HOSE",
+     "thoi_diem": "2026-10-16"
+    },
+    {
+     "text": "Vietcombank, ngân hàng cam kết giảm lãi sâu nhất, có tỷ lệ bài lo lắng 19% cao hơn tỷ lệ hưng phấn 12%, thanh khoản 0,52 lần bình quân.",
+     "nguon": "https://vnexpress.net/chu-tich-vietcombank-cam-ket-giam-toi-thieu-2-lai-suat-cho-vay-5133686.html",
+     "thoi_diem": "2026-10-17"
+    }
+   ],
+   "tac_dong": "Nhóm ngân hàng: ngắn hạn được hỗ trợ bởi câu chuyện tín dụng, trung hạn rủi ro điều chỉnh khi kết quả quý IV phản ánh biên lãi ròng; độ trễ vài quý.",
+   "xac_nhan_neu": "Báo cáo quý III và quý IV cho thấy biên lãi ròng các ngân hàng quốc doanh giảm, hoặc khối ngoại tiếp tục bán ròng nhóm ngân hàng thêm 2 tuần.",
+   "bac_bo_neu": "Tăng trưởng tín dụng đến cuối năm bù được phần giảm lãi, biên lãi ròng giữ ổn định trong báo cáo quý IV."
+  },
+  {
+   "ham_y": "Siết thanh toán tiền mặt khi mua bán vàng là bước kéo dòng tiền đầu cơ ra khỏi vàng và minh bạch hóa nó, có thể đẩy một phần tiền nhàn rỗi về kênh khác.",
+   "loai_nhan": "gia_thuyet",
+   "do_tin_cay": "thap",
+   "bang_chung": [
+    {
+     "text": "Nghị định 390/2026/NĐ-CP sửa đổi quản lý kinh doanh vàng, hiệu lực 16/10/2026; mỗi giao dịch vàng từ 5 triệu đồng trở lên trong ngày bắt buộc chuyển khoản.",
+     "nguon": "https://nhandan.vn/tu-16102026-mua-ban-vang-trong-ngay-tu-5-trieu-dong-phai-thanh-toan-khong-dung-tien-mat-post996100.html",
+     "thoi_diem": "2026-10-17 18:54"
+    },
+    {
+     "text": "Vàng và hàng hóa là chủ đề thứ 4 với 224 bài, 79 bài tiêu cực so với 62 bài tích cực.",
+     "nguon": "Số bài theo chủ đề",
+     "thoi_diem": "2026-10-12 đến 2026-10-16"
+    }
+   ],
+   "tac_dong": "Kênh vàng vật chất kém hấp dẫn với dòng tiền tiền mặt; hỗ trợ tiền gửi và thanh khoản hệ thống ngân hàng; tác động lên chứng khoán chậm và chưa chắc chắn; độ trễ vài tuần đến vài quý.",
+   "xac_nhan_neu": "Chênh lệch giá vàng trong nước với thế giới thu hẹp và tiền gửi dân cư tăng trong số liệu tháng 10, tháng 11.",
+   "bac_bo_neu": "Chênh lệch giá vàng không đổi sau 1 tháng, giao dịch chuyển sang kênh phi chính thức."
+  },
+  {
+   "ham_y": "Thông điệp mở cửa và nâng chuẩn thị trường vốn đang đi trước dòng vốn ngoại, chưa được khối ngoại xác nhận.",
+   "loai_nhan": "suy_luan",
+   "do_tin_cay": "trung_binh",
+   "bang_chung": [
+    {
+     "text": "Thông tư 145/2026 về đăng ký, lưu ký, bù trừ, thanh toán chứng khoán; ba dự án luật cắt giảm điều kiện kinh doanh; Hiệp định với EFTA sắp ký.",
+     "nguon": "https://thoibaotaichinhvietnam.vn/nang-chuan-ha-tang-sau-giao-dich-cung-co-suc-hut-thi-tru",
+     "thoi_diem": "2026-10-17"
+    },
+    {
+     "text": "Khối ngoại bán ròng 2.879,1 tỷ đồng trong 5 phiên, bán mạnh VIC 416,4 tỷ, TCB 282,6 tỷ; chủ đề nâng hạng chỉ 21 bài.",
+     "nguon": "https://www.tinnhanhchungkhoan.vn/giao-dich-chung-khoan-khoi-ngoai-tuan-12-1610-nhieu-co-phieu-nganh-tai-chinh-bi-ban-manh-post399642.html",
+     "thoi_diem": "2026-10-12 đến 2026-10-16"
+    }
+   ],
+   "tac_dong": "Thị trường chứng khoán và công ty chứng khoán: hỗ trợ dài hạn, chưa có tác động ngắn hạn; tỷ giá chịu áp lực khi khối ngoại bán ròng kéo dài; độ trễ vài quý.",
+   "xac_nhan_neu": "Khối ngoại chuyển sang mua ròng 2 tuần liên tiếp trong tháng 11/2026.",
+   "bac_bo_neu": "Khối ngoại bán ròng thêm trên 3.000 tỷ đồng trong 2 tuần tới dù có thêm văn bản hỗ trợ."
+  }
+ ],
+ "muc": [
+  {
+   "tieu_de": "1. Thị trường đang nghĩ gì, ngành và cổ phiếu được quan tâm",
+   "khoi": [
+    {
+     "loai": "the_so",
+     "items": [
+      {
+       "so": "1.999",
+       "nhan": "Bài bốn lĩnh vực trong 5 phiên"
+      },
+      {
+       "so": "65",
+       "nhan": "Giọng chữ báo chí (0 đến 100), tích cực"
+      },
+      {
+       "so": "-32",
+       "nhan": "Tâm lý tổng hợp, lo ngại"
+      },
+      {
+       "so": "0,84 lần",
+       "nhan": "Thanh khoản 5 phiên so bình quân 20 phiên"
+      }
+     ]
+    },
+    {
+     "loai": "doan",
+     "text": "Báo chí viết nhiều về chính sách và lãi suất, nhưng người đọc đang lo. Trong 5 phiên 12/10 đến 16/10 có 1.999 bài thuộc bốn lĩnh vực, 758 bài tích cực và 404 bài tiêu cực, nên giọng chữ trên báo ở mức 65. Khi đọc hàm ý, tin bề mặt +6 nhưng điều tin ngầm cho thấy là -10, còn trên diễn đàn F247 hàm ý xuống -38. Độ vênh này là tín hiệu: nhà đầu tư không tin lời trấn an của mặt chữ."
+    },
+    {
+     "loai": "bang",
+     "cot": [
+      "Ngành",
+      "Số lần nhắc",
+      "Giọng chủ đạo",
+      "Câu chuyện chính",
+      "So với lần trước",
+      "Dòng tiền ngành"
+     ],
+     "hang": [
+      [
+       "Tài chính",
+       "825",
+       "Nghiêng tích cực (300 tích cực, 193 tiêu cực)",
+       "Chính sách lãi vay, kỳ họp Quốc hội, quy định thanh toán vàng",
+       "Tăng, kỳ trước chưa đủ dữ liệu",
+       "Không có mã đại diện riêng"
+      ],
+      [
+       "Bất động sản",
+       "824",
+       "Nghiêng tích cực (321 tích cực, 127 tiêu cực)",
+       "Hạ tầng lớn, nhà ở, áp lực lãi vay với người mua",
+       "Tăng, kỳ trước chưa đủ dữ liệu",
+       "5 mã đầu: giá bình quân -2,52%, thanh khoản 0,61 lần bình quân 20 phiên, khối ngoại bán ròng 579,2 tỷ"
+      ],
+      [
+       "Ngân hàng",
+       "521",
+       "Nghiêng tích cực (234 tích cực, 109 tiêu cực)",
+       "Giảm lãi vay, tăng vốn, kết quả quý III",
+       "Tăng, kỳ trước chưa đủ dữ liệu",
+       "11 mã: giá bình quân +1,34%, thanh khoản 0,76 lần, khối ngoại bán ròng 872,0 tỷ"
+      ],
+      [
+       "Chứng khoán",
+       "487",
+       "Hai chiều (161 tích cực, 153 tiêu cực)",
+       "Chỉ số giảm qua mốc 1.700, thanh khoản thấp, khung pháp lý sau giao dịch",
+       "Tăng, kỳ trước chưa đủ dữ liệu",
+       "SSI, VCI: giá bình quân +2,27%, thanh khoản 0,60 lần, khối ngoại bán ròng 156,8 tỷ"
+      ],
+      [
+       "Vàng và trang sức",
+       "224",
+       "Nghiêng tiêu cực (62 tích cực, 79 tiêu cực)",
+       "Giá vàng biến động, quy định thanh toán không dùng tiền mặt",
+       "Tăng, kỳ trước chưa đủ dữ liệu",
+       "PNJ: giá -3,59%, thanh khoản 0,34 lần, khối ngoại bán ròng 84,7 tỷ"
+      ],
+      [
+       "Thép",
+       "7 tin nổi bật ngày 16/10",
+       "Trung tính",
+       "Kết quả quý III khởi sắc, khối ngoại mua lại",
+       "Nổi lên trong tuần",
+       "HPG được khối ngoại mua ròng 52,0 tỷ"
+      ]
+     ]
+    },
+    {
+     "loai": "nguon",
+     "text": "Số lần nhắc: báo chí bốn lĩnh vực, gộp tin trùng, khung 12/10 đến 16/10; dòng tiền: giá HOSE ngày 16/10. Kho mới đủ 4 ngày cào liên tục nên cột so với lần trước chỉ mang tính tham khảo."
+    },
+    {
+     "loai": "bang",
+     "cot": [
+      "Mã",
+      "Số lần nhắc",
+      "Giọng",
+      "Lý do được nhắc",
+      "Giá 5 phiên (%)",
+      "Giá trị giao dịch so bình quân 20 phiên",
+      "Khối ngoại (tỷ đồng)",
+      "Đánh giá"
+     ],
+     "hang": [
+      [
+       "VIC",
+       "40",
+       "Hưng phấn 35%, lo lắng 22%",
+       "Kết quả kinh doanh, pháp lý, dự án",
+       "-4,66",
+       "0,70 lần",
+       "-416,4",
+       "Nghĩ tốt, tiền chưa vào"
+      ],
+      [
+       "VHM",
+       "32",
+       "Hưng phấn 25%, lo lắng 25%",
+       "Dự án, kết quả kinh doanh, phát hành",
+       "-7,58",
+       "0,63 lần",
+       "-152,4",
+       "Đang bị lo ngại"
+      ],
+      [
+       "HDB",
+       "28",
+       "Hưng phấn 43%, lo lắng 14%",
+       "Kết quả kinh doanh, phát hành và tăng vốn",
+       "+1,79",
+       "0,83 lần",
+       "-125,1",
+       "Nghĩ tốt, tiền chưa vào"
+      ],
+      [
+       "SHB",
+       "26",
+       "Hưng phấn 54%, lo lắng 8%",
+       "Thoái vốn công ty tài chính, trái phiếu, phát hành",
+       "+6,50",
+       "1,06 lần",
+       "+25,6",
+       "Nghĩ tốt, tiền đã vào"
+      ],
+      [
+       "TCB",
+       "26",
+       "Hưng phấn 54%, lo lắng 12%",
+       "Tăng vốn điều lệ, kết quả kinh doanh",
+       "+2,63",
+       "0,61 lần",
+       "-282,6",
+       "Nghĩ tốt, tiền chưa vào"
+      ],
+      [
+       "VPB",
+       "22",
+       "Hưng phấn 45%, lo lắng 18%",
+       "Kết quả kinh doanh, phát hành",
+       "+2,94",
+       "0,83 lần",
+       "-96,3",
+       "Nghĩ tốt, tiền chưa vào"
+      ],
+      [
+       "BID",
+       "21",
+       "Hưng phấn 57%, lo lắng 0%",
+       "Kết quả kinh doanh, chương trình giảm lãi vay",
+       "+0,15",
+       "0,92 lần",
+       "-95,1",
+       "Nghĩ tốt, tiền chưa vào"
+      ],
+      [
+       "VCB",
+       "16",
+       "Hưng phấn 12%, lo lắng 19%",
+       "Cam kết giảm lãi vay, nhân sự",
+       "+0,35",
+       "0,52 lần",
+       "-68,7",
+       "Đang bị lo ngại"
+      ],
+      [
+       "ACB",
+       "16",
+       "Hưng phấn 31%, lo lắng 6%",
+       "Lãi suất, công ty con",
+       "+2,23",
+       "0,68 lần",
+       "-120,5",
+       "Nghĩ tốt, tiền chưa vào"
+      ],
+      [
+       "CTG",
+       "15",
+       "Hưng phấn 20%, lo lắng 0%",
+       "Kết quả kinh doanh, phát hành, dự án",
+       "+3,73",
+       "1,44 lần",
+       "-32,9",
+       "Tiền vào trước câu chuyện"
+      ]
+     ]
+    },
+    {
+     "loai": "nguon",
+     "text": "Số lần nhắc trên báo chí 5 phiên; giọng là tỷ lệ bài hưng phấn và lo lắng trên số bài nhắc mã; giá và khối ngoại HOSE đến 16/10."
+    },
+    {
+     "loai": "duong",
+     "tieu_de": "Số bài mỗi phiên của ba chủ đề nóng nhất tăng dần suốt tuần",
+     "nhan": [
+      "12/10",
+      "13/10",
+      "14/10",
+      "15/10",
+      "16/10"
+     ],
+     "chuoi": [
+      {
+       "ten": "Vĩ mô và chính sách",
+       "gia_tri": [
+        16,
+        32,
+        47,
+        57,
+        58
+       ]
+      },
+      {
+       "ten": "Lãi suất và tín dụng",
+       "gia_tri": [
+        18,
+        28,
+        59,
+        52,
+        59
+       ]
+      },
+      {
+       "ten": "Pháp lý, thanh tra, xử phạt",
+       "gia_tri": [
+        18,
+        22,
+        41,
+        33,
+        38
+       ]
+      }
+     ],
+     "chu_thich": "Số bài đếm theo phiên, đã gộp tin trùng. Một phần đà tăng có thể do kho mới bắt đầu cào đủ nguồn từ 15/10."
+    },
+    {
+     "loai": "dong_ho",
+     "diem": 34,
+     "nhan": "Lo ngại",
+     "mo_ta": "Điểm gốc -32 trên thang -100 đến +100; tâm lý tuần -33, giọng tin và diễn đàn -47, hàm ý chính sách -15."
+    },
+    {
+     "loai": "danh_sach",
+     "items": [
+      {
+       "dam": "Vĩ mô và chính sách:",
+       "text": "303 bài, hạng nhất; 24 giờ gần nhất gấp 1,44 lần bình quân; bề mặt -17, hàm ý -33."
+      },
+      {
+       "dam": "Lãi suất và tín dụng:",
+       "text": "274 bài, hạng nhì; là mối lo số một trong các tin bị đọc là xấu (9 trên 45 mục)."
+      },
+      {
+       "dam": "Pháp lý, thanh tra, xử phạt:",
+       "text": "226 bài, nóng lên nhanh nhất, 69 bài trong 24 giờ, gấp 1,53 lần bình quân."
+      }
+     ]
+    },
+    {
+     "loai": "nhan_dinh",
+     "cau": [
+      "Thị trường đang đặt cược vào câu chuyện lãi vay giảm, và đặt cược ấy mới hiện ra ở nhóm ngân hàng.",
+      "Ngân hàng chiếm 7 trên 10 mã được nhắc nhiều nhất và là nhóm duy nhất tăng giá bình quân trong 5 phiên.",
+      "Bất động sản được nhắc nhiều nhưng giá giảm và khối ngoại bán ròng, nên là nhóm đang bị lo ngại chứ chưa bị bỏ quên.",
+      "Thép có thể là dòng dẫn kế tiếp nếu kết quả quý III xác nhận và khối ngoại tiếp tục mua HPG.",
+      "Số lần nhắc cao ở VIC, TCB, HDB không đi kèm thanh khoản tăng, nên chưa thể nói tiền đã vào."
+     ]
+    }
+   ]
+  },
+  {
+   "tieu_de": "2. Thông điệp Chính phủ và ưu tiên",
+   "khoi": [
+    {
+     "loai": "doan",
+     "text": "Ưu tiên số một là hạ chi phí vốn cho khu vực sản xuất, ưu tiên thứ hai là cải cách thể chế và đầu tư công có trọng tâm cho năm 2027. Trong 5 phiên có 284 tin Chính phủ, 103 tin chính sách mới, 44 tin của Ngân hàng Nhà nước và 31 tin của Bộ Tài chính; 14 văn bản mới và dự thảo, trong đó 2 văn bản chạm tới bốn lĩnh vực."
+    },
+    {
+     "loai": "bang",
+     "cot": [
+      "Ai nói",
+      "Loại",
+      "Nội dung chính",
+      "Từ ngữ, ràng buộc"
+     ],
+     "hang": [
+      [
+       "Phó Thủ tướng",
+       "Chỉ đạo",
+       "Hạ lãi vay 1,5 đến 2 điểm phần trăm cho doanh nghiệp sản xuất và các lĩnh vực được ưu tiên",
+       "Yêu cầu, không phải khuyến nghị; nhắm vào ngân hàng thương mại"
+      ],
+      [
+       "Vietcombank, BIDV",
+       "Cam kết, chương trình",
+       "Giảm tối thiểu 2 điểm phần trăm đến cuối năm; chương trình ưu đãi giảm tới 2 điểm phần trăm",
+       "Ngân hàng quốc doanh đi đầu"
+      ],
+      [
+       "Chính phủ",
+       "Nghị định 390/2026/NĐ-CP",
+       "Sửa đổi quản lý kinh doanh vàng, giao dịch từ 5 triệu đồng trong ngày phải chuyển khoản",
+       "Minh bạch, kiểm soát dòng tiền đầu cơ"
+      ],
+      [
+       "Thủ tướng Lê Minh Hưng",
+       "Báo cáo trước Quốc hội",
+       "Kinh tế xã hội 2026, kế hoạch 2027: đầu tư có trọng tâm, vốn theo kết quả, điều chuyển từ nơi giải ngân chậm",
+       "Kỷ luật giải ngân; dữ liệu Hub không có các mục tiêu bằng số"
+      ],
+      [
+       "Bộ Tài chính",
+       "Thông tư, dự án luật",
+       "Thông tư 145/2026 về hạ tầng sau giao dịch chứng khoán; sửa ba luật cắt giảm điều kiện kinh doanh; luật mới về doanh nghiệp nhỏ và vừa",
+       "Cắt giảm thủ tục, nâng chuẩn thị trường vốn"
+      ],
+      [
+       "Chính phủ",
+       "Đối ngoại kinh tế",
+       "Chuẩn bị ký hiệp định thương mại tự do với EFTA",
+       "Mở rộng xuất khẩu, hút vốn đầu tư"
+      ]
+     ]
+    },
+    {
+     "loai": "nguon",
+     "text": "Tin Chính phủ, Bộ Tài chính, Ngân hàng Nhà nước trong kho Hub, 12/10 đến 17/10/2026."
+    },
+    {
+     "loai": "nhan_dinh",
+     "cau": [
+      "Thông điệp dồn vào tăng trưởng và chi phí vốn, trong khi chữ ổn định vĩ mô và kiểm soát lạm phát gần như vắng mặt trong dòng tin.",
+      "Chủ đề điều hành tiền tệ chỉ có 18 bài trong 5 phiên, hạng 15 trên 18, dù lãi suất là mối lo số một.",
+      "Cách làm là yêu cầu ngân hàng chứ chưa phải đổi công cụ điều hành, đây là điểm cần đọc kỹ."
+     ]
+    }
+   ]
+  },
+  {
+   "tieu_de": "3. Ma trận nhất quán",
+   "khoi": [
+    {
+     "loai": "bang",
+     "cot": [
+      "Thông điệp",
+      "Mục tiêu",
+      "Hành động thực tế",
+      "Khớp hay vênh"
+     ],
+     "hang": [
+      [
+       "Giảm lãi vay cho sản xuất",
+       "Giảm 1,5 đến 2 điểm phần trăm",
+       "Vietcombank, BIDV công bố giảm; lãi suất tái cấp vốn trong kho vẫn ở 4,5%",
+       "Khớp ở ngân hàng quốc doanh, chưa thấy ở công cụ điều hành"
+      ],
+      [
+       "Hạ mặt bằng chi phí vốn",
+       "Lãi suất thị trường đi xuống",
+       "Lợi suất trái phiếu Chính phủ 10 năm 4,47%, chỉ giảm 0,7 điểm cơ bản trong tuần",
+       "Vênh nhẹ, thị trường trái phiếu chưa phản ứng"
+      ],
+      [
+       "Ổn định tỷ giá",
+       "Không nêu bằng số trong dòng tin",
+       "Tỷ giá trung tâm 25.637 đồng ngày 17/10; giá bán USD tại Vietcombank được ghi nhận 25.870 đến 26.080 đồng tùy nguồn",
+       "Chưa rõ, số liệu tỷ giá trong kho chưa thống nhất"
+      ],
+      [
+       "Kiểm soát lạm phát",
+       "Không nêu bằng số trong dòng tin",
+       "Giá dầu Brent 126,55 USD/thùng; chưa có số CPI trong kho",
+       "Vênh, áp lực giá đầu vào cao mà chính sách nghiêng về nới"
+      ],
+      [
+       "Mở cửa, nâng chuẩn thị trường vốn",
+       "Hút vốn ngoại",
+       "Khối ngoại bán ròng 2.879,1 tỷ đồng trong 5 phiên",
+       "Vênh"
+      ],
+      [
+       "Đầu tư công có trọng tâm 2027",
+       "Phân bổ theo kết quả giải ngân",
+       "Chưa có số giải ngân trong kho",
+       "Chưa kiểm chứng được"
+      ]
+     ]
+    },
+    {
+     "loai": "nguon",
+     "text": "Chỉ số vĩ mô và giao dịch trong kho Hub, 14/10 đến 17/10/2026; kho chưa có số liệu thị trường mở, tín phiếu, lãi suất liên ngân hàng và tăng trưởng tín dụng."
+    },
+    {
+     "loai": "nhan_dinh",
+     "cau": [
+      "Thông điệp và hành động khớp ở tầng ngân hàng quốc doanh, vênh ở tầng thị trường.",
+      "Lãi suất trái phiếu, tỷ giá và dòng vốn ngoại chưa xác nhận câu chuyện lãi vay giảm.",
+      "Giá dầu cao là ràng buộc lớn nhất khiến Ngân hàng Nhà nước khó nới công cụ chính thức."
+     ]
+    }
+   ]
+  },
+  {
+   "tieu_de": "4. Tác động theo kênh",
+   "khoi": [
+    {
+     "loai": "bang",
+     "cot": [
+      "Kênh",
+      "Hướng tác động",
+      "Độ trễ",
+      "Bằng chứng"
+     ],
+     "hang": [
+      [
+       "Lãi suất cho vay",
+       "Giảm ở khoản vay sản xuất, ưu tiên",
+       "Vài tuần",
+       "Cam kết của Vietcombank, BIDV ngày 17/10"
+      ],
+      [
+       "Biên lãi ròng ngân hàng",
+       "Bất lợi",
+       "Vài quý",
+       "Giảm lãi vay đi trước, lãi huy động chưa có tin giảm tương ứng"
+      ],
+      [
+       "Tỷ giá",
+       "Áp lực tăng nhẹ",
+       "Vài tuần",
+       "Khối ngoại bán ròng, lợi suất Mỹ 10 năm 5,09%; DXY giảm 0,46% giúp giảm bớt"
+      ],
+      [
+       "Lạm phát",
+       "Rủi ro tăng",
+       "Vài quý",
+       "Brent 126,55 USD/thùng, WTI 101,91 USD/thùng"
+      ],
+      [
+       "Thanh khoản chứng khoán",
+       "Yếu",
+       "Ngay",
+       "Giá trị giao dịch 5 phiên 13.182,4 tỷ đồng, 0,84 lần bình quân 20 phiên"
+      ],
+      [
+       "Dòng tiền vàng",
+       "Bị thu hẹp kênh tiền mặt",
+       "Vài tuần",
+       "Nghị định 390/2026 hiệu lực 16/10"
+      ],
+      [
+       "Tài khóa, đầu tư công",
+       "Chọn lọc hơn năm 2027",
+       "Vài quý",
+       "Báo cáo kế hoạch 2027 trước Quốc hội ngày 17/10"
+      ]
+     ]
+    },
+    {
+     "loai": "nhan_dinh",
+     "cau": [
+      "Kênh truyền dẫn nhanh nhất là lãi vay, kênh chậm nhưng nặng nhất là biên lãi ngân hàng và lạm phát.",
+      "Thị trường chứng khoán đang chịu tác động qua thanh khoản và khối ngoại nhiều hơn qua câu chuyện lãi suất."
+     ]
+    }
+   ]
+  },
+  {
+   "tieu_de": "5. Nhóm ngành liên quan",
+   "khoi": [
+    {
+     "loai": "danh_sach",
+     "items": [
+      {
+       "dam": "Hưởng lợi:",
+       "text": "doanh nghiệp sản xuất vay nhiều, khu công nghiệp và FDI (50 bài, 25 tích cực, 5 tiêu cực), xây dựng hạ tầng nếu đầu tư công 2027 tập trung."
+      },
+      {
+       "dam": "Hai mặt:",
+       "text": "ngân hàng, được câu chuyện tín dụng nhưng mất biên lãi; bất động sản, được lãi vay thấp hơn nhưng thanh khoản nhà ở còn yếu."
+      },
+      {
+       "dam": "Chịu thiệt:",
+       "text": "kinh doanh vàng và trang sức vì quy định thanh toán mới; doanh nghiệp nhạy giá dầu ở đầu vào."
+      },
+      {
+       "dam": "Đang bị lo ngại:",
+       "text": "cổ phiếu có giá sụt mạnh như KOS (giảm 30,24% trong 5 phiên) và PNJ (83% bài nhắc mang giọng lo lắng)."
+      }
+     ]
+    },
+    {
+     "loai": "nhan_dinh",
+     "cau": [
+      "Nhóm hưởng lợi rõ nhất là khu vực sản xuất vay vốn, không phải ngân hàng.",
+      "Ngân hàng tăng giá vì câu chuyện, nhưng phần chi phí của chính sách đang nằm ở chính nhóm này."
+     ]
+    }
+   ]
+  }
+ ],
+ "kich_ban": [
+  {
+   "ten": "Cơ sở",
+   "xac_suat": "55%",
+   "dieu_kien": "Lãi vay giảm dần ở ngân hàng quốc doanh, Ngân hàng Nhà nước giữ công cụ điều hành, khối ngoại bán ròng chậm lại; tâm lý tổng hợp quanh -32.",
+   "tac_dong": "VN-Index dao động trong vùng đáy, dưới MA20 1.754,09; ngân hàng giữ vai trò đỡ chỉ số."
+  },
+  {
+   "ten": "Tích cực",
+   "xac_suat": "25%",
+   "dieu_kien": "Có hướng dẫn thực thi giảm lãi vay lan sang ngân hàng tư nhân, khối ngoại giảm bán, tâm lý tổng hợp lên trên -10.",
+   "tac_dong": "VN-Index lấy lại MA50 1.776,30, thanh khoản trở lại trên bình quân 20 phiên."
+  },
+  {
+   "ten": "Tiêu cực",
+   "xac_suat": "20%",
+   "dieu_kien": "Giá dầu hoặc tỷ giá tăng nhanh, tin pháp lý lan rộng, tâm lý tổng hợp xuống dưới -50.",
+   "tac_dong": "VN-Index thử lại đáy 52 tuần 1.580,54; nhóm ngân hàng mất vai trò đỡ chỉ số."
+  }
+ ],
+ "theo_doi": [
+  {
+   "moc": "Hành động của Ngân hàng Nhà nước",
+   "thoi_diem": "Từ nay đến hết tháng 11/2026",
+   "can_xem": "Lãi suất điều hành, bơm hút thị trường mở, tín phiếu; có nới hay chỉ dùng kênh ngân hàng."
+  },
+  {
+   "moc": "Ngân hàng tư nhân hưởng ứng giảm lãi vay",
+   "thoi_diem": "2 đến 4 tuần tới",
+   "can_xem": "Mức giảm thực tế và lãi suất huy động đi kèm."
+  },
+  {
+   "moc": "Tỷ giá trung tâm và giá dầu",
+   "thoi_diem": "Hằng tuần",
+   "can_xem": "Tỷ giá trung tâm so mức 25.637 đồng; Brent so mức 126,55 USD/thùng."
+  },
+  {
+   "moc": "Khối ngoại",
+   "thoi_diem": "Hằng tuần",
+   "can_xem": "Có chuyển sang mua ròng không, nhất là ở VIC, TCB, VHM."
+  },
+  {
+   "moc": "Kỳ họp Quốc hội và kế hoạch 2027",
+   "thoi_diem": "Trong kỳ họp",
+   "can_xem": "Mục tiêu tăng trưởng, lạm phát, bội chi; từ ngữ về chính sách tiền tệ."
+  },
+  {
+   "moc": "Kết quả quý III ngân hàng",
+   "thoi_diem": "Nửa cuối tháng 10/2026",
+   "can_xem": "Biên lãi ròng và tăng trưởng tín dụng."
+  }
+ ],
+ "ba_dieu": [
+  "Chính phủ hạ chi phí vốn bằng yêu cầu ngân hàng giảm lãi vay 1,5 đến 2 điểm phần trăm, chưa bằng nới công cụ điều hành.",
+  "Thị trường chưa tin: tâm lý -32, thanh khoản 0,84 lần bình quân, khối ngoại bán ròng 2.879,1 tỷ đồng trong 5 phiên.",
+  "Ngân hàng tăng giá nhờ câu chuyện nhưng là nơi gánh chi phí; giá dầu 126,55 USD là ràng buộc cần theo dõi nhất."
+ ],
+ "nhan_chuyen_muc": "THỊ TRƯỜNG VÀ CHÍNH PHỦ",
+ "tom_gon": {
+  "ket_luan": "Chính phủ muốn hạ lãi vay ngay bằng mệnh lệnh qua ngân hàng; dư địa nới tiền tệ hẹp vì giá dầu và tỷ giá. Thị trường lo (-32), thanh khoản thấp, khối ngoại bán ròng 2.879,1 tỷ đồng.",
+  "bieu_do_tieu_de": "Số bài mỗi phiên về vĩ mô, lãi suất và pháp lý tăng dần suốt tuần 12/10 đến 16/10",
+  "cot_trai": {
+   "tieu_de": "Chính phủ đang muốn gì",
+   "items": [
+    {
+     "dam": "Hạ chi phí vốn ngay.",
+     "text": "Yêu cầu giảm lãi vay 1,5 đến 2 điểm phần trăm cho sản xuất kinh doanh."
+    },
+    {
+     "dam": "Ngân hàng quốc doanh đi đầu.",
+     "text": "Vietcombank, BIDV cam kết giảm tới 2 điểm phần trăm."
+    },
+    {
+     "dam": "Minh bạch dòng tiền vàng.",
+     "text": "Giao dịch vàng từ 5 triệu đồng phải chuyển khoản từ 16/10."
+    },
+    {
+     "dam": "Đầu tư công chọn lọc 2027.",
+     "text": "Vốn theo kết quả, điều chuyển khỏi nơi giải ngân chậm."
+    }
+   ]
+  },
+  "cot_phai": {
+   "tieu_de": "Chỗ vênh cần theo dõi",
+   "danh_so": true,
+   "items": [
+    {
+     "dam": "Giá dầu cao:",
+     "text": "Brent 126,55 USD/thùng."
+    },
+    {
+     "dam": "Trái phiếu đứng yên:",
+     "text": "lợi suất 10 năm 4,47%."
+    },
+    {
+     "dam": "Khối ngoại bán:",
+     "text": "2.879,1 tỷ đồng trong 5 phiên."
+    },
+    {
+     "dam": "Ngân hàng gánh chi phí:",
+     "text": "biên lãi chịu áp lực."
+    },
+    {
+     "dam": "Thanh khoản thấp:",
+     "text": "0,84 lần bình quân 20 phiên."
+    }
+   ]
+  },
+  "the": {
+   "tieu_de": "Tín hiệu cần theo dõi",
+   "items": [
+    {
+     "tieu_de": "Ngân hàng Nhà nước",
+     "text": "Lãi suất điều hành, thị trường mở."
+    },
+    {
+     "tieu_de": "Tỷ giá trung tâm",
+     "text": "So mức 25.637 đồng."
+    },
+    {
+     "tieu_de": "Khối ngoại",
+     "text": "Chuyển mua ròng 2 tuần liền."
+    },
+    {
+     "tieu_de": "Ngân hàng tư nhân",
+     "text": "Có giảm lãi vay theo không."
+    }
+   ]
+  },
+  "bay_cau": [
+   "Chính phủ muốn hạ chi phí vốn để giữ tăng trưởng.",
+   "Thông điệp: lãi vay sẽ giảm, thể chế được cởi trói.",
+   "Thị trường lo: tâm lý -32, diễn đàn hàm ý -38.",
+   "Mới xác nhận ở ngân hàng quốc doanh, chưa ở trái phiếu.",
+   "Dòng tiền chưa vào: thanh khoản 0,84 lần, khối ngoại bán.",
+   "Vênh: giá dầu cao, ngân hàng gánh chi phí.",
+   "Cơ sở 55%: vùng đáy, dưới MA20."
+  ],
+  "ham_y": [
+   "Dư địa nới tiền tệ chính thức hẹp nên Chính phủ dùng kênh ngân hàng.",
+   "Ngân hàng tăng giá vì câu chuyện, nhưng biên lãi sẽ chịu áp lực.",
+   "Mở cửa thị trường vốn đi trước dòng vốn ngoại."
+  ],
+  "ba_dieu": [
+   "Lãi vay giảm bằng yêu cầu với ngân hàng, chưa bằng công cụ điều hành.",
+   "Tâm lý -32, thanh khoản 0,84 lần bình quân, khối ngoại bán ròng 2.879,1 tỷ đồng.",
+   "Giá dầu 126,55 USD và tỷ giá là ràng buộc cần theo dõi nhất."
+  ],
+  "nguon": "Nguồn: dữ liệu TVN Intelligence Hub đến 06:02 18/10/2026, báo chí, tin Chính phủ, HOSE. Không phải khuyến nghị đầu tư."
+ },
+ "gioi_han": [
+  "Kho chưa có số liệu thị trường mở, tín phiếu, lãi suất liên ngân hàng, tăng trưởng tín dụng, CPI và giải ngân đầu tư công, nên ma trận nhất quán còn ô chưa kiểm chứng.",
+  "Dữ liệu Hub không chứa các mục tiêu bằng số của kế hoạch 2027 (tăng trưởng, lạm phát, bội chi, nợ công); báo cáo không suy diễn các con số này.",
+  "Lãi suất tái cấp vốn trong kho có ngày cập nhật 19/6/2023, có thể đã cũ.",
+  "Giá bán USD tại Vietcombank trong kho có hai số khác nhau (25.870 và 26.080 đồng) cho cùng ngày 16/10; báo cáo dùng tỷ giá trung tâm làm mốc.",
+  "Kho mới cào liên tục 4 ngày, các so sánh với kỳ trước chỉ mang tính tham khảo; tin cuối tuần 17/10 được đưa vào vì tác động tới phiên kế tiếp.",
+  "Sắc thái tin chấm trên tiêu đề và tóm tắt, không đọc toàn văn; HNX, UPCoM, tự doanh và mạng xã hội chưa có trong kho.",
+  "Không phải khuyến nghị đầu tư."
+ ],
+ "nguon": [
+  {
+   "ten": "VnEconomy",
+   "url": "https://vneconomy.vn/pho-thu-tuong-yeu-cau-giam-lai-suat-cho-vay-15-2-doi-voi-san-xuat-kinh-doanh.htm",
+   "thoi_diem": "2026-10-17 10:33",
+   "ghi_chu": "Chỉ đạo giảm lãi vay cho sản xuất kinh doanh"
+  },
+  {
+   "ten": "VietnamPlus",
+   "url": "https://www.vietnamplus.vn/yeu-cau-giam-lai-suat-cho-vay-tu-15-2-voi-san-xuat-kinh-doanh-va-linh-vuc-uu-tien-post1142479.vnp",
+   "thoi_diem": "2026-10-16 23:01",
+   "ghi_chu": "Cùng chỉ đạo, nguồn thứ hai"
+  },
+  {
+   "ten": "VnExpress",
+   "url": "https://vnexpress.net/chu-tich-vietcombank-cam-ket-giam-toi-thieu-2-lai-suat-cho-vay-5133686.html",
+   "thoi_diem": "2026-10-17",
+   "ghi_chu": "Cam kết của Vietcombank"
+  },
+  {
+   "ten": "Thời báo Ngân hàng",
+   "url": "https://thoibaonganhang.vn/bidv-giam-lai-suat-cho-vay-toi-20nam-189194.html",
+   "thoi_diem": "2026-10-17 17:46",
+   "ghi_chu": "Chương trình giảm lãi vay của BIDV"
+  },
+  {
+   "ten": "Nhân Dân",
+   "url": "https://nhandan.vn/tu-16102026-mua-ban-vang-trong-ngay-tu-5-trieu-dong-phai-thanh-toan-khong-dung-tien-mat-post996100.html",
+   "thoi_diem": "2026-10-17 18:54",
+   "ghi_chu": "Quy định thanh toán khi mua bán vàng"
+  },
+  {
+   "ten": "Xây dựng chính sách (Chính phủ)",
+   "url": "https://xaydungchinhsach.chinhphu.vn/nghi-dinh-so-390-2026-nd-cp-sua-doi-bo-sung-quy-dinh-",
+   "thoi_diem": "2026-10-17 18:28",
+   "ghi_chu": "Nghị định 390/2026/NĐ-CP"
+  },
+  {
+   "ten": "Xây dựng chính sách (Chính phủ)",
+   "url": "https://xaydungchinhsach.chinhphu.vn/toan-van-bao-cao-kinh-te-xa-hoi-2026-du-kien-ke-hoach",
+   "thoi_diem": "2026-10-17 11:28",
+   "ghi_chu": "Báo cáo kinh tế xã hội 2026, kế hoạch 2027"
+  },
+  {
+   "ten": "Thời báo Tài chính",
+   "url": "https://thoibaotaichinhvietnam.vn/nang-chuan-ha-tang-sau-giao-dich-cung-co-suc-hut-thi-tru",
+   "thoi_diem": "2026-10-17 15:44",
+   "ghi_chu": "Thông tư 145/2026"
+  },
+  {
+   "ten": "Tin nhanh Chứng khoán",
+   "url": "https://www.tinnhanhchungkhoan.vn/giao-dich-chung-khoan-khoi-ngoai-tuan-12-1610-nhieu-co-phieu-nganh-tai-chinh-bi-ban-manh-post399642.html",
+   "thoi_diem": "2026-10-17 09:28",
+   "ghi_chu": "Giao dịch khối ngoại tuần 12 đến 16/10"
+  },
+  {
+   "ten": "TVN Intelligence Hub",
+   "url": "https://jukytwo.github.io/tvn-hub/",
+   "thoi_diem": "2026-10-18 06:02",
+   "ghi_chu": "Số bài, tâm lý, giá, khối ngoại, chỉ số vĩ mô"
+  }
+ ],
+ "du_lieu_dau_vao": [
+  {
+   "thoi_diem": "2026-10-17 10:33",
+   "nguon": "VnEconomy",
+   "tieu_de": "Lãnh đạo Chính phủ đề nghị ngân hàng hạ lãi vay cho khu vực sản xuất",
+   "url": "https://vneconomy.vn/pho-thu-tuong-yeu-cau-giam-lai-suat-cho-vay-15-2-doi-voi-san-xuat-kinh-doanh.htm",
+   "giong": "tieu_cuc"
+  },
+  {
+   "thoi_diem": "2026-10-16 23:01",
+   "nguon": "VietnamPlus",
+   "tieu_de": "Chỉ đạo hạ lãi vay cho sản xuất và lĩnh vực ưu tiên, nguồn thứ hai",
+   "url": "https://www.vietnamplus.vn/yeu-cau-giam-lai-suat-cho-vay-tu-15-2-voi-san-xuat-kinh-doanh-va-linh-vuc-uu-tien-post1142479.vnp",
+   "giong": "trung_tinh"
+  },
+  {
+   "thoi_diem": "2026-10-17",
+   "nguon": "VnExpress",
+   "tieu_de": "Vietcombank hứa hạ lãi vay ít nhất 2 điểm phần trăm tới cuối năm",
+   "url": "https://vnexpress.net/chu-tich-vietcombank-cam-ket-giam-toi-thieu-2-lai-suat-cho-vay-5133686.html",
+   "giong": "tich_cuc"
+  },
+  {
+   "thoi_diem": "2026-10-17 17:46",
+   "nguon": "Thời báo Ngân hàng",
+   "tieu_de": "BIDV mở gói vay ưu đãi thấp hơn mức thường tới 2 điểm phần trăm",
+   "url": "https://thoibaonganhang.vn/bidv-giam-lai-suat-cho-vay-toi-20nam-189194.html",
+   "giong": "tich_cuc"
+  },
+  {
+   "thoi_diem": "2026-10-17 18:28",
+   "nguon": "Xây dựng chính sách",
+   "tieu_de": "Nghị định mới sửa quy định quản lý kinh doanh vàng có hiệu lực 16/10",
+   "url": "https://xaydungchinhsach.chinhphu.vn/nghi-dinh-so-390-2026-nd-cp-sua-doi-bo-sung-quy-dinh-",
+   "giong": "trung_tinh"
+  },
+  {
+   "thoi_diem": "2026-10-17 18:54",
+   "nguon": "Nhân Dân",
+   "tieu_de": "Giao dịch vàng giá trị lớn trong ngày buộc chuyển khoản",
+   "url": "https://nhandan.vn/tu-16102026-mua-ban-vang-trong-ngay-tu-5-trieu-dong-phai-thanh-toan-khong-dung-tien-mat-post996100.html",
+   "giong": "trung_tinh"
+  },
+  {
+   "thoi_diem": "2026-10-17 09:43",
+   "nguon": "Nhân Dân",
+   "tieu_de": "Quốc hội khóa XVI bắt đầu kỳ họp thứ hai",
+   "url": "https://nhandan.vn/khai-mac-trong-the-ky-hop-thu-hai-quoc-hoi-khoa-xvi-post995958.html",
+   "giong": "trung_tinh"
+  },
+  {
+   "thoi_diem": "2026-10-17 11:28",
+   "nguon": "Xây dựng chính sách",
+   "tieu_de": "Thủ tướng báo cáo Quốc hội tình hình 2026 và dự kiến kế hoạch 2027",
+   "url": "https://xaydungchinhsach.chinhphu.vn/toan-van-bao-cao-kinh-te-xa-hoi-2026-du-kien-ke-hoach",
+   "giong": "trung_tinh"
+  },
+  {
+   "thoi_diem": "2026-10-17 11:32",
+   "nguon": "Thời báo Tài chính",
+   "tieu_de": "Vốn đầu tư công 2027 sẽ chia theo kết quả, dồn khỏi nơi giải ngân chậm",
+   "url": "https://thoibaotaichinhvietnam.vn/nam-2027-dau-tu-co-trong-tam-phan-bo-von-theo-ket-qua-da",
+   "giong": "trung_tinh"
+  },
+  {
+   "thoi_diem": "2026-10-17 15:44",
+   "nguon": "Thời báo Tài chính",
+   "tieu_de": "Quy định mới nâng chuẩn khâu lưu ký, bù trừ, thanh toán chứng khoán",
+   "url": "https://thoibaotaichinhvietnam.vn/nang-chuan-ha-tang-sau-giao-dich-cung-co-suc-hut-thi-tru",
+   "giong": "tich_cuc"
+  },
+  {
+   "thoi_diem": "2026-10-17 17:55",
+   "nguon": "Báo Chính phủ",
+   "tieu_de": "Bộ Tài chính đề nghị sửa ba luật để bớt điều kiện kinh doanh",
+   "url": "https://baochinhphu.vn/sua-doi-bo-sung-3-du-an-luat-theo-huong-cat-giam-cac-dieu-kien-kinh",
+   "giong": "tich_cuc"
+  },
+  {
+   "thoi_diem": "2026-10-17 20:32",
+   "nguon": "Báo Chính phủ",
+   "tieu_de": "Việt Nam sắp ký hiệp định thương mại tự do với khối EFTA",
+   "url": "https://baochinhphu.vn/hiep-dinh-fta-viet-nam-efta-mo-rong-thi-truong-xuat-khau-thu-hut-do",
+   "giong": "tich_cuc"
+  },
+  {
+   "thoi_diem": "2026-10-17 18:35",
+   "nguon": "Thời báo Tài chính",
+   "tieu_de": "Dự luật mới cho doanh nghiệp nhỏ và vừa nhắm vào nút thắt tín dụng",
+   "url": "https://thoibaotaichinhvietnam.vn/go-nut-that-ve-von-mo-duong-cho-doanh-nghiep-nho-va-vua-",
+   "giong": "tich_cuc"
+  },
+  {
+   "thoi_diem": "2026-10-17 09:28",
+   "nguon": "Tin nhanh Chứng khoán",
+   "tieu_de": "Khối ngoại bán mạnh nhóm tài chính trong tuần 12 đến 16/10",
+   "url": "https://www.tinnhanhchungkhoan.vn/giao-dich-chung-khoan-khoi-ngoai-tuan-12-1610-nhieu-co-phieu-nganh-tai-chinh-bi-ban-manh-post399642.html",
+   "giong": "tieu_cuc"
+  },
+  {
+   "thoi_diem": "2026-10-17 14:20",
+   "nguon": "Vietstock",
+   "tieu_de": "Nhà đất Hà Nội kém thanh khoản khi người mua chịu sức ép lãi vay",
+   "url": "http://vietstock.vn/2026/10/thi-truong-bat-dong-san-ha-noi-giam-thanh-khoan-nha-dau-tu-chiu-ap-luc-lai-vay-4220-1503413.htm",
+   "giong": "tieu_cuc"
+  }
+ ]
+}
