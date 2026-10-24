@@ -1454,7 +1454,7 @@ function thuKhoa() {
 function napAuth() {
   return new Promise(res => {
     if (window.TVNAuth) return res(window.TVNAuth);
-    const s = document.createElement("script"); s.src = TK_GOC + "/tvn-auth.js"; s.dataset.app = "hub"; if (EMBED) s.dataset.dai = "0";
+    const s = document.createElement("script"); s.src = TK_GOC + "/tvn-auth.js"; s.dataset.app = "hub"; s.dataset.chip = "header.top .wrap"; if (EMBED) s.dataset.dai = "0";
     s.onload = () => res(window.TVNAuth || null); s.onerror = () => res(null); document.body.appendChild(s);
   });
 }
