@@ -1,0 +1,4 @@
+{
+  "bat_khoa": false,
+  "ghi_chu": "Cờ khóa trả phí của Hub. true: gỡ phần Tâm lý & chu kỳ khỏi gói công khai, chỉ người có quyền tam_ly xem qua máy chủ tài khoản. false: mở cho mọi người. Chỉ đúng giá trị true (không ngoặc kép) mới khóa. Có hiệu lực ở lượt đẩy dữ liệu Hub kế tiếp (VPS hub/github_push.py). Đổi bằng một commit sửa tệp này; không xóa tệp."
+}
