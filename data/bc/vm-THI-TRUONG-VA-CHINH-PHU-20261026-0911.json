@@ -1,0 +1,957 @@
+{
+ "phien_ban": 1,
+ "loai": "vi_mo",
+ "chu_the": "Thị trường và Chính phủ",
+ "ten_day_du": "Thị trường chứng khoán Việt Nam và thông điệp điều hành của Chính phủ",
+ "ngay": "2026-10-26T09:11:26+07:00",
+ "dau_vao": {
+  "yeu_cau": "Phiếu vi_mo: Thị trường và Chính phủ, gửi lúc 08:49 ngày 26/10/2026",
+  "khoang_thoi_gian": "5 phiên",
+  "tu_ngay": "2026-10-20",
+  "den_ngay": "2026-10-26",
+  "pham_vi": [
+   "Báo chí bốn lĩnh vực (ngân hàng, tài chính, chứng khoán, bất động sản)",
+   "Tin Chính phủ, Bộ Tài chính, Ngân hàng Nhà nước",
+   "Diễn đàn F247",
+   "Giá, thanh khoản, khối ngoại HOSE đến phiên 23/10/2026",
+   "Chỉ số vĩ mô trong nước và quốc tế"
+  ]
+ },
+ "cau_moc": "Báo viết sáng ở 70 điểm, đọc hàm ý chỉ còn +12 và La bàn ở −43: VN-Index hồi 4,0% trong 5 phiên mà khối ngoại bán ròng 1.060,5 tỷ đồng.",
+ "tieu_de": "Giá đã hồi 4,0% nhưng khối ngoại bán ròng 1.060,5 tỷ và hàm ý tin chỉ +12: thị trường được kéo bởi câu chuyện giảm lãi vay hơn là bởi niềm tin",
+ "tom_tat": "VN-Index lên 1.774,15 sát MA50 nhờ câu chuyện giảm lãi vay, nhưng tin đọc kỹ kém sáng hơn chữ trên báo và dòng tiền ngoại đang rút.",
+ "ket_luan": "Thị trường đang đặt cược vào việc lãi suất cho vay giảm, nhưng chưa có bằng chứng dòng tiền lớn xác nhận. Giá hồi 4,0% trong 5 phiên đến 23/10 lên 1.774,15 điểm, sát MA50 (1.772,22), song khối ngoại bán ròng 1.060,5 tỷ đồng, La bàn tuần vẫn ở trạng thái đà xuống (−39) và tâm lý sợ hãi (−43). Báo viết sáng (giọng chữ 70 điểm, 1.344 bài tích cực so với 580 tiêu cực) nhưng hàm ý đọc kỹ chỉ +12, độ vênh 28 điểm. Thông điệp điều hành đang nghiêng về hạ chi phí vốn, còn hành động thực tế (tái cấp vốn đứng yên 4,5%, tỷ giá trung tâm 25.627) chưa cho thấy nới lỏng thật sự: đây là điểm cần kiểm chứng trước khi coi đợt hồi là bền.",
+ "the_so": [
+  {
+   "so": "+12",
+   "nhan": "Hàm ý đọc kỹ (thang −100 đến +100), chữ trên báo +40"
+  },
+  {
+   "so": "−43",
+   "nhan": "La bàn tuần: tâm lý sợ hãi, đọc ngược chiều"
+  },
+  {
+   "so": "+4,0%",
+   "nhan": "VN-Index 5 phiên đến 23/10, đóng cửa 1.774,15"
+  },
+  {
+   "so": "−1.060,5 tỷ",
+   "nhan": "Khối ngoại bán ròng 5 phiên"
+  }
+ ],
+ "dong_ho": {
+  "diem": 56,
+  "nhan": "Bình thường",
+  "mo_ta": "Điểm gốc +12 trên thang −100 đến +100 nên quy về 56 trên thang 0 đến 100. Gồm tin báo +12 (83 mục), diễn đàn F247 +12 (12 chủ đề), chính sách +12 (30 mục). Phiên trước (23/10) là +7, tăng 5 điểm. Tâm lý La bàn đọc ngược chiều là −43, sợ hãi, để riêng."
+ },
+ "bay_cau": [
+  {
+   "cau": "Chủ thể đang muốn gì?",
+   "tra_loi": "Chính phủ và các cơ quan điều hành đang muốn hạ chi phí vốn cho sản xuất kinh doanh mà không phá thế ổn định tỷ giá. Bằng chứng là ba ngân hàng lớn cùng công bố gói giảm lãi vay trong cùng tuần và nhiều báo đưa lại đề nghị giảm lãi suất thực chất. Hàm ý: mục tiêu tăng trưởng đang được ưu tiên, nhưng công cụ được chọn là thuyết phục ngân hàng, chưa phải hạ lãi suất điều hành.",
+   "loai_nhan": "suy_luan",
+   "do_tin_cay": "trung_binh",
+   "danh_gia": "trung_tinh",
+   "nguon": "Dân Trí, Vietstock, Znews, Thanh Niên (20 đến 22/10/2026)"
+  },
+  {
+   "cau": "Họ muốn thị trường tin điều gì?",
+   "tra_loi": "Thông điệp là lãi suất cho vay đang đi xuống và tín dụng sẽ dễ hơn. Lãi suất và tín dụng là chủ đề số 1 với 527 bài trong 5 phiên (kỳ trước 446), chiếm 16,5% số bài bốn lĩnh vực. Hàm ý: cường độ truyền thông tăng 18,2% cho thấy đây là câu chuyện được chủ động dẫn dắt, nên giá có thể phản ứng trước số liệu.",
+   "loai_nhan": "suy_luan",
+   "do_tin_cay": "trung_binh",
+   "danh_gia": "trung_tinh",
+   "nguon": "Hub: heat, conclusions"
+  },
+  {
+   "cau": "Thị trường đang nghĩ gì?",
+   "tra_loi": "Thị trường tin một nửa. Giọng chữ trên báo là 70 điểm (tích cực) nhưng hàm ý +12, và trong 53 tin bị đọc là xấu thì 16 tin quy về lãi suất và tín dụng. Hàm ý: người đọc kỹ hiểu việc ngân hàng phải giảm lãi để kéo khách là dấu hiệu chi phí vốn đang cao và tín dụng khó tiếp cận, không chỉ là tin vui.",
+   "loai_nhan": "suy_luan",
+   "do_tin_cay": "trung_binh",
+   "danh_gia": "xau",
+   "nguon": "Hub: dong_ho, ham_y_bang, ham_y_giong"
+  },
+  {
+   "cau": "Thực tế có xác nhận không?",
+   "tra_loi": "Chưa xác nhận đủ. Lãi suất tái cấp vốn vẫn 4,5% (mức đặt từ 19/06/2023), lợi suất trái phiếu Chính phủ 10 năm chỉ giảm 0,21% trong tuần xuống 4,49%, tỷ giá trung tâm 25.627 đồng giảm 10 đồng. Hàm ý: nới lỏng đang nằm ở cam kết của từng ngân hàng, chưa lan sang mặt bằng lãi suất chung.",
+   "loai_nhan": "du_kien",
+   "do_tin_cay": "trung_binh",
+   "danh_gia": "trung_tinh",
+   "nguon": "Hub: vi_mo (26/10/2026)"
+  },
+  {
+   "cau": "Dòng tiền đã xác nhận chưa?",
+   "tra_loi": "Chỉ xác nhận một phần. Giá trị giao dịch bình quân 5 phiên là 15.827,7 tỷ so với 15.698,9 tỷ của 20 phiên (1,01 lần), tức giá hồi trên thanh khoản trung bình. Khối ngoại mua ròng TCB (990,2 tỷ) nhưng bán ròng ACB (850,2 tỷ) và FPT (644,2 tỷ). Hàm ý: đợt hồi do dòng nội và một vài mã dẫn dắt, chưa phải dòng tiền lan rộng.",
+   "loai_nhan": "du_kien",
+   "do_tin_cay": "cao",
+   "danh_gia": "trung_tinh",
+   "nguon": "Hub: thi_truong (đến 23/10/2026)"
+  },
+  {
+   "cau": "Có gì bất thường hoặc đáng ngại?",
+   "tra_loi": "Bất động sản được viết nhiều nhất cùng Tài chính (1.293 bài) mà hàm ý ngành là −17 so với giọng chữ +27, còn chủ đề vàng và hàng hóa có 151 bài tiêu cực so với 73 bài tích cực. Hàm ý: nhóm bất động sản đang được giá ủng hộ (bốn mã lớn trung bình +5,86% trong 5 phiên) nhưng bị tin đọc kỹ đánh xấu, dễ là nhóm lệch pha nhất.",
+   "loai_nhan": "suy_luan",
+   "do_tin_cay": "trung_binh",
+   "danh_gia": "xau",
+   "nguon": "Hub: sectors, heat, ban_tin_ma"
+  },
+  {
+   "cau": "Kết luận và kịch bản?",
+   "tra_loi": "Điều đã xác nhận: giá hồi và lãi suất là chủ đề dẫn dắt. Điều còn là giả thuyết: Chính phủ đang chuẩn bị dư địa nới tiền tệ. Kịch bản Cơ sở 50%, Tích cực 25%, Tiêu cực 25%. Hàm ý: mốc 1.772,22 (MA50) là nơi câu chuyện giảm lãi vay được thử bằng dòng tiền thật.",
+   "loai_nhan": "gia_thuyet",
+   "do_tin_cay": "trung_binh",
+   "danh_gia": "trung_tinh",
+   "nguon": "Tổng hợp từ các câu trên"
+  }
+ ],
+ "ham_y": [
+  {
+   "ham_y": "Chính phủ đang dùng áp lực chính sách lên ngân hàng để hạ lãi vay thay vì hạ lãi suất điều hành, vì dư địa tiền tệ còn bị tỷ giá và lợi suất Mỹ 5,0% ràng buộc.",
+   "loai_nhan": "gia_thuyet",
+   "do_tin_cay": "trung_binh",
+   "bang_chung": [
+    {
+     "text": "Ba ngân hàng lớn cùng công bố gói giảm lãi vay trong tuần, một báo đưa lại đề nghị giảm lãi suất thực chất",
+     "nguon": "Dân Trí, Vietstock, Znews, Thanh Niên",
+     "thoi_diem": "20 đến 22/10/2026"
+    },
+    {
+     "text": "Lãi suất tái cấp vốn đứng yên 4,5%, lợi suất Mỹ 10 năm 5,0%, DXY 101,8",
+     "nguon": "Hub: vi_mo, quoc_te",
+     "thoi_diem": "23 đến 26/10/2026"
+    }
+   ],
+   "tac_dong": "Biên lãi ròng ngân hàng chịu áp lực trong quý tới (vài quý); doanh nghiệp vay hưởng lợi chi phí vốn (vài tuần); tỷ giá được giữ ổn định (ngay).",
+   "xac_nhan_neu": "NHNN hạ lãi suất điều hành hoặc tăng bơm thanh khoản qua OMO trong 2 đến 3 tuần tới, lãi suất liên ngân hàng giảm.",
+   "bac_bo_neu": "Lãi suất liên ngân hàng tăng và tăng trưởng tín dụng chậm lại trong tháng 11/2026."
+  },
+  {
+   "ham_y": "Thị trường đang trả giá cho kỳ vọng nới lỏng trước khi có bằng chứng: chữ trên báo +40 nhưng điều tin ngầm cho thấy chỉ +12.",
+   "loai_nhan": "suy_luan",
+   "do_tin_cay": "trung_binh",
+   "bang_chung": [
+    {
+     "text": "Độ vênh 28 điểm giữa bề mặt và hàm ý trên 95 tin và chủ đề diễn đàn",
+     "nguon": "Hub: ham_y_giong",
+     "thoi_diem": "26/10/2026"
+    },
+    {
+     "text": "VN-Index tăng 4,0% trong 5 phiên nhưng khối ngoại bán ròng 1.060,5 tỷ",
+     "nguon": "Hub: thi_truong",
+     "thoi_diem": "đến 23/10/2026"
+    }
+   ],
+   "tac_dong": "Thanh khoản và dòng ngoại là kênh kiểm chứng; nếu không cải thiện, đợt hồi dễ dừng quanh MA50 và MA200 (1.796,65) trong vài tuần.",
+   "xac_nhan_neu": "Hàm ý giữ trên +15 và khối ngoại thôi bán ròng trong 3 phiên.",
+   "bac_bo_neu": "Hàm ý về dưới −15 hoặc VN-Index đóng cửa dưới MA20 (1.737,93)."
+  },
+  {
+   "ham_y": "Nhóm bất động sản đang bị bỏ lại ở tầng niềm tin dù giá chạy: bốn mã lớn tăng trung bình 5,86% trong khi hàm ý ngành là −17.",
+   "loai_nhan": "suy_luan",
+   "do_tin_cay": "trung_binh",
+   "bang_chung": [
+    {
+     "text": "1.293 bài về bất động sản, giọng chữ +27, hàm ý −17; VIC tăng 10,0%, NVL có 13 tin xấu so với 2 tin tốt",
+     "nguon": "Hub: sectors, ban_tin_ma, tickers",
+     "thoi_diem": "20 đến 26/10/2026"
+    }
+   ],
+   "tac_dong": "Giá có thể biến động mạnh khi tin pháp lý hoặc trái phiếu xuất hiện; nhóm vay nặng chịu rủi ro lãi suất trước nhóm khác (vài tuần).",
+   "xac_nhan_neu": "Tin tiêu cực về ngành lan sang nhiều nguồn và ngoại bán ròng nhóm này.",
+   "bac_bo_neu": "Hàm ý ngành đổi chiều dương trong 2 đến 3 phiên."
+  },
+  {
+   "ham_y": "Vàng và hàng hóa là mối lo ngầm: tâm lý tin xấu nhiều hơn tin tốt gấp 2 lần, báo hiệu lo ngại về lạm phát và dòng vốn.",
+   "loai_nhan": "gia_thuyet",
+   "do_tin_cay": "thap",
+   "bang_chung": [
+    {
+     "text": "321 bài, 151 tiêu cực so với 73 tích cực; vàng thế giới giảm 4,04% trong tuần xuống 4.010 USD, Brent 115,22 USD (20/10), giảm 8,4%",
+     "nguon": "Hub: heat, vi_mo",
+     "thoi_diem": "20 đến 26/10/2026"
+    }
+   ],
+   "tac_dong": "Giá dầu cao giữ áp lực lạm phát, hạn chế dư địa giảm lãi suất (vài quý).",
+   "xac_nhan_neu": "Brent quay lại trên 120 USD hoặc giá vàng trong nước tiếp tục chênh mạnh so với thế giới.",
+   "bac_bo_neu": "Brent giảm dưới 100 USD trong tháng tới."
+  }
+ ],
+ "muc": [
+  {
+   "tieu_de": "1. Thị trường đang nghĩ gì, ngành và cổ phiếu được quan tâm",
+   "khoi": [
+    {
+     "loai": "the_so",
+     "items": [
+      {
+       "so": "3.196",
+       "nhan": "Bài bốn lĩnh vực trong 5 phiên, 1.344 tích cực, 580 tiêu cực"
+      },
+      {
+       "so": "70",
+       "nhan": "Giọng chữ báo chí (0 đến 100), tích cực"
+      },
+      {
+       "so": "+12",
+       "nhan": "Hàm ý đọc kỹ, tâm lý bình thường"
+      },
+      {
+       "so": "1,01 lần",
+       "nhan": "Thanh khoản 5 phiên so bình quân 20 phiên"
+      }
+     ]
+    },
+    {
+     "loai": "doan",
+     "text": "Báo chí đang viết sáng hơn điều thị trường nghĩ. Trong 5 phiên có 3.196 bài thuộc bốn lĩnh vực, tích cực gấp 2,3 lần tiêu cực, nên giọng chữ đạt 70 điểm (phiên trước 72). Hàm ý của con số này là báo chí đang đồng thuận với câu chuyện giảm lãi vay, nhưng giọng chữ chỉ đếm từ, không phải tâm lý. Khi đọc kỹ 95 tin và chủ đề diễn đàn, bề mặt là +40 còn hàm ý chỉ +12, nên độ vênh 28 điểm là tín hiệu rằng người đọc không hoàn toàn tin lời trấn an."
+    },
+    {
+     "loai": "doan",
+     "text": "Nguồn đếm: báo (16 nguồn), diễn đàn F247, khung tin từ 20/10 đến 26/10/2026; giá và dòng tiền đến phiên 23/10/2026. Một bài nhắc nhiều mã thì mỗi mã tính một lần. Số lần nhắc cao mà giá và thanh khoản không đổi thì không kết luận tiền đã vào."
+    },
+    {
+     "loai": "bang",
+     "cot": [
+      "Ngành",
+      "Số lần nhắc",
+      "Giọng chủ đạo",
+      "Câu chuyện chính",
+      "So với lần trước",
+      "Dòng tiền ngành (mã đầu ngành trong bảng nhắc nhiều)"
+     ],
+     "hang": [
+      [
+       "Tài chính",
+       "1.341",
+       "Nghiêng tích cực (527 tích cực, 315 tiêu cực); hàm ý +33",
+       "Quy định thanh toán vàng, hệ thống giao dịch, lãi vay",
+       "Tăng 24,2% (kỳ trước 1.080)",
+       "Chưa có mã đại diện riêng trong dữ liệu"
+      ],
+      [
+       "Bất động sản",
+       "1.293",
+       "Nghiêng tích cực (513 tích cực, 158 tiêu cực); hàm ý ngành −17",
+       "Dự án trọng điểm vướng mắc, hạ tầng, nhà ở",
+       "Tăng 18,7% (kỳ trước 1.089)",
+       "Bốn mã (VIC, VHM, NVL, PDR): giá trung bình +5,86%, thanh khoản 0,91 lần, khối ngoại mua ròng 166,0 tỷ"
+      ],
+      [
+       "Ngân hàng",
+       "936",
+       "Nghiêng tích cực (460 tích cực, 181 tiêu cực); hàm ý +17",
+       "Giảm lãi vay, kết quả quý III",
+       "Tăng 20,8% (kỳ trước 775)",
+       "13 mã: giá trung bình +2,80%, thanh khoản 1,93 lần, khối ngoại bán ròng 328,3 tỷ"
+      ],
+      [
+       "Chứng khoán",
+       "857",
+       "Nghiêng tích cực (442 tích cực, 186 tiêu cực); hàm ý +50",
+       "Doanh thu quý III tăng, hạ tầng giao dịch",
+       "Tăng 33,9% (kỳ trước 640)",
+       "Hai mã (HCM, SSI): giá trung bình +1,81%, thanh khoản 0,89 lần, khối ngoại mua ròng 13,5 tỷ"
+      ],
+      [
+       "Vàng và hàng hóa (chủ đề)",
+       "321",
+       "Nghiêng tiêu cực (73 tích cực, 151 tiêu cực)",
+       "Vàng thế giới chịu áp lực giảm, giá vàng trong nước biến động trái chiều",
+       "Hạng 5 trong 18 chủ đề",
+       "Không có mã đại diện; vàng thế giới −4,04% trong tuần"
+      ]
+     ]
+    },
+    {
+     "loai": "nhan_dinh",
+     "cau": [
+      "Ngân hàng là nơi giá, thanh khoản và câu chuyện cùng chiều nhưng ngoại bán ròng 328,3 tỷ.",
+      "Hàm ý: giá ngân hàng đang được dòng nội kéo, nên độ bền phụ thuộc vào việc ngoại có quay lại mua hay không.",
+      "Bất động sản lệch pha nhất: chữ +27, hàm ý ngành −17, trong khi giá bốn mã lớn tăng 5,86%.",
+      "Hàm ý: giá bất động sản đang chạy trước niềm tin, rủi ro điều chỉnh cao hơn khi có tin pháp lý hoặc trái phiếu."
+     ]
+    },
+    {
+     "loai": "bang",
+     "cot": [
+      "Mã",
+      "Số lần nhắc",
+      "Giọng",
+      "Lý do được nhắc",
+      "Giá 5 phiên",
+      "Thanh khoản so bình quân 20 phiên",
+      "Khối ngoại ròng",
+      "Đánh giá"
+     ],
+     "hang": [
+      [
+       "TCB",
+       "64",
+       "52 tốt, 4 xấu",
+       "Kết quả kinh doanh, được báo dẫn dắt (94 bài báo so với 10 công bố)",
+       "+3,01%",
+       "1,01 lần",
+       "+990,2 tỷ",
+       "Nghĩ tốt, tiền đã vào"
+      ],
+      [
+       "VIC",
+       "55",
+       "36 tốt, 1 xấu",
+       "Câu chuyện tập đoàn và dự án",
+       "+10,0%",
+       "0,78 lần",
+       "+309,3 tỷ",
+       "Nghĩ tốt, tiền đã vào"
+      ],
+      [
+       "VPB",
+       "45",
+       "26 tốt, 5 xấu",
+       "Kết quả quý III, giảm lãi vay",
+       "−1,63%",
+       "0,73 lần",
+       "−55,0 tỷ",
+       "Nghĩ tốt, tiền chưa vào"
+      ],
+      [
+       "VHM",
+       "37",
+       "21 tốt, 3 xấu",
+       "Bất động sản nhà ở",
+       "+5,41%",
+       "0,60 lần",
+       "−79,4 tỷ",
+       "Nghĩ tốt, tiền chưa vào"
+      ],
+      [
+       "STB",
+       "33",
+       "20 tốt, 7 xấu",
+       "Giảm lãi vay cá nhân, kết quả kinh doanh",
+       "+9,08%",
+       "2,41 lần",
+       "−229,8 tỷ",
+       "Tiền vào trước câu chuyện"
+      ],
+      [
+       "HDB",
+       "32",
+       "19 tốt, 4 xấu",
+       "Gói tín dụng 10.000 tỷ giảm lãi vay",
+       "−1,10%",
+       "1,32 lần",
+       "+73,9 tỷ",
+       "Nghĩ tốt, tiền chưa vào"
+      ],
+      [
+       "BID",
+       "30",
+       "11 tốt, 3 xấu",
+       "Ngân hàng quốc doanh, giảm lãi vay",
+       "+0,88%",
+       "1,14 lần",
+       "−78,5 tỷ",
+       "Nghĩ tốt, tiền chưa vào"
+      ],
+      [
+       "CTG",
+       "28",
+       "11 tốt, 6 xấu",
+       "Giải pháp giảm lãi vay 2 năm",
+       "+1,14%",
+       "1,13 lần",
+       "+78,9 tỷ",
+       "Nghĩ tốt, tiền đã vào"
+      ],
+      [
+       "ACB",
+       "23",
+       "14 tốt, 5 xấu",
+       "Lãi suất tiền gửi, kết quả kinh doanh",
+       "+3,40%",
+       "6,36 lần",
+       "−850,2 tỷ",
+       "Tiền vào trước câu chuyện"
+      ],
+      [
+       "SSB",
+       "22 (kỳ trước 1)",
+       "3 tốt, 6 xấu",
+       "Nổi lên đột ngột trong dòng tin",
+       "+3,10%",
+       "2,87 lần",
+       "+4,9 tỷ",
+       "Đang bị lo ngại"
+      ]
+     ]
+    },
+    {
+     "loai": "nhan_dinh",
+     "cau": [
+      "TCB là mã duy nhất báo chí, giá và dòng ngoại cùng chiều: 64 bài, giá +3,01%, ngoại mua ròng 990,2 tỷ.",
+      "Hàm ý: TCB đang là tâm điểm giao dịch của khối ngoại, nhưng tin do báo dẫn dắt (94 bài báo so với 10 công bố) nên cần đối chiếu công bố chính thức.",
+      "ACB có thanh khoản gấp 6,36 lần bình quân trong khi ngoại bán ròng 850,2 tỷ.",
+      "Hàm ý: ACB đang đổi chủ, dòng nội hấp thụ lượng bán của ngoại, và đây là mã có số lần nhắc thấp nhất trong bảng nên giá đi trước câu chuyện.",
+      "NVL (19 lần nhắc, 13 tin xấu so với 2 tin tốt, 68% lo lắng) là mã đang bị lo ngại rõ nhất ngoài bảng này.",
+      "Hàm ý: tiêu điểm lo ngại của bất động sản tập trung ở nhóm vay nặng, không lan đều sang VIC hay VHM."
+     ]
+    },
+    {
+     "loai": "nguon",
+     "text": "Nguồn: Hub TVN (báo 16 nguồn, F247, giá HOSE đến 23/10/2026). Đánh giá dựa trên giá, thanh khoản, khối ngoại và số tin; không phải khuyến nghị."
+    }
+   ]
+  },
+  {
+   "tieu_de": "2. Thông điệp Chính phủ và ưu tiên",
+   "khoi": [
+    {
+     "loai": "the_so",
+     "items": [
+      {
+       "so": "333",
+       "nhan": "Tin ngành Ngân hàng Nhà nước trong 5 phiên (14 ngày: 474)"
+      },
+      {
+       "so": "72",
+       "nhan": "Tin chính sách mới (14 ngày: 192)"
+      },
+      {
+       "so": "22",
+       "nhan": "Văn bản mới ban hành, 5 văn bản chạm tới bốn lĩnh vực"
+      },
+      {
+       "so": "57",
+       "nhan": "Mục phát ngôn thuộc Quốc hội, nhiều nhất trong 150 mục"
+      }
+     ]
+    },
+    {
+     "loai": "doan",
+     "text": "Trọng tâm thông điệp là kinh tế tư nhân, tài khóa và tiền tệ. Trong 150 mục phát ngôn và văn bản được Hub đọc, chủ đề doanh nghiệp và kinh tế tư nhân có 53 mục, tài khóa và thuế 52, bất động sản và nhà ở 24, năng lượng 20, tiền tệ và tín dụng 19. Hàm ý: ưu tiên điều hành đang nghiêng về tháo gỡ cho khu vực tư nhân và ngân sách trước, tiền tệ đứng sau, nên chính sách hỗ trợ lãi vay nhiều khả năng đi qua ngân hàng chứ chưa phải qua lãi suất điều hành."
+    },
+    {
+     "loai": "doan",
+     "text": "Về cấp phát ngôn, Quốc hội 57 mục, Chính phủ 48, Trung ương Đảng 32, NHNN chỉ 12 và Bộ Tài chính 9. Hàm ý: tiếng nói của NHNN chiếm ít hơn một phần mười số mục phát ngôn, nên tín hiệu chính thức về lãi suất điều hành đang thưa; thị trường đang suy diễn nhiều hơn là được thông tin."
+    },
+    {
+     "loai": "danh_sach",
+     "items": [
+      {
+       "dam": "Từ ngữ mới:",
+       "text": "nhiều báo dùng cụm giảm lãi suất thực chất, đồng hành cùng doanh nghiệp, cho thấy ưu tiên đã chuyển từ kiểm soát sang hỗ trợ."
+      },
+      {
+       "dam": "Ràng buộc đang nhắc:",
+       "text": "tỷ giá, lạm phát từ giá dầu, và áp lực biên lãi ròng của ngân hàng."
+      },
+      {
+       "dam": "Mục tiêu bằng số:",
+       "text": "dữ liệu Hub chưa có số mục tiêu tăng trưởng, lạm phát hay bội chi trong khung này, nên không nêu số."
+      }
+     ]
+    },
+    {
+     "loai": "nhan_dinh",
+     "cau": [
+      "Chính phủ đang ưu tiên hạ chi phí vốn bằng cam kết của ngân hàng, chưa bằng công cụ điều hành.",
+      "Hàm ý: nếu NHNN tiếp tục ít lên tiếng, thị trường sẽ tự định giá kỳ vọng và dễ thất vọng khi số liệu thực không khớp."
+     ]
+    },
+    {
+     "loai": "nguon",
+     "text": "Nguồn: Hub TVN, nhóm Chính phủ, Bộ Tài chính, Ngân hàng Nhà nước, 20 đến 26/10/2026."
+    }
+   ]
+  },
+  {
+   "tieu_de": "3. Ma trận nhất quán",
+   "khoi": [
+    {
+     "loai": "bang",
+     "cot": [
+      "Thông điệp",
+      "Mục tiêu công bố",
+      "Hành động thực tế",
+      "Khớp hay vênh"
+     ],
+     "hang": [
+      [
+       "Giảm lãi suất cho vay",
+       "Nhiều ngân hàng công bố gói giảm lãi vay, trong đó có một gói tín dụng 10.000 tỷ đồng giảm 1,5% mỗi năm",
+       "Lãi suất tái cấp vốn đứng yên 4,5% từ 19/06/2023; lợi suất trái phiếu 10 năm 4,49%, giảm 0,21% trong tuần",
+       "Vênh một phần: giảm ở từng ngân hàng, chưa ở mặt bằng chung"
+      ],
+      [
+       "Ổn định tỷ giá",
+       "Giữ tỷ giá ổn định",
+       "Tỷ giá trung tâm 25.627, giảm 10 đồng; USD/VND Vietcombank 25.830, giảm 60 đồng trong tuần; DXY 101,8",
+       "Khớp: tỷ giá hạ nhiệt cùng USD"
+      ],
+      [
+       "Hỗ trợ tăng trưởng",
+       "Ưu tiên kinh tế tư nhân và tài khóa",
+       "VN-Index +4,0% trong 5 phiên; giá trị giao dịch 1,01 lần bình quân",
+       "Khớp ở giá, chưa khớp ở niềm tin (hàm ý +12)"
+      ],
+      [
+       "Kiểm soát giá và vàng",
+       "Quy định thanh toán không dùng tiền mặt cho giao dịch vàng lớn",
+       "Vàng thế giới 4.010 USD, giảm 4,04% trong tuần; Brent 115,22 USD",
+       "Chưa đủ dữ liệu: giá vàng trong nước chưa có số đối chiếu"
+      ]
+     ]
+    },
+    {
+     "loai": "nhan_dinh",
+     "cau": [
+      "Chỗ khớp là tỷ giá và giá cổ phiếu, chỗ vênh là mặt bằng lãi suất.",
+      "Hàm ý: tỷ giá hạ nhiệt tạo điều kiện, nhưng lãi suất tái cấp vốn đứng yên cho thấy NHNN chưa chọn nới.",
+      "Số liệu OMO, tín phiếu và lãi suất liên ngân hàng chưa có trong Hub nên chưa thể kết luận chiều điều hành."
+     ]
+    },
+    {
+     "loai": "nguon",
+     "text": "Nguồn: Hub TVN, chỉ số vĩ mô ngày 22 đến 26/10/2026; tin Dân Trí, Vietstock, Znews, Báo Chính phủ."
+    }
+   ]
+  },
+  {
+   "tieu_de": "4. Giá VN-Index và vị trí chu kỳ",
+   "khoi": [
+    {
+     "loai": "the_so",
+     "items": [
+      {
+       "so": "1.774,15",
+       "nhan": "VN-Index đóng cửa 23/10, trên MA20 (1.737,93), sát MA50 (1.772,22)"
+      },
+      {
+       "so": "1.796,65",
+       "nhan": "MA200, còn cách 1,3%"
+      },
+      {
+       "so": "−39",
+       "nhan": "Điểm đà La bàn, trạng thái đà xuống"
+      },
+      {
+       "so": "−70",
+       "nhan": "Trụ dòng tiền La bàn, yếu"
+      }
+     ]
+    },
+    {
+     "loai": "duong",
+     "tieu_de": "VN-Index đóng cửa, 8 phiên đến 23/10/2026",
+     "nhan": [
+      "14/10",
+      "15/10",
+      "16/10",
+      "19/10",
+      "20/10",
+      "21/10",
+      "22/10",
+      "23/10"
+     ],
+     "chuoi": [
+      {
+       "ten": "VN-Index",
+       "gia_tri": [
+        1704.87,
+        1698.35,
+        1705.91,
+        1689.84,
+        1691.97,
+        1738.67,
+        1760.63,
+        1774.15
+       ]
+      }
+     ],
+     "chu_thich": "Ba phiên cuối tăng liên tiếp sau đáy 1.689,84 ngày 19/10; số liệu từ Hub."
+    },
+    {
+     "loai": "doan",
+     "text": "Giá đã hồi 5,0% từ đáy 19/10 nhưng vẫn ở vị trí chưa vượt kháng cự. VN-Index trên MA20 và chỉ cách MA50 0,1%, vị trí thuộc nhóm xu hướng tăng theo cách Hub mô tả. Hàm ý: mốc 1.772,22 là ngưỡng đầu tiên cần vượt có thanh khoản, còn MA200 ở 1.796,65 là ngưỡng thứ hai. La bàn tuần vẫn cho đà xuống với trụ dòng tiền −70 và trụ mức rơi cổ phiếu −89, nghĩa là bên dưới giá vẫn yếu."
+    },
+    {
+     "loai": "nhan_dinh",
+     "cau": [
+      "Giá đã hồi, nhưng La bàn chưa chuyển đáy.",
+      "Hàm ý: cả ba điều kiện của tín hiệu đáy chưa đủ vì VN-Index tuần chưa trên MA10 tuần 1.780,22 và điểm đà chưa vượt −38.",
+      "Khối ngoại bán ròng 1.060,5 tỷ trong 5 phiên là mâu thuẫn lớn nhất với giá."
+     ]
+    },
+    {
+     "loai": "nguon",
+     "text": "Nguồn: Hub TVN, La bàn tuần kết thúc 23/10/2026, giá HOSE."
+    }
+   ]
+  },
+  {
+   "tieu_de": "5. Tác động theo kênh và nhóm ngành liên quan",
+   "khoi": [
+    {
+     "loai": "bang",
+     "cot": [
+      "Kênh",
+      "Điều đang xảy ra",
+      "Hàm ý",
+      "Độ trễ"
+     ],
+     "hang": [
+      [
+       "Tiền tệ, lãi suất",
+       "Giảm lãi vay theo từng ngân hàng, lợi suất 10 năm 4,49%",
+       "Chi phí vốn doanh nghiệp giảm dần; biên lãi ròng ngân hàng chịu áp lực",
+       "Vài tuần đến vài quý"
+      ],
+      [
+       "Tỷ giá",
+       "Trung tâm 25.627, thị trường 25.830, DXY 101,8",
+       "Ít áp lực lên tỷ giá, tạo dư địa cho chính sách",
+       "Ngay"
+      ],
+      [
+       "Thanh khoản",
+       "1,01 lần bình quân 20 phiên",
+       "Chưa có dòng tiền lớn xác nhận đợt hồi",
+       "Ngay"
+      ],
+      [
+       "Khối ngoại",
+       "Bán ròng 1.060,5 tỷ, 298 mã được tính",
+       "Giá đang được nội lực kéo, dễ đảo chiều nếu nội hết lực",
+       "Vài tuần"
+      ],
+      [
+       "Hàng hóa",
+       "Brent 115,22 USD, vàng 4.010 USD",
+       "Áp lực lạm phát giới hạn dư địa nới tiền tệ",
+       "Vài quý"
+      ]
+     ]
+    },
+    {
+     "loai": "danh_sach",
+     "items": [
+      {
+       "dam": "Hưởng lợi:",
+       "text": "doanh nghiệp vay vốn lớn và bất động sản nếu lãi suất giảm thật; ngân hàng có CASA tốt chịu NIM ít hơn."
+      },
+      {
+       "dam": "Chịu thiệt:",
+       "text": "ngân hàng phụ thuộc cho vay doanh nghiệp, nhóm nhập khẩu năng lượng nếu Brent giữ trên 110 USD."
+      },
+      {
+       "dam": "Bị bỏ quên:",
+       "text": "chứng khoán (hàm ý +50 nhưng thanh khoản chỉ 0,89 lần) và nhóm hàng hóa bị tin xấu chi phối."
+      }
+     ]
+    },
+    {
+     "loai": "nhan_dinh",
+     "cau": [
+      "Ngân hàng là nhóm hưởng lợi gián tiếp nhưng cũng là nhóm trả giá cho chính sách giảm lãi.",
+      "Hàm ý: nhà đầu tư cần phân biệt mã được dòng nội kéo với mã được ngoại ủng hộ, vì ngoại đang bán ròng ở phần lớn nhóm này.",
+      "Thị trường chưa phản ánh đầy đủ rủi ro hàng hóa, vì tin xấu về vàng và dầu đang nhiều gấp đôi tin tốt."
+     ]
+    },
+    {
+     "loai": "nguon",
+     "text": "Nguồn: Hub TVN, chỉ số quốc tế và vĩ mô, 20 đến 26/10/2026."
+    }
+   ]
+  }
+ ],
+ "kich_ban": [
+  {
+   "ten": "Cơ sở",
+   "xac_suat": "50%",
+   "dieu_kien": "Dòng tin giữ nhịp, lãi suất và tín dụng tiếp tục dẫn dắt; hàm ý quanh +12.",
+   "tac_dong": "VN-Index dao động quanh MA20 1.737,93 và MA50 1.772,22; khối ngoại tiếp tục bán ròng nhẹ."
+  },
+  {
+   "ten": "Tích cực",
+   "xac_suat": "25%",
+   "dieu_kien": "NHNN có tín hiệu nới (OMO, lãi suất điều hành), khối ngoại ngừng bán ròng, hàm ý lên trên +15.",
+   "tac_dong": "VN-Index vượt MA50 rồi tiến tới MA200 1.796,65; ngân hàng và bất động sản dẫn dắt."
+  },
+  {
+   "ten": "Tiêu cực",
+   "xac_suat": "25%",
+   "dieu_kien": "Tin pháp lý hoặc trái phiếu bất động sản lan rộng, Brent tăng, hàm ý xuống dưới −15.",
+   "tac_dong": "VN-Index thủng MA20 1.737,93, về vùng đáy gần đây 1.689,84 và xa hơn là đáy 52 tuần 1.580,54."
+  }
+ ],
+ "theo_doi": [
+  {
+   "moc": "Phát ngôn và OMO của NHNN",
+   "thoi_diem": "2 đến 3 tuần tới",
+   "can_xem": "Có hạ lãi suất điều hành hoặc bơm thanh khoản rõ ràng hay không, kiểm chứng giả thuyết nới tiền tệ."
+  },
+  {
+   "moc": "Lãi suất liên ngân hàng và lợi suất 10 năm",
+   "thoi_diem": "hằng phiên",
+   "can_xem": "Giảm bền dưới 4,49% hay đảo chiều."
+  },
+  {
+   "moc": "Khối ngoại",
+   "thoi_diem": "3 phiên tới",
+   "can_xem": "Bán ròng 1.060,5 tỷ có thu hẹp, nhất là ACB, FPT, VCB."
+  },
+  {
+   "moc": "MA50 1.772,22 và MA200 1.796,65",
+   "thoi_diem": "tuần này",
+   "can_xem": "Đóng cửa trên mốc với thanh khoản trên 15.698,9 tỷ."
+  },
+  {
+   "moc": "Brent và vàng",
+   "thoi_diem": "tuần này",
+   "can_xem": "Brent trên 120 USD hoặc dưới 100 USD."
+  },
+  {
+   "moc": "Tín hiệu đáy La bàn",
+   "thoi_diem": "tuần kết thúc 30/10",
+   "can_xem": "VN-Index tuần trên 1.780,22 và điểm đà trên −38."
+  }
+ ],
+ "ba_dieu": [
+  "Giá đã hồi 4,0% nhưng ngoại bán ròng 1.060,5 tỷ, nên đợt hồi chưa có dòng tiền lớn xác nhận.",
+  "Thông điệp giảm lãi vay đang đi qua từng ngân hàng, còn lãi suất tái cấp vốn vẫn 4,5%, nên nới lỏng thật sự vẫn là giả thuyết.",
+  "Báo viết sáng 70 điểm nhưng hàm ý chỉ +12; khi hai con số này gần nhau lại, đó mới là lúc niềm tin trở lại."
+ ],
+ "nhan_chuyen_muc": "THỊ TRƯỜNG VÀ CHÍNH PHỦ",
+ "tom_gon": {
+  "ket_luan": "Giá hồi 4,0% nhờ câu chuyện giảm lãi vay, nhưng ngoại bán ròng 1.060,5 tỷ và hàm ý chỉ +12: niềm tin chưa theo kịp giá.",
+  "bieu_do_tieu_de": "VN-Index hồi ba phiên liên tiếp lên 1.774,15, sát MA50 1.772,22",
+  "cot_trai": {
+   "tieu_de": "Điều đã xác nhận",
+   "items": [
+    {
+     "dam": "Giá hồi:",
+     "text": "+4,0% trong 5 phiên, trên MA20."
+    },
+    {
+     "dam": "Chủ đề số 1:",
+     "text": "lãi suất và tín dụng, 527 bài."
+    },
+    {
+     "dam": "Tỷ giá hạ nhiệt:",
+     "text": "trung tâm 25.627, DXY 101,8."
+    }
+   ]
+  },
+  "cot_phai": {
+   "tieu_de": "Điều còn là giả thuyết",
+   "danh_so": true,
+   "items": [
+    {
+     "dam": "Nới tiền tệ:",
+     "text": "tái cấp vốn vẫn 4,5%."
+    },
+    {
+     "dam": "Ngoại quay lại:",
+     "text": "đang bán ròng 1.060,5 tỷ."
+    },
+    {
+     "dam": "Bất động sản:",
+     "text": "giá +5,86%, hàm ý ngành −17."
+    }
+   ]
+  },
+  "the": {
+   "tieu_de": "Tín hiệu theo dõi",
+   "items": [
+    {
+     "tieu_de": "NHNN và OMO",
+     "text": "có bơm hay hút"
+    },
+    {
+     "tieu_de": "Khối ngoại",
+     "text": "thu hẹp bán ròng"
+    },
+    {
+     "tieu_de": "MA50 1.772",
+     "text": "đóng cửa trên mốc"
+    },
+    {
+     "tieu_de": "Brent",
+     "text": "trên 120 hoặc dưới 100"
+    }
+   ]
+  },
+  "bay_cau": [
+   "Chính phủ muốn hạ chi phí vốn qua ngân hàng.",
+   "Thông điệp là lãi vay đang đi xuống.",
+   "Thị trường tin một nửa: hàm ý +12 so với chữ +40.",
+   "Thực tế chưa khớp: tái cấp vốn đứng yên 4,5%.",
+   "Dòng tiền xác nhận một phần: thanh khoản 1,01 lần, ngoại bán ròng.",
+   "Bất động sản và hàng hóa là điểm lệch pha.",
+   "Cơ sở 50%, Tích cực 25%, Tiêu cực 25%."
+  ],
+  "ham_y": [
+   "Chính phủ dùng áp lực lên ngân hàng thay vì lãi suất điều hành.",
+   "Thị trường trả giá cho kỳ vọng trước bằng chứng.",
+   "Bất động sản chạy giá nhưng bị tin đọc kỹ đánh xấu."
+  ],
+  "ba_dieu": [
+   "Giá hồi 4,0% chưa có ngoại xác nhận.",
+   "Nới lỏng thật sự vẫn là giả thuyết.",
+   "Hàm ý +12 so với chữ 70 là độ vênh cần theo dõi."
+  ],
+  "nguon": "Nguồn: Hub TVN, báo 16 nguồn, F247, giá HOSE đến 23/10/2026. Không phải khuyến nghị đầu tư."
+ },
+ "gioi_han": [
+  "Phân loại chủ đề, mã và sắc thái bằng từ khóa; chỉ đọc tiêu đề và sapo, không đọc toàn văn.",
+  "Hub chưa có số liệu OMO, tín phiếu, lãi suất liên ngân hàng, tăng trưởng tín dụng và các mục tiêu bằng số của Chính phủ, nên ma trận nhất quán chưa đầy đủ.",
+  "Giá, thanh khoản và khối ngoại chỉ đến phiên 23/10/2026; Brent chỉ đến 20/10/2026.",
+  "Hai chuỗi tỷ giá Vietcombank trong dữ liệu khác nhau (25.830 và 26.020 đồng); báo cáo dùng số trong bảng vĩ mô.",
+  "HOSE có trong kho từ giữa 2025; HNX, UPCoM, website doanh nghiệp, mạng xã hội, xác suất Fed và tin quốc tế chưa có.",
+  "Không phải khuyến nghị đầu tư."
+ ],
+ "du_lieu_dau_vao": [
+  {
+   "thoi_diem": "2026-10-20 09:47",
+   "nguon": "Dân Trí",
+   "tieu_de": "Một ngân hàng lớn công bố giảm lãi vay hai năm đồng hành doanh nghiệp",
+   "url": "https://dantri.com.vn/kinh-doanh/mb-giam-lai-suat-cho-vay-toi-2nam-dong-hanh-cung-doanh-nghiep-va-nguoi-dan-20261020093142779.htm",
+   "giong": "trung_tinh"
+  },
+  {
+   "thoi_diem": "2026-10-20 19:16",
+   "nguon": "Vietstock",
+   "tieu_de": "Gói tín dụng 10.000 tỷ đồng với lãi vay giảm 1,5% mỗi năm cho doanh nghiệp",
+   "url": "http://vietstock.vn/2026/10/hdbank-trien-khai-goi-tin-dung-10000-ty-dong-giam-lai-suat-15nam-ho-tro-doanh-nghiep-757-1504796.htm",
+   "giong": "tich_cuc"
+  },
+  {
+   "thoi_diem": "2026-10-20 18:00",
+   "nguon": "Znews",
+   "tieu_de": "Một ngân hàng quốc doanh triển khai giải pháp giảm lãi vay hai năm",
+   "url": "https://znews.vn/vietinbank-trien-khai-cac-giai-phap-giam-lai-suat-cho-vay-toi-2-nam-post1690883.html",
+   "giong": "trung_tinh"
+  },
+  {
+   "thoi_diem": "2026-10-22 09:15",
+   "nguon": "Thanh Niên",
+   "tieu_de": "Kiến nghị các ngân hàng giảm lãi suất ở mức thực chất",
+   "url": "https://thanhnien.vn/de-nghi-cac-ngan-hang-giam-lai-suat-thuc-chat-185261022091523656.htm",
+   "giong": "trung_tinh"
+  },
+  {
+   "thoi_diem": "2026-10-22 08:00",
+   "nguon": "VietnamNet",
+   "tieu_de": "Bản tin lãi suất ngày 22/10, nhóm ngân hàng lớn cùng vào cuộc giảm lãi",
+   "url": "https://vietnamnet.vn/lai-suat-ngan-hang-hom-nay-22-10-2026-ong-lon-nhap-cuoc-giam-lai-suat-2567223.html",
+   "giong": "tich_cuc"
+  },
+  {
+   "thoi_diem": "2026-10-22 12:00",
+   "nguon": "VnEconomy",
+   "tieu_de": "Một ngân hàng thương mại giảm lãi vay cá nhân hỗ trợ kinh doanh",
+   "url": "https://vneconomy.vn/sacombank-giam-lai-suat-cho-vay-ca-nhan-tu-15-2-ho-tro-kinh-doanh.htm",
+   "giong": "tich_cuc"
+  },
+  {
+   "thoi_diem": "2026-10-20 09:24",
+   "nguon": "Báo Chính phủ",
+   "tieu_de": "Quy định thanh toán không dùng tiền mặt cho giao dịch vàng từ mức nhất định",
+   "url": "https://baochinhphu.vn/mua-ban-vang-tu-5-trieu-dong-trong-ngay-phai-thanh-toan-khong-dung-tien-mat-102261019170310962.htm",
+   "giong": "trung_tinh"
+  },
+  {
+   "thoi_diem": "2026-10-23 09:26",
+   "nguon": "Vietstock",
+   "tieu_de": "Sở giao dịch hàng hóa hoàn tất thẩm định an toàn hệ thống cấp độ 4",
+   "url": "http://vietstock.vn/2026/10/caex-hoan-tat-tham-dinh-an-toan-he-thong-thong-tin-cap-do-4-16312-1505944.htm",
+   "giong": "tich_cuc"
+  },
+  {
+   "thoi_diem": "2026-10-21 13:30",
+   "nguon": "CafeF",
+   "tieu_de": "Công ty chứng khoán báo doanh thu quý III tăng nhờ các mảng mới",
+   "url": "https://cafef.vn/shs-doanh-thu-quy-iii-tang-23-dong-luc-tang-truong-den-tu-cac-tru-cot-moi-188261021103424702.chn",
+   "giong": "tich_cuc"
+  },
+  {
+   "thoi_diem": "2026-10-21 08:00",
+   "nguon": "CafeF",
+   "tieu_de": "Địa phương và tập đoàn bàn cách tháo gỡ vướng mắc cho dự án trọng điểm",
+   "url": "https://cafef.vn/quang-tri-va-tt-group-ban-cach-go-kho-khan-tang-toc-trien-khai-loat-du-an-trong-diem-188261020224242065.chn",
+   "giong": "trung_tinh"
+  },
+  {
+   "thoi_diem": "2026-10-25 22:11",
+   "nguon": "Nhân Dân",
+   "tieu_de": "Lãnh đạo Quốc hội nhấn mạnh tinh thần làm dự án phục vụ APEC 2027",
+   "url": "https://nhandan.vn/chu-tich-quoc-hoi-tran-thanh-man-nhan-manh-tinh-than-3-khong-trong-thuc-hien-du-an-phuc-vu-apec-2027-post997989.html",
+   "giong": "tich_cuc"
+  },
+  {
+   "thoi_diem": "2026-10-26 08:34",
+   "nguon": "Thời báo Tài chính",
+   "tieu_de": "Bản tin tỷ giá 26/10, USD suy yếu trước các quyết định lãi suất của ngân hàng trung ương",
+   "url": "https://thoibaotaichinhvietnam.vn/ty-gia-usd-hom-nay-26-10-dxy-suy-yeu-truoc-quyet-dinh-lai-suat-cua-nhieu-ngan-hang-trung-uong-205897.html",
+   "giong": "trung_tinh"
+  },
+  {
+   "thoi_diem": "2026-10-26 08:02",
+   "nguon": "Thời báo Ngân hàng",
+   "tieu_de": "Giá vàng thế giới còn chịu áp lực giảm, thị trường chờ tín hiệu từ Fed",
+   "url": "https://thoibaonganhang.vn/gia-vang-the-gioi-chua-thoat-ap-luc-giam-tam-diem-huong-ve-fed-189614.html",
+   "giong": "tieu_cuc"
+  },
+  {
+   "thoi_diem": "2026-10-26 00:03",
+   "nguon": "CafeF",
+   "tieu_de": "Cập nhật báo cáo tài chính quý III, một số doanh nghiệp bất ngờ thua lỗ",
+   "url": "https://cafef.vn/cap-nhat-bctc-quy-3-2026-sang-ngay-26-10-hai-ngan-hang-lai-hon-10000-ty-mot-doanh-nghiep-tang-hon-300-lan-loat-doanh-nghiep-bat-ngo-thua-lo-188261025235657912.chn",
+   "giong": "trung_tinh"
+  }
+ ],
+ "nguon": [
+  {
+   "ten": "Hub TVN (hub_pub.json.gz)",
+   "url": "https://jukytwo.github.io/tvn-hub/",
+   "thoi_diem": "2026-10-26 09:04",
+   "ghi_chu": "Đếm bài, sắc thái, hàm ý, giá HOSE đến 23/10, vĩ mô và La bàn tuần"
+  },
+  {
+   "ten": "Dân Trí",
+   "url": "https://dantri.com.vn/kinh-doanh/mb-giam-lai-suat-cho-vay-toi-2nam-dong-hanh-cung-doanh-nghiep-va-nguoi-dan-20261020093142779.htm",
+   "thoi_diem": "2026-10-20 09:47",
+   "ghi_chu": "Một ngân hàng lớn công bố giảm lãi vay hai năm đồng hành doanh nghiệp"
+  },
+  {
+   "ten": "Vietstock",
+   "url": "http://vietstock.vn/2026/10/hdbank-trien-khai-goi-tin-dung-10000-ty-dong-giam-lai-suat-15nam-ho-tro-doanh-nghiep-757-1504796.htm",
+   "thoi_diem": "2026-10-20 19:16",
+   "ghi_chu": "Gói tín dụng 10.000 tỷ đồng với lãi vay giảm 1,5% mỗi năm cho doanh nghiệp"
+  },
+  {
+   "ten": "Znews",
+   "url": "https://znews.vn/vietinbank-trien-khai-cac-giai-phap-giam-lai-suat-cho-vay-toi-2-nam-post1690883.html",
+   "thoi_diem": "2026-10-20 18:00",
+   "ghi_chu": "Một ngân hàng quốc doanh triển khai giải pháp giảm lãi vay hai năm"
+  },
+  {
+   "ten": "Thanh Niên",
+   "url": "https://thanhnien.vn/de-nghi-cac-ngan-hang-giam-lai-suat-thuc-chat-185261022091523656.htm",
+   "thoi_diem": "2026-10-22 09:15",
+   "ghi_chu": "Kiến nghị các ngân hàng giảm lãi suất ở mức thực chất"
+  },
+  {
+   "ten": "VietnamNet",
+   "url": "https://vietnamnet.vn/lai-suat-ngan-hang-hom-nay-22-10-2026-ong-lon-nhap-cuoc-giam-lai-suat-2567223.html",
+   "thoi_diem": "2026-10-22 08:00",
+   "ghi_chu": "Bản tin lãi suất ngày 22/10, nhóm ngân hàng lớn cùng vào cuộc giảm lãi"
+  },
+  {
+   "ten": "VnEconomy",
+   "url": "https://vneconomy.vn/sacombank-giam-lai-suat-cho-vay-ca-nhan-tu-15-2-ho-tro-kinh-doanh.htm",
+   "thoi_diem": "2026-10-22 12:00",
+   "ghi_chu": "Một ngân hàng thương mại giảm lãi vay cá nhân hỗ trợ kinh doanh"
+  }
+ ],
+ "id": "vm-THI-TRUONG-VA-CHINH-PHU-20261026-0911"
+}
