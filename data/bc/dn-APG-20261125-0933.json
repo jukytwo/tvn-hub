@@ -1,0 +1,898 @@
+{
+ "phien_ban": 1,
+ "loai": "doanh_nghiep",
+ "chu_the": "APG",
+ "ten_day_du": "CTCP Chứng khoán APG (HOSE: APG)",
+ "ngay": "2026-11-25T09:33:16+07:00",
+ "dau_vao": {
+  "yeu_cau": "Phiếu từ trạm TVN Hub: phân tích truyền thông doanh nghiệp APG",
+  "khoang_thoi_gian": "90 ngày báo chí; công bố HOSE từ 15/05/2025",
+  "tu_ngay": "2026-08-27",
+  "den_ngay": "2026-11-25",
+  "pham_vi": [
+   "Báo chí",
+   "Công bố HOSE",
+   "Diễn đàn F247",
+   "Giá cổ phiếu"
+  ]
+ },
+ "tieu_de": "APG: báo chí đã chuyển hẳn sang tiêu cực sau khoản lỗ tự doanh quý III, giá mất 33,8% trong 60 phiên",
+ "cau_moc": "Tháng 10 có 7 bài báo về APG thì 4 bài xấu, trong khi 26 công bố quý III của doanh nghiệp không có câu chuyện nào giải thích khoản lỗ tự doanh.",
+ "tom_tat": "Khoản lỗ tự doanh quý III biến APG thành câu chuyện tiêu cực trên báo; doanh nghiệp công bố nhiều nhưng chủ yếu là thủ tục, giá giảm 33,8% trong 60 phiên.",
+ "ket_luan": "APG đang ở thế bị lo ngại: tin xấu về khoản lỗ tự doanh quý III chiếm 4 trên 7 bài báo tháng 10, giá giảm 14,4% trong 20 phiên và 33,8% trong 60 phiên, còn chuỗi công bố của doanh nghiệp nặng thủ tục nhân sự và đại hội, chưa có thông điệp chủ động nào trấn an. Kết luận này đổi nếu doanh nghiệp công bố phương án xử lý danh mục tự doanh hoặc kết quả quý IV cho thấy đã cắt lỗ xong.",
+ "the_so": [
+  {
+   "so": "3.330",
+   "nhan": "Giá đóng cửa 23/11/2026 (đồng): vùng thị giá thấp, dễ bị chi phối bởi dòng tiền đầu cơ"
+  },
+  {
+   "so": "−33,8%",
+   "nhan": "Giá 60 phiên: thị trường đã định giá lại APG sau tin lỗ, sâu hơn nhiều so với VN-Index (−3,77% 20 phiên)"
+  },
+  {
+   "so": "4/7",
+   "nhan": "Bài xấu trên tổng bài tháng 10: câu chuyện trên báo nay do khoản lỗ dẫn dắt"
+  },
+  {
+   "so": "110",
+   "nhan": "Công bố HOSE từ 15/05/2025: dày về thủ tục, mỏng về câu chuyện kinh doanh"
+  }
+ ],
+ "dong_ho": {
+  "diem": 55.5,
+  "nhan": "Bình thường",
+  "mo_ta": "Tâm lý thị trường chung, không riêng APG: điểm gốc +11 trên thang −100 đến +100 (phiên trước +13); tin báo +8, F247 −25, chính sách +26. Thị trường bình thường nhưng diễn đàn lo hơn báo, bất lợi cho mã nhỏ đang có tin xấu như APG."
+ },
+ "bay_cau": [
+  {
+   "cau": "Chủ thể đang muốn gì?",
+   "tra_loi": "Suy luận: doanh nghiệp đang ưu tiên giữ ổn định bộ máy và thu hẹp rủi ro vốn, thể hiện qua việc thôi kế hoạch chào bán riêng lẻ 50 triệu cổ phiếu (12/9) và 28 công bố về quản trị, nhân sự. Hàm ý: APG chưa ở thế mở rộng, mà đang phòng thủ.",
+   "loai_nhan": "suy_luan",
+   "do_tin_cay": "trung_binh",
+   "danh_gia": "trung_tinh",
+   "nguon": "Công bố HOSE; CafeF 12/09/2026"
+  },
+  {
+   "cau": "Họ muốn thị trường tin điều gì?",
+   "tra_loi": "Dữ kiện: không có bài nào mang giọng chủ động định hướng trong 8 bài 90 ngày; công bố quý III (26 văn bản) chủ yếu là định kỳ và nhân sự. Hàm ý: doanh nghiệp để báo chí tự kể câu chuyện khoản lỗ.",
+   "loai_nhan": "du_kien",
+   "do_tin_cay": "cao",
+   "danh_gia": "xau",
+   "nguon": "Hub, bốn nhãn giọng báo chí; công bố HOSE"
+  },
+  {
+   "cau": "Thị trường đang nghĩ gì?",
+   "tra_loi": "Dữ kiện: giọng báo chí tụt từ 100 điểm (tháng 9, 1 bài tốt) xuống 20 điểm (tháng 10, 4 xấu trên 7). Sự chú ý 30 ngày chỉ 2,5 điểm, nghĩa là sau đợt tin lỗ, APG gần như rơi khỏi tầm nhìn của báo.",
+   "loai_nhan": "du_kien",
+   "do_tin_cay": "cao",
+   "danh_gia": "xau",
+   "nguon": "Hub, giọng báo chí theo tháng"
+  },
+  {
+   "cau": "Thực tế có xác nhận không?",
+   "tra_loi": "Dữ kiện: nhiều báo độc lập (CafeF, VietnamBiz, Tin nhanh Chứng khoán) cùng phản ánh khoản lỗ quý III trên 100 tỷ đồng do danh mục tự doanh tập trung vào một mã giảm sàn liên tiếp. Hàm ý: tin xấu có nền số liệu thật, không phải cảm xúc.",
+   "loai_nhan": "du_kien",
+   "do_tin_cay": "cao",
+   "danh_gia": "xau",
+   "nguon": "CafeF 25/10, VietnamBiz 26/10, Tin nhanh Chứng khoán 26/10/2026"
+  },
+  {
+   "cau": "Dòng tiền đã xác nhận chưa?",
+   "tra_loi": "Dữ kiện: giá giảm 14,4% trong 20 phiên và 33,8% trong 60 phiên, mạnh hơn VN-Index (−3,77% 20 phiên). Hàm ý: tiền đã rút trước và sau tin, giá đang xác nhận câu chuyện xấu. Kho chưa có thanh khoản và khối ngoại riêng của APG.",
+   "loai_nhan": "du_kien",
+   "do_tin_cay": "trung_binh",
+   "danh_gia": "xau",
+   "nguon": "Hub, giá đến 23/11/2026"
+  },
+  {
+   "cau": "Có gì bất thường hoặc đáng ngại?",
+   "tra_loi": "Dữ kiện: 8 công bố gắn cờ xử phạt, nhắc nhở hoặc chậm công bố; 8 công bố thay nhân sự chủ chốt; 8 công bố có tiêu đề không nói nội dung; 3 lần đính chính hoặc huỷ. Hàm ý: rủi ro quản trị cần giải thích, chưa phải bằng chứng sai phạm.",
+   "loai_nhan": "du_kien",
+   "do_tin_cay": "cao",
+   "danh_gia": "xau",
+   "nguon": "Công bố HOSE 15/05/2025–30/10/2026"
+  },
+  {
+   "cau": "Kết luận và kịch bản",
+   "tra_loi": "Đã xác nhận: khoản lỗ tự doanh quý III và đà giảm giá sâu. Còn là giả thuyết: doanh nghiệp đã cắt hết vị thế lỗ hay chưa. Theo dõi: báo cáo quý IV, công bố về danh mục tự doanh và biến động nhân sự điều hành.",
+   "loai_nhan": "gia_thuyet",
+   "do_tin_cay": "trung_binh",
+   "danh_gia": "xau",
+   "nguon": "Tổng hợp"
+  }
+ ],
+ "ham_y": [
+  {
+   "ham_y": "Rủi ro lớn nhất của APG nằm ở tập trung danh mục tự doanh, không phải ở mảng môi giới.",
+   "loai_nhan": "suy_luan",
+   "do_tin_cay": "trung_binh",
+   "bang_chung": [
+    {
+     "text": "Ba báo độc lập cùng quy khoản lỗ quý III về một mã trong danh mục tự doanh giảm sàn nhiều phiên",
+     "nguon": "CafeF, VietnamBiz, Tin nhanh Chứng khoán",
+     "thoi_diem": "25–26/10/2026"
+    }
+   ],
+   "tac_dong": "Vốn chủ sở hữu và sức mua ký quỹ bị thu hẹp, tác động tới mã APG trong vài quý.",
+   "xac_nhan_neu": "Báo cáo quý IV tiếp tục ghi lỗ đánh giá lại danh mục.",
+   "bac_bo_neu": "Quý IV công bố đã thoái vị thế và lãi trở lại."
+  },
+  {
+   "ham_y": "Việc thôi chào bán riêng lẻ trước khi lộ khoản lỗ hàm ý kênh huy động vốn mới đang khó, APG phải tự xoay bằng nguồn hiện có.",
+   "loai_nhan": "gia_thuyet",
+   "do_tin_cay": "thap",
+   "bang_chung": [
+    {
+     "text": "Thôi kế hoạch chào bán riêng lẻ 50 triệu cổ phiếu",
+     "nguon": "CafeF",
+     "thoi_diem": "12/09/2026"
+    }
+   ],
+   "tac_dong": "Hạn chế khả năng bù vốn sau lỗ, độ trễ vài quý.",
+   "xac_nhan_neu": "Không có phương án tăng vốn nào trong đại hội tới.",
+   "bac_bo_neu": "Doanh nghiệp công bố phương án tăng vốn mới có nhà đầu tư cụ thể."
+  },
+  {
+   "ham_y": "Bộ máy điều hành thiếu ổn định làm giảm độ tin của thông điệp doanh nghiệp đúng lúc cần trấn an nhất.",
+   "loai_nhan": "suy_luan",
+   "do_tin_cay": "trung_binh",
+   "bang_chung": [
+    {
+     "text": "8 công bố thay nhân sự chủ chốt, 28 công bố quản trị nhân sự; công bố nhân sự gần nhất 30/10/2026",
+     "nguon": "HOSE",
+     "thoi_diem": "15/05/2025–30/10/2026"
+    }
+   ],
+   "tac_dong": "Tâm lý nhà đầu tư với mã, ngay và vài tuần.",
+   "xac_nhan_neu": "Thêm thay đổi tổng giám đốc hoặc kế toán trưởng trong quý I/2027.",
+   "bac_bo_neu": "Bộ máy giữ nguyên qua kỳ báo cáo năm."
+  }
+ ],
+ "muc": [
+  {
+   "tieu_de": "1. Tần suất truyền thông",
+   "khoi": [
+    {
+     "loai": "the_so",
+     "items": [
+      {
+       "so": "110",
+       "nhan": "công bố HOSE từ 15/05/2025"
+      },
+      {
+       "so": "67",
+       "nhan": "công bố năm 2026 đến 30/10"
+      },
+      {
+       "so": "26",
+       "nhan": "công bố mỗi quý Q2 và Q3/2026"
+      }
+     ]
+    },
+    {
+     "loai": "doan",
+     "text": "Năm 2026 có 67 công bố trong 10 tháng so với 43 công bố trong khoảng 7,5 tháng năm 2025, nhịp gần như không đổi về tháng nhưng dồn vào Q2 và Q3/2026 (26 mỗi quý). Hàm ý: doanh nghiệp công bố đều về thủ tục, nên số lượng không phản ánh mức độ chủ động kể chuyện."
+    },
+    {
+     "loai": "cot_chong",
+     "tieu_de": "Công bố HOSE theo năm và nhóm",
+     "nhom": [
+      "Quản trị, nhân sự",
+      "Báo cáo định kỳ",
+      "Đại hội cổ đông",
+      "Pháp lý, xử lý vi phạm",
+      "Khác"
+     ],
+     "du_lieu": [
+      {
+       "nhan": "2025",
+       "gia_tri": [
+        12,
+        8,
+        4,
+        2,
+        17
+       ]
+      },
+      {
+       "nhan": "2026",
+       "gia_tri": [
+        16,
+        16,
+        16,
+        6,
+        13
+       ]
+      }
+     ],
+     "moc": {
+      "truoc_vi_tri": 0,
+      "chu": "Dữ liệu từ 15/05/2025"
+     },
+     "chu_thich": "Nhóm Khác gộp vay bảo lãnh, công ty con, cổ đông lớn, bên liên quan, phát hành và khác. Năm 2026 nhóm pháp lý tăng từ 2 lên 6, hàm ý áp lực tuân thủ đang lớn hơn."
+    },
+    {
+     "loai": "bang",
+     "cot": [
+      "Nhóm",
+      "Số công bố",
+      "Tỷ trọng",
+      "Hàm ý"
+     ],
+     "hang": [
+      [
+       "Quản trị, nhân sự",
+       "28",
+       "25,5%",
+       "bộ máy thay đổi nhiều, cần câu chuyện ổn định"
+      ],
+      [
+       "Báo cáo định kỳ",
+       "24",
+       "21,8%",
+       "phần bắt buộc, không phải thông điệp chủ động"
+      ],
+      [
+       "Đại hội cổ đông",
+       "20",
+       "18,2%",
+       "tập trung năm 2026, có thể gắn với họp bất thường"
+      ],
+      [
+       "Pháp lý, xử lý vi phạm",
+       "8",
+       "7,3%",
+       "tỷ trọng đáng kể với một công ty chứng khoán"
+      ],
+      [
+       "Công ty con, đầu tư, tái cấu trúc",
+       "7",
+       "6,4%",
+       "có hoạt động sắp xếp đầu tư"
+      ],
+      [
+       "Vay, bảo lãnh, tài sản bảo đảm",
+       "6",
+       "5,5%",
+       "cần đối chiếu với nợ vay sau lỗ"
+      ],
+      [
+       "Các nhóm còn lại",
+       "17",
+       "15,5%",
+       "phân tán, ít tín hiệu riêng"
+      ]
+     ]
+    },
+    {
+     "loai": "nguon",
+     "text": "Nguồn: công bố HOSE do Hub tổng hợp, 15/05/2025–30/10/2026."
+    },
+    {
+     "loai": "nhan_dinh",
+     "cau": [
+      "APG công bố nhiều nhưng chủ yếu là thủ tục.",
+      "Gần 75% công bố thuộc quản trị nhân sự, định kỳ và đại hội.",
+      "Nhóm pháp lý tăng gấp ba năm 2026 là tín hiệu cần giải thích."
+     ]
+    }
+   ]
+  },
+  {
+   "tieu_de": "2. Doanh nghiệp đang muốn gì",
+   "khoi": [
+    {
+     "loai": "danh_sach",
+     "items": [
+      {
+       "dam": "Thu hẹp rủi ro vốn.",
+       "text": "Thôi chào bán riêng lẻ 50 triệu cổ phiếu (12/9/2026); hàm ý tạm gác mở rộng quy mô vốn."
+      },
+      {
+       "dam": "Giữ bộ máy vận hành.",
+       "text": "Công bố nhân sự gần nhất 9/10 và 30/10/2026; hàm ý bộ máy còn đang sắp xếp sau quý III."
+      },
+      {
+       "dam": "Sắp xếp đầu tư.",
+       "text": "7 công bố về công ty con và tái cấu trúc; hàm ý có điều chỉnh danh mục đầu tư."
+      }
+     ]
+    },
+    {
+     "loai": "nhan_dinh",
+     "cau": [
+      "Suy luận: APG đang phòng thủ, chưa có kế hoạch tăng trưởng được công bố.",
+      "Đây là suy luận từ chuỗi công bố, chưa có phát biểu lãnh đạo trong dữ liệu."
+     ]
+    }
+   ]
+  },
+  {
+   "tieu_de": "3. Thông điệp và giọng",
+   "khoi": [
+    {
+     "loai": "duong",
+     "tieu_de": "Giọng báo chí về APG theo tháng (0 xấu nhất, 100 tốt nhất)",
+     "nhan": [
+      "2026-09",
+      "2026-10"
+     ],
+     "chuoi": [
+      {
+       "ten": "Giọng báo chí",
+       "gia_tri": [
+        100,
+        20
+       ]
+      },
+      {
+       "ten": "Số bài",
+       "gia_tri": [
+        1,
+        7
+       ]
+      }
+     ],
+     "chu_thich": "Số bài tăng 7 lần trong khi giọng rơi 80 điểm: APG chỉ được chú ý khi có tin xấu."
+    },
+    {
+     "loai": "bang",
+     "cot": [
+      "Góc báo",
+      "Số bài",
+      "Hàm ý"
+     ],
+     "hang": [
+      [
+       "Kết quả kinh doanh",
+       "6",
+       "câu chuyện xoay quanh khoản lỗ"
+      ],
+      [
+       "Cổ tức, phát hành",
+       "1",
+       "tin thôi chào bán, được đọc tích cực"
+      ],
+      [
+       "Nhân sự, miễn nhiệm",
+       "1",
+       "tin nhân sự điều hành, cần đối chiếu"
+      ]
+     ]
+    },
+    {
+     "loai": "nguon",
+     "text": "Nguồn: Hub, 8 bài báo 90 ngày từ CafeF (3), VietnamBiz (2), VnExpress, Tin nhanh Chứng khoán, Tuổi Trẻ (1 mỗi báo)."
+    },
+    {
+     "loai": "nhan_dinh",
+     "cau": [
+      "Doanh nghiệp không có thông điệp riêng trên báo.",
+      "Không có bài nào mang giọng chủ động định hướng; 1 bài mang giọng phòng thủ.",
+      "Hàm ý: khoảng trống thông tin đang được lấp bởi câu chuyện khoản lỗ."
+     ]
+    }
+   ]
+  },
+  {
+   "tieu_de": "4. Lệch pha",
+   "khoi": [
+    {
+     "loai": "bang",
+     "cot": [
+      "Thông điệp",
+      "Dữ liệu thực tế",
+      "Mức lệch",
+      "Rủi ro"
+     ],
+     "hang": [
+      [
+       "Không có thông điệp chủ động về quý III",
+       "Lỗ quý III trên 100 tỷ đồng theo nhiều báo",
+       "Cao",
+       "Nhà đầu tư tự suy diễn quy mô thiệt hại"
+      ],
+      [
+       "Thôi chào bán riêng lẻ, được đọc tích cực",
+       "Khoản lỗ lộ ra 6 tuần sau",
+       "Trung bình",
+       "Quyết định cũ bị đọc lại như dấu hiệu khó huy động"
+      ],
+      [
+       "Bộ máy vẫn vận hành",
+       "8 lần thay nhân sự chủ chốt",
+       "Trung bình",
+       "Giảm độ tin của cam kết quản trị"
+      ]
+     ]
+    },
+    {
+     "loai": "nhan_dinh",
+     "cau": [
+      "Lệch lớn nhất là im lặng trước khoản lỗ.",
+      "Đây là bất nhất cần giải thích, không kết luận doanh nghiệp có ý đồ xấu."
+     ]
+    }
+   ]
+  },
+  {
+   "tieu_de": "5. Điểm yếu trong truyền thông",
+   "khoi": [
+    {
+     "loai": "bang",
+     "cot": [
+      "Điểm yếu",
+      "Dẫn chứng",
+      "Người đọc dễ hiểu thành"
+     ],
+     "hang": [
+      [
+       "Tiêu đề không nói nội dung",
+       "8 công bố phải mở văn bản mới biết",
+       "Doanh nghiệp né thông tin"
+      ],
+      [
+       "Đính chính, huỷ",
+       "3 công bố đính chính hoặc huỷ",
+       "Quản trị thiếu cẩn trọng"
+      ],
+      [
+       "Cờ xử phạt, nhắc nhở",
+       "8 công bố",
+       "Rủi ro tuân thủ kéo dài"
+      ],
+      [
+       "Thay nhân sự chủ chốt",
+       "8 công bố",
+       "Bộ máy bất ổn"
+      ],
+      [
+       "Không giải thích lỗ",
+       "0 bài chủ động định hướng",
+       "Thiệt hại còn lớn hơn số đã biết"
+      ]
+     ]
+    },
+    {
+     "loai": "nhan_dinh",
+     "cau": [
+      "Điểm yếu nằm ở cách nói, không chỉ ở số liệu.",
+      "Mỗi nhóm cờ có 3 đến 8 công bố, đủ để người đọc thấy thành một chuỗi."
+     ]
+    }
+   ]
+  },
+  {
+   "tieu_de": "6. Thị trường nghĩ gì",
+   "khoi": [
+    {
+     "loai": "the_so",
+     "items": [
+      {
+       "so": "2",
+       "nhan": "bài báo 30 ngày: sự chú ý đã nguội sau đợt tin lỗ"
+      },
+      {
+       "so": "31",
+       "nhan": "chủ đề F247 tích luỹ: APG từng là mã được bàn sôi nổi"
+      },
+      {
+       "so": "2.289.723",
+       "nhan": "lượt xem F247: mã có lịch sử đầu cơ cá nhân"
+      }
+     ]
+    },
+    {
+     "loai": "duong",
+     "tieu_de": "Số chủ đề F247 về APG theo năm",
+     "nhan": [
+      "2021",
+      "2022",
+      "2023",
+      "2024",
+      "2025",
+      "2026"
+     ],
+     "chuoi": [
+      {
+       "ten": "Chủ đề F247",
+       "gia_tri": [
+        8,
+        7,
+        4,
+        1,
+        10,
+        1
+       ]
+      }
+     ],
+     "chu_thich": "Năm 2025 bùng lên 10 chủ đề rồi năm 2026 chỉ còn 1: nhà đầu tư cá nhân đã rời đi trước cả khoản lỗ."
+    },
+    {
+     "loai": "nhan_dinh",
+     "cau": [
+      "Thị trường đang quên APG hơn là bàn tán.",
+      "Không có tin đồn nào được ghi nhận trong 90 ngày.",
+      "Hàm ý: thiếu người mua mới, giá khó hồi chỉ nhờ tâm lý."
+     ]
+    }
+   ]
+  },
+  {
+   "tieu_de": "7. Chính sách vĩ mô và ngành",
+   "khoi": [
+    {
+     "loai": "doan",
+     "text": "Ngành chứng khoán có 642 tin trong 5 phiên, giảm từ 899 tin kỳ trước; giọng 5 phiên nghiêng nhẹ xấu (230 tin xấu so với 208 tin tốt). Hàm ý: chủ đề công ty chứng khoán đang nguội, không có lực kéo ngành nào đỡ APG."
+    },
+    {
+     "loai": "doan",
+     "text": "VN-Index 1.697,14 điểm ngày 23/11/2026, dưới cả MA20 và MA50, khối ngoại bán ròng 3.643,1 tỷ đồng trong 5 phiên; đồng hồ tâm lý +11, bình thường. Hàm ý: thị trường giằng co dưới bình quân là bất lợi cho doanh thu môi giới và ký quỹ của nhóm chứng khoán nhỏ."
+    },
+    {
+     "loai": "dong_ho",
+     "diem": 55.5,
+     "nhan": "Bình thường",
+     "mo_ta": "Tâm lý thị trường chung, không riêng APG: điểm gốc +11 trên thang −100 đến +100 (phiên trước +13); tin báo +8, F247 −25, chính sách +26. Thị trường bình thường nhưng diễn đàn lo hơn báo, bất lợi cho mã nhỏ đang có tin xấu như APG."
+    },
+    {
+     "loai": "nhan_dinh",
+     "cau": [
+      "Bối cảnh vĩ mô và ngành trung tính đến bất lợi với APG.",
+      "Mối lo chính của thị trường là thanh khoản và dòng tiền, đúng điểm yếu của công ty chứng khoán nhỏ."
+     ]
+    }
+   ]
+  },
+  {
+   "tieu_de": "8. Dòng tiền",
+   "khoi": [
+    {
+     "loai": "bang",
+     "cot": [
+      "Chỉ tiêu",
+      "APG",
+      "VN-Index",
+      "Hàm ý"
+     ],
+     "hang": [
+      [
+       "Giá đóng cửa 23/11/2026",
+       "3.330 đồng",
+       "1.697,14 điểm",
+       "APG ở vùng thị giá rất thấp"
+      ],
+      [
+       "20 phiên",
+       "−14,4%",
+       "−3,77%",
+       "APG yếu gấp gần 4 lần thị trường"
+      ],
+      [
+       "60 phiên",
+       "−33,8%",
+       "không có trong kho",
+       "tiền đã rút mạnh quanh mùa báo cáo quý III"
+      ]
+     ]
+    },
+    {
+     "loai": "nhan_dinh",
+     "cau": [
+      "Đánh giá: Đang bị lo ngại.",
+      "Giá giảm sâu hơn thị trường xác nhận câu chuyện xấu trên báo.",
+      "Kho chưa có thanh khoản, khối ngoại và tự doanh riêng của APG nên chưa thể nói đã có tiền bắt đáy."
+     ]
+    }
+   ]
+  },
+  {
+   "tieu_de": "9. Gợi ý cho bộ phận quan hệ nhà đầu tư",
+   "khoi": [
+    {
+     "loai": "the_goi_y",
+     "items": [
+      {
+       "tieu_de": "Giải thích khoản lỗ",
+       "text": "Một thông cáo nêu quy mô vị thế còn lại và hướng xử lý"
+      },
+      {
+       "tieu_de": "Tiêu đề rõ nghĩa",
+       "text": "Ghi nội dung ngay trên tiêu đề 8 loại công bố mơ hồ"
+      },
+      {
+       "tieu_de": "Ổn định nhân sự",
+       "text": "Công bố lộ trình bộ máy điều hành đến hết 2027"
+      },
+      {
+       "tieu_de": "Chính sách tự doanh",
+       "text": "Công bố hạn mức tập trung danh mục để lấy lại niềm tin"
+      }
+     ]
+    },
+    {
+     "loai": "nhan_dinh",
+     "cau": [
+      "Việc rẻ và nhanh nhất là một thông cáo giải thích khoản lỗ.",
+      "Im lặng thêm một kỳ báo cáo sẽ làm câu chuyện xấu cố định trong nhận thức."
+     ]
+    }
+   ]
+  },
+  {
+   "tieu_de": "10. Mốc cần theo dõi và giới hạn",
+   "khoi": [
+    {
+     "loai": "danh_sach",
+     "items": [
+      {
+       "dam": "Báo cáo tài chính quý IV/2026:",
+       "text": "xác nhận đã cắt lỗ danh mục tự doanh hay chưa."
+      },
+      {
+       "dam": "Công bố nhân sự:",
+       "text": "thêm thay đổi điều hành sẽ củng cố hàm ý bộ máy bất ổn."
+      },
+      {
+       "dam": "Đại hội cổ đông 2027:",
+       "text": "phương án vốn sau lỗ."
+      }
+     ]
+    },
+    {
+     "loai": "nhan_dinh",
+     "cau": [
+      "Mốc quan trọng nhất là báo cáo quý IV.",
+      "Đến lúc đó, đánh giá Đang bị lo ngại vẫn giữ."
+     ]
+    }
+   ]
+  }
+ ],
+ "kich_ban": [
+  {
+   "ten": "Cơ sở",
+   "xac_suat": "55%",
+   "dieu_kien": "Không có thông cáo mới, quý IV còn lỗ đánh giá lại nhưng nhỏ hơn",
+   "tac_dong": "Giá đi ngang ở vùng thấp, sự chú ý tiếp tục nguội"
+  },
+  {
+   "ten": "Tích cực",
+   "xac_suat": "20%",
+   "dieu_kien": "Doanh nghiệp giải thích rõ và quý IV có lãi nhờ thoái vị thế",
+   "tac_dong": "Giọng báo chí hồi, giá có thể hồi kỹ thuật từ vùng giảm 33,8%"
+  },
+  {
+   "ten": "Tiêu cực",
+   "xac_suat": "25%",
+   "dieu_kien": "Thêm lỗ, thêm cờ pháp lý hoặc thay nhân sự chủ chốt",
+   "tac_dong": "Giá tiếp tục chịu áp lực, rủi ro vốn và tuân thủ tăng"
+  }
+ ],
+ "theo_doi": [
+  {
+   "moc": "Báo cáo tài chính quý IV/2026",
+   "thoi_diem": "Tháng 1/2027",
+   "can_xem": "Lỗ hay lãi tự doanh, vốn chủ sở hữu"
+  },
+  {
+   "moc": "Công bố HOSE nhóm nhân sự và pháp lý",
+   "thoi_diem": "Liên tục",
+   "can_xem": "Thay đổi điều hành, xử phạt"
+  },
+  {
+   "moc": "Giá so VN-Index",
+   "thoi_diem": "20 phiên tới",
+   "can_xem": "APG có ngừng yếu hơn thị trường hay không"
+  }
+ ],
+ "ba_dieu": [
+  "Khoản lỗ tự doanh quý III đã biến APG thành câu chuyện tiêu cực: 4 trên 7 bài tháng 10 là tin xấu.",
+  "Giá mất 33,8% trong 60 phiên, yếu gấp gần 4 lần VN-Index trong 20 phiên, tiền đã xác nhận nỗi lo.",
+  "Doanh nghiệp chưa có thông điệp nào giải thích, 110 công bố chủ yếu là thủ tục."
+ ],
+ "nhan_chuyen_muc": "TRUYỀN THÔNG DOANH NGHIỆP",
+ "tom_gon": {
+  "ket_luan": "APG đang bị lo ngại: khoản lỗ tự doanh quý III chiếm phần lớn tin báo, giá giảm 33,8% trong 60 phiên, doanh nghiệp chưa có thông điệp giải thích.",
+  "bieu_do_tieu_de": "Công bố HOSE theo năm: năm 2026 dày về nhân sự, đại hội và pháp lý, mỏng về câu chuyện kinh doanh",
+  "cot_trai": {
+   "tieu_de": "Doanh nghiệp đang muốn gì",
+   "items": [
+    {
+     "dam": "Thu hẹp rủi ro vốn.",
+     "text": "Thôi chào bán 50 triệu cổ phiếu, hàm ý tạm gác mở rộng."
+    },
+    {
+     "dam": "Giữ bộ máy.",
+     "text": "28 công bố quản trị nhân sự, hàm ý bộ máy còn sắp xếp."
+    },
+    {
+     "dam": "Sắp xếp đầu tư.",
+     "text": "7 công bố công ty con, hàm ý điều chỉnh danh mục."
+    }
+   ]
+  },
+  "cot_phai": {
+   "tieu_de": "Điểm yếu trong truyền thông",
+   "danh_so": true,
+   "items": [
+    {
+     "dam": "Im lặng trước khoản lỗ:",
+     "text": "không bài chủ động nào"
+    },
+    {
+     "dam": "Tiêu đề mơ hồ:",
+     "text": "8 công bố phải mở mới biết"
+    },
+    {
+     "dam": "Cờ pháp lý:",
+     "text": "8 công bố xử phạt, nhắc nhở"
+    },
+    {
+     "dam": "Nhân sự biến động:",
+     "text": "8 lần thay vị trí chủ chốt"
+    },
+    {
+     "dam": "Đính chính:",
+     "text": "3 lần sửa hoặc huỷ"
+    }
+   ]
+  },
+  "the": {
+   "tieu_de": "Gợi ý cho bộ phận quan hệ nhà đầu tư",
+   "items": [
+    {
+     "tieu_de": "Giải thích khoản lỗ",
+     "text": "Nêu vị thế còn lại và hướng xử lý"
+    },
+    {
+     "tieu_de": "Tiêu đề rõ nghĩa",
+     "text": "Ghi nội dung ngay trên tiêu đề"
+    },
+    {
+     "tieu_de": "Ổn định nhân sự",
+     "text": "Công bố lộ trình bộ máy"
+    },
+    {
+     "tieu_de": "Hạn mức tự doanh",
+     "text": "Công bố giới hạn tập trung danh mục"
+    }
+   ]
+  },
+  "bay_cau": [
+   "Doanh nghiệp đang phòng thủ, thu hẹp rủi ro vốn.",
+   "Chưa có thông điệp chủ động nào trên báo.",
+   "Giọng báo rơi từ 100 xuống 20 điểm.",
+   "Nhiều báo độc lập xác nhận khoản lỗ quý III.",
+   "Giá giảm 33,8% trong 60 phiên, tiền đã rút.",
+   "Cờ pháp lý, nhân sự, tiêu đề mơ hồ mỗi loại 8 công bố.",
+   "Đang bị lo ngại; chờ báo cáo quý IV."
+  ],
+  "ham_y": [
+   "Rủi ro nằm ở tập trung danh mục tự doanh.",
+   "Kênh huy động vốn mới đang khó.",
+   "Bộ máy thiếu ổn định làm giảm độ tin thông điệp."
+  ],
+  "ba_dieu": [
+   "4 trên 7 bài tháng 10 là tin xấu, câu chuyện do khoản lỗ dẫn dắt.",
+   "Giá mất 33,8% trong 60 phiên, tiền đã xác nhận nỗi lo.",
+   "110 công bố chủ yếu thủ tục, chưa có lời giải thích khoản lỗ."
+  ],
+  "nguon": "Nguồn: TVN Intelligence Hub (báo chí, HOSE, F247, giá đến 23/11/2026). Không phải khuyến nghị đầu tư."
+ },
+ "gioi_han": [
+  "Kho chưa có thanh khoản, khối ngoại và tự doanh riêng của APG; nhận định dòng tiền chỉ dựa trên giá.",
+  "Kho không có website doanh nghiệp, công bố trước 15/05/2025, phỏng vấn lãnh đạo và số liệu báo cáo tài chính chi tiết; quy mô lỗ lấy theo báo chí.",
+  "Hai bài được hệ thống gắn với APG (Tuổi Trẻ 29/10 về nhân sự, nhắc một tên công ty khác, chưa đối chiếu được với APG, VnExpress 23/10 về hàng không) có thể là gắn nhầm, chưa dùng làm căn cứ.",
+  "Đồng hồ tâm lý là của thị trường chung, không riêng APG.",
+  "Báo cáo không phải khuyến nghị đầu tư."
+ ],
+ "nguon": [
+  {
+   "ten": "TVN Intelligence Hub, hồ sơ doanh nghiệp",
+   "url": "https://jukytwo.github.io/tvn-hub/",
+   "thoi_diem": "25/11/2026",
+   "ghi_chu": "Báo chí 90 ngày, công bố HOSE, F247, giá"
+  },
+  {
+   "ten": "Tuổi Trẻ",
+   "url": "https://tuoitre.vn/giam-doc-dieu-hanh-chung-khoan-smartmind-xin-tu-nhiem-chi-sau-hon-1-thang-100261029082314119.htm",
+   "thoi_diem": "2026-10-29 09:10",
+   "ghi_chu": "Tin nhân sự: giám đốc điều hành một công ty chứng khoán xin thôi sau hơn một tháng; hệ thống gắn với APG, cần đối chiếu"
+  },
+  {
+   "ten": "Tin nhanh Chứng khoán",
+   "url": "https://www.tinnhanhchungkhoan.vn/tu-doanh-nam-co-phieu-kos-chung-khoan-apg-bao-lo-lon-trong-9-thang-post400218.html",
+   "thoi_diem": "2026-10-26 11:21",
+   "ghi_chu": "Kết quả 9 tháng lỗ nặng, gắn với vị thế tự doanh lớn ở một mã"
+  },
+  {
+   "ten": "VietnamBiz",
+   "url": "https://vietnambiz.vn/apg-lo-108-ty-dong-quy-iii-danh-muc-co-phieu-mat-hon-nua-gia-tri-2026102675426389.htm",
+   "thoi_diem": "2026-10-26 08:12",
+   "ghi_chu": "Quý III lỗ trên 100 tỷ đồng, danh mục cổ phiếu mất quá nửa giá trị"
+  },
+  {
+   "ten": "VietnamBiz",
+   "url": "https://vietnambiz.vn/cong-ty-chung-khoan-lo-tram-ty-khi-tu-doanh-nam-co-phieu-dang-giam-san-25-phien-2026102675426389.htm",
+   "thoi_diem": "2026-10-26 08:12",
+   "ghi_chu": "Phân tích khoản lỗ tự doanh khi cổ phiếu nắm giữ giảm sàn liên tiếp"
+  },
+  {
+   "ten": "CafeF",
+   "url": "https://cafef.vn/don-toan-bo-danh-muc-227-ty-mua-co-phieu-kos-vua-giam-san-25-phien-lien-tiep-cong-ty-chung-khoan-bao-lo-tram-ty-18826102422125443.chn",
+   "thoi_diem": "2026-10-25 00:02",
+   "ghi_chu": "Danh mục tự doanh dồn vào một mã giảm sàn nhiều phiên, kéo kết quả quý về lỗ"
+  },
+  {
+   "ten": "CafeF",
+   "url": "https://cafef.vn/cap-nhat-bctc-quy-3-2026-sang-ngay-21-10-techcombank-lap-ky-luc-loi-nhuan-mot-cong-ty-chung-khoan-lo-hon-100-ty-dong-188261020224356066.chn",
+   "thoi_diem": "2026-10-21 00:01",
+   "ghi_chu": "Bản tin cập nhật báo cáo tài chính quý III nhiều doanh nghiệp, trong đó có một công ty chứng khoán lỗ trên 100 tỷ đồng"
+  },
+  {
+   "ten": "CafeF",
+   "url": "https://cafef.vn/chung-khoan-apg-huy-ke-hoach-chao-ban-50-trieu-co-phieu-rieng-le-188260912130355322.chn",
+   "thoi_diem": "2026-09-12 13:03",
+   "ghi_chu": "APG thôi kế hoạch chào bán riêng lẻ 50 triệu cổ phiếu"
+  }
+ ],
+ "du_lieu_dau_vao": [
+  {
+   "thoi_diem": "2026-10-29 09:10",
+   "nguon": "Tuổi Trẻ",
+   "tieu_de": "Tin nhân sự: giám đốc điều hành một công ty chứng khoán xin thôi sau hơn một tháng; hệ thống gắn với APG, cần đối chiếu",
+   "url": "https://tuoitre.vn/giam-doc-dieu-hanh-chung-khoan-smartmind-xin-tu-nhiem-chi-sau-hon-1-thang-100261029082314119.htm",
+   "giong": "trung_tinh"
+  },
+  {
+   "thoi_diem": "2026-10-26 11:21",
+   "nguon": "Tin nhanh Chứng khoán",
+   "tieu_de": "Kết quả 9 tháng lỗ nặng, gắn với vị thế tự doanh lớn ở một mã",
+   "url": "https://www.tinnhanhchungkhoan.vn/tu-doanh-nam-co-phieu-kos-chung-khoan-apg-bao-lo-lon-trong-9-thang-post400218.html",
+   "giong": "tieu_cuc"
+  },
+  {
+   "thoi_diem": "2026-10-26 08:12",
+   "nguon": "VietnamBiz",
+   "tieu_de": "Quý III lỗ trên 100 tỷ đồng, danh mục cổ phiếu mất quá nửa giá trị",
+   "url": "https://vietnambiz.vn/apg-lo-108-ty-dong-quy-iii-danh-muc-co-phieu-mat-hon-nua-gia-tri-2026102675426389.htm",
+   "giong": "tieu_cuc"
+  },
+  {
+   "thoi_diem": "2026-10-26 08:12",
+   "nguon": "VietnamBiz",
+   "tieu_de": "Phân tích khoản lỗ tự doanh khi cổ phiếu nắm giữ giảm sàn liên tiếp",
+   "url": "https://vietnambiz.vn/cong-ty-chung-khoan-lo-tram-ty-khi-tu-doanh-nam-co-phieu-dang-giam-san-25-phien-2026102675426389.htm",
+   "giong": "tieu_cuc"
+  },
+  {
+   "thoi_diem": "2026-10-25 00:02",
+   "nguon": "CafeF",
+   "tieu_de": "Danh mục tự doanh dồn vào một mã giảm sàn nhiều phiên, kéo kết quả quý về lỗ",
+   "url": "https://cafef.vn/don-toan-bo-danh-muc-227-ty-mua-co-phieu-kos-vua-giam-san-25-phien-lien-tiep-cong-ty-chung-khoan-bao-lo-tram-ty-18826102422125443.chn",
+   "giong": "tieu_cuc"
+  },
+  {
+   "thoi_diem": "2026-10-23 10:00",
+   "nguon": "VnExpress",
+   "tieu_de": "Bài về ngành hàng không, hệ thống gắn nhầm hoặc nhắc APG gián tiếp",
+   "url": "https://vnexpress.net/vietnam-airlines-day-manh-khai-thac-thi-truong-bi-5135890.html",
+   "giong": "trung_tinh"
+  },
+  {
+   "thoi_diem": "2026-10-21 00:01",
+   "nguon": "CafeF",
+   "tieu_de": "Bản tin cập nhật báo cáo tài chính quý III nhiều doanh nghiệp, trong đó có một công ty chứng khoán lỗ trên 100 tỷ đồng",
+   "url": "https://cafef.vn/cap-nhat-bctc-quy-3-2026-sang-ngay-21-10-techcombank-lap-ky-luc-loi-nhuan-mot-cong-ty-chung-khoan-lo-hon-100-ty-dong-188261020224356066.chn",
+   "giong": "tich_cuc"
+  },
+  {
+   "thoi_diem": "2026-09-12 13:03",
+   "nguon": "CafeF",
+   "tieu_de": "APG thôi kế hoạch chào bán riêng lẻ 50 triệu cổ phiếu",
+   "url": "https://cafef.vn/chung-khoan-apg-huy-ke-hoach-chao-ban-50-trieu-co-phieu-rieng-le-188260912130355322.chn",
+   "giong": "tich_cuc"
+  }
+ ]
+}

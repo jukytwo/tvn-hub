@@ -1,0 +1,828 @@
+{
+ "phien_ban": 1,
+ "loai": "co_hoi",
+ "chu_the": "ANV",
+ "ten_day_du": "CTCP Nam Việt (HOSE: ANV)",
+ "ngay": "2026-10-25T08:06:28+07:00",
+ "dau_vao": {
+  "yeu_cau": "Phiếu cơ hội cổ phiếu ANV gửi lúc 08:00 ngày 25/10/2026",
+  "khoang_thoi_gian": "5 phiên, 30 ngày và 90 ngày",
+  "tu_ngay": "2026-07-27",
+  "den_ngay": "2026-10-23",
+  "pham_vi": [
+   "Báo chí",
+   "Công bố thông tin HOSE",
+   "Diễn đàn F247",
+   "Giá đóng cửa",
+   "Bối cảnh thị trường"
+  ]
+ },
+ "tieu_de": "ANV tăng 19,44% trong 20 phiên dù tin duy nhất về quý III cho thấy lãi giảm tiếp: giá đang chạy trước câu chuyện",
+ "cau_moc": "Giá ANV tăng 19,44% trong 20 phiên, gấp ba nhịp của FMC so với VN-Index, trong khi tin kết quả quý III duy nhất trên báo lại nói lãi đi xuống.",
+ "tom_tat": "ANV vượt thị trường gần 20 điểm phần trăm trong 20 phiên nhưng báo chí trung tính, diễn đàn nguội và lợi nhuận quý III giảm; cơ hội còn là giả thuyết.",
+ "ket_luan": "ANV có cơ hội ở mức thấp đến trung bình, và hiện chưa phải điểm vào tốt. Giá đã tăng 19,44% trong 20 phiên đến 23/10 trong khi VN-Index giảm 0,61%, nhưng tin kết quả quý III duy nhất trên báo cho thấy lợi nhuận tiếp tục giảm vì giá vốn tăng. Đánh giá: Tiền vào trước câu chuyện. Để cơ hội thành thật cần biên lãi gộp quý IV hồi lại và giá giữ được vùng 18.000 đồng sau khi chốt quyền cổ tức.",
+ "the_so": [
+  {
+   "so": "+19,44%",
+   "nhan": "Giá 20 phiên đến 23/10; hàm ý tiền đã đặt cược vào một sự cải thiện mà số quý III chưa xác nhận"
+  },
+  {
+   "so": "2 bài",
+   "nhan": "Báo chí 30 ngày, đều trung tính; hàm ý giá tăng không nhờ truyền thông, câu chuyện chưa được kể"
+  },
+  {
+   "so": "21",
+   "nhan": "Chủ đề F247 năm 2026 so với 84 năm 2025; hàm ý đám đông nhỏ lẻ chưa quay lại, nhịp tăng chưa có lực lan"
+  },
+  {
+   "so": "19/53",
+   "nhan": "Công bố về cổ đông lớn và người nội bộ; hàm ý biến động sở hữu là mạch thông tin chính, cần đọc chiều mua hay bán"
+  }
+ ],
+ "dong_ho": {
+  "diem": 53.5,
+  "nhan": "Bình thường",
+  "mo_ta": "Điểm gốc tâm lý thị trường +7 trên thang âm 100 đến 100 (phiên trước âm 2), quy đổi 50 cộng 7 chia 2. Thành phần: tin báo và F247 +8 (tỷ trọng 70%), chính sách +5 (tỷ trọng 30%). Hàm ý: nền tâm lý chung không đủ nóng để giải thích riêng nhịp tăng của ANV."
+ },
+ "bay_cau": [
+  {
+   "cau": "Chủ thể đang muốn gì?",
+   "tra_loi": "Nam Việt đang ưu tiên giữ niềm tin cổ đông bằng cổ tức: tháng 10 có ba công bố về phát hành và cổ tức, trong đó có kế hoạch chi khoảng 270 tỷ đồng cho cổ tức hai năm 2025 và 2026. Hàm ý: doanh nghiệp chọn trả tiền mặt đúng lúc lợi nhuận đi xuống, tức muốn cổ đông nhìn vào dòng tiền chia hơn là vào biên lãi.",
+   "loai_nhan": "suy_luan",
+   "do_tin_cay": "trung_binh",
+   "danh_gia": "trung_tinh",
+   "nguon": "Công bố HOSE 9/10 và 13/10/2026; Vietstock 9/10/2026"
+  },
+  {
+   "cau": "Họ muốn thị trường tin điều gì?",
+   "tra_loi": "Câu chuyện doanh nghiệp đang truyền tải là sự ổn định và trả cổ tức đều. Cường độ truyền thông rất thấp: 2 bài báo trong 30 ngày, một nguồn duy nhất. Hàm ý: doanh nghiệp không chủ động kể chuyện tăng trưởng, nên phần kỳ vọng trên giá là do thị trường tự gán.",
+   "loai_nhan": "suy_luan",
+   "do_tin_cay": "trung_binh",
+   "danh_gia": "trung_tinh",
+   "nguon": "Hub, báo chí 30 ngày"
+  },
+  {
+   "cau": "Thị trường đang nghĩ gì?",
+   "tra_loi": "Sự chú ý thấp: điểm chú ý 30 ngày là 8, báo chí trung tính 2 trên 2 bài, F247 chỉ 21 chủ đề trong năm 2026 so với đỉnh 189 năm 2022. Hàm ý: nhà đầu tư nhỏ lẻ chưa bàn về ANV, nên nhịp tăng chưa phải do đám đông.",
+   "loai_nhan": "du_kien",
+   "do_tin_cay": "cao",
+   "danh_gia": "trung_tinh",
+   "nguon": "Hub, F247 và báo chí đến 23/10/2026"
+  },
+  {
+   "cau": "Thực tế có xác nhận không?",
+   "tra_loi": "Chưa. Tin kết quả quý III ngày 22/10 cho thấy lợi nhuận tiếp tục giảm do giá vốn tăng. Hàm ý: biên lãi gộp đang bị ép, khác với điều giá đang phản ánh.",
+   "loai_nhan": "du_kien",
+   "do_tin_cay": "trung_binh",
+   "danh_gia": "xau",
+   "nguon": "Vietstock 22/10/2026"
+  },
+  {
+   "cau": "Dòng tiền đã xác nhận chưa?",
+   "tra_loi": "Giá đã xác nhận: +19,44% trong 20 phiên và +13,06% trong 60 phiên, vượt VHC (+5,15% và âm 3,16%) và FMC (+11,28% và +7,35%). Kho chưa có khối lượng, giá trị giao dịch hay khối ngoại của ANV. Hàm ý: có tiền vào, nhưng chưa biết đó là tiền lớn bền hay vài phiên đẩy giá mỏng.",
+   "loai_nhan": "du_kien",
+   "do_tin_cay": "trung_binh",
+   "danh_gia": "tot",
+   "nguon": "Giá đóng cửa đến 23/10/2026"
+  },
+  {
+   "cau": "Có gì bất thường hoặc đáng ngại?",
+   "tra_loi": "Độ vênh giữa giá và lợi nhuận là điểm đáng ngại nhất. Thêm vào đó có 4 công bố thay nhân sự chủ chốt và 2 công bố tiêu đề không nói rõ nội dung kể từ 5/2025. Hàm ý: cần mở văn bản để kiểm, bất nhất là điều cần giải thích chứ chưa phải sai phạm.",
+   "loai_nhan": "suy_luan",
+   "do_tin_cay": "trung_binh",
+   "danh_gia": "xau",
+   "nguon": "Công bố HOSE 5/2025 đến 10/2026"
+  },
+  {
+   "cau": "Kết luận và kịch bản",
+   "tra_loi": "Đã xác nhận: giá tăng mạnh, lợi nhuận quý III giảm. Còn là giả thuyết: thị trường đặt cược giá vốn đã qua đỉnh và lợi nhuận quý IV hồi. Tín hiệu theo dõi: biên lãi gộp quý IV, diễn biến giá quanh ngày chốt quyền cổ tức và số chủ đề F247.",
+   "loai_nhan": "gia_thuyet",
+   "do_tin_cay": "thap",
+   "danh_gia": "chua_ro",
+   "nguon": "Tổng hợp báo cáo"
+  }
+ ],
+ "ham_y": [
+  {
+   "ham_y": "Tiền đang mua kỳ vọng biên lãi hồi phục, chưa mua kết quả.",
+   "loai_nhan": "gia_thuyet",
+   "do_tin_cay": "thap",
+   "bang_chung": [
+    {
+     "text": "Giá +19,44% trong 20 phiên",
+     "nguon": "Giá đóng cửa",
+     "thoi_diem": "23/10/2026"
+    },
+    {
+     "text": "Lợi nhuận quý III giảm do giá vốn tăng",
+     "nguon": "Vietstock",
+     "thoi_diem": "22/10/2026"
+    }
+   ],
+   "tac_dong": "Kênh mã: nếu quý IV không cải thiện, giá dễ trả lại phần tăng trong vài tuần đến một quý.",
+   "xac_nhan_neu": "Biên lãi gộp quý IV cao hơn quý III và giá giữ trên 18.000 đồng.",
+   "bac_bo_neu": "Giá thủng 17.000 đồng hoặc báo cáo quý IV tiếp tục cho thấy lợi nhuận giảm so với cùng kỳ."
+  },
+  {
+   "ham_y": "Cổ tức gộp hai năm là lực đỡ ngắn hạn, có thể tạo nhịp chốt lời sau ngày chốt quyền.",
+   "loai_nhan": "suy_luan",
+   "do_tin_cay": "trung_binh",
+   "bang_chung": [
+    {
+     "text": "Kế hoạch chi khoảng 270 tỷ đồng cổ tức năm 2025 và 2026",
+     "nguon": "Vietstock và công bố HOSE",
+     "thoi_diem": "9/10/2026"
+    }
+   ],
+   "tac_dong": "Kênh mã: lực mua chờ quyền thường dồn trước ngày chốt, áp lực bán xuất hiện sau đó; độ trễ ngay đến vài tuần.",
+   "xac_nhan_neu": "Giá giữ vững sau ngày giao dịch không hưởng quyền.",
+   "bac_bo_neu": "Giá giảm quá mức cổ tức được điều chỉnh trong 5 phiên sau chốt quyền."
+  },
+  {
+   "ham_y": "Giá dầu cao giữ áp lực giá vốn cho doanh nghiệp chế biến xuất khẩu.",
+   "loai_nhan": "gia_thuyet",
+   "do_tin_cay": "thap",
+   "bang_chung": [
+    {
+     "text": "Dầu Brent 115,22 USD một thùng",
+     "nguon": "EIA",
+     "thoi_diem": "20/10/2026"
+    },
+    {
+     "text": "Lãi suất và tín dụng là mối lo chính, 25 trên 61 tin bị đọc là xấu",
+     "nguon": "Hub",
+     "thoi_diem": "5 phiên đến 23/10/2026"
+    }
+   ],
+   "tac_dong": "Kênh ngành: chi phí thức ăn, vận chuyển và lãi vay; độ trễ vài quý.",
+   "xac_nhan_neu": "Brent giữ trên 110 USD và lãi vay doanh nghiệp không giảm trong quý IV.",
+   "bac_bo_neu": "Brent giảm về dưới 95 USD và các ngân hàng hạ lãi vay thực tế."
+  },
+  {
+   "ham_y": "Nhịp tăng chưa có đám đông, nên vừa còn dư địa nếu câu chuyện được kể, vừa dễ gãy nếu tiền dẫn rút.",
+   "loai_nhan": "suy_luan",
+   "do_tin_cay": "trung_binh",
+   "bang_chung": [
+    {
+     "text": "F247 21 chủ đề năm 2026 so với 84 năm 2025",
+     "nguon": "F247 qua Hub",
+     "thoi_diem": "đến 23/10/2026"
+    }
+   ],
+   "tac_dong": "Kênh thanh khoản: thiếu người mua nối nhịp nếu tin quý IV không tốt.",
+   "xac_nhan_neu": "Số chủ đề F247 và số bài báo về ANV tăng cùng giá.",
+   "bac_bo_neu": "Giá đi lên tiếp mà sự chú ý vẫn đứng yên trong 1 tháng."
+  }
+ ],
+ "muc": [
+  {
+   "tieu_de": "1. Thị trường đang nói gì về ANV",
+   "khoi": [
+    {
+     "loai": "the_so",
+     "items": [
+      {
+       "so": "2",
+       "nhan": "Bài báo 30 ngày, cũng là 90 ngày; hàm ý ANV gần như vắng mặt trên báo chí"
+      },
+      {
+       "so": "0",
+       "nhan": "Tin đồn ghi nhận; hàm ý nhịp tăng không đến từ tin đồn lan rộng"
+      },
+      {
+       "so": "8",
+       "nhan": "Điểm chú ý 30 ngày, so với 3 của VHC và 2 của FMC; hàm ý ANV được chú ý hơn cùng ngành nhưng vẫn thấp tuyệt đối"
+      },
+      {
+       "so": "5,54 triệu",
+       "nhan": "Lượt xem tích lũy trên 544 chủ đề F247; hàm ý mã từng có cộng đồng lớn, nay đang ngủ"
+      }
+     ]
+    },
+    {
+     "loai": "doan",
+     "text": "Trong 30 ngày, báo chí có 2 bài về ANV, cùng một nguồn và cùng giọng trung tính: một bài về kết quả quý III, một bài về kế hoạch chi cổ tức. Không ghi nhận tin đồn. Mã không nằm trong nhóm 60 mã được nhắc nhiều nhất 5 phiên, nên kho không có số lần nhắc so với kỳ trước."
+    },
+    {
+     "loai": "bang",
+     "cot": [
+      "Ngày",
+      "Nguồn",
+      "Ý chính (lời mới)",
+      "Giọng",
+      "Hàm ý"
+     ],
+     "hang": [
+      [
+       "22/10/2026",
+       "Vietstock",
+       "Lợi nhuận quý III tiếp tục đi xuống, nguyên nhân chính là giá vốn tăng",
+       "Trung tính",
+       "Biên lãi bị ép, điều giá chưa phản ánh"
+      ],
+      [
+       "09/10/2026",
+       "Vietstock",
+       "Doanh nghiệp chuẩn bị chi khoảng 270 tỷ đồng cổ tức cho năm 2025 và 2026",
+       "Trung tính",
+       "Lực đỡ ngắn hạn quanh ngày chốt quyền"
+      ]
+     ]
+    },
+    {
+     "loai": "duong",
+     "tieu_de": "Số chủ đề F247 về ANV theo năm: sự chú ý của nhà đầu tư nhỏ lẻ đã nguội hẳn từ đỉnh 2022",
+     "nhan": [
+      "2021",
+      "2022",
+      "2023",
+      "2024",
+      "2025",
+      "2026"
+     ],
+     "chuoi": [
+      {
+       "ten": "Chủ đề F247",
+       "gia_tri": [
+        14,
+        189,
+        115,
+        121,
+        84,
+        21
+       ]
+      }
+     ],
+     "chu_thich": "Năm 2026 tính đến 23/10. Hàm ý: số chủ đề năm nay chỉ bằng một phần tư năm 2025, nhịp tăng giá hiện tại diễn ra khi diễn đàn gần như im lặng."
+    },
+    {
+     "loai": "nguon",
+     "text": "Nguồn: Hub TVN, báo chí và F247 đến 23/10/2026."
+    },
+    {
+     "loai": "nhan_dinh",
+     "cau": [
+      "Thị trường gần như không nói về ANV, kể cả khi giá tăng gần 20%.",
+      "Hai bài báo đều trung tính, không có câu chuyện tăng trưởng nào được kể.",
+      "Hàm ý: kỳ vọng trên giá là do người mua tự đặt, chưa có truyền thông đứng sau."
+     ]
+    }
+   ]
+  },
+  {
+   "tieu_de": "2. Doanh nghiệp đang làm gì",
+   "khoi": [
+    {
+     "loai": "the_so",
+     "items": [
+      {
+       "so": "53",
+       "nhan": "Công bố HOSE từ 5/5/2025 đến 13/10/2026; hàm ý nhịp công bố đều, khoảng 3 văn bản mỗi tháng"
+      },
+      {
+       "so": "32",
+       "nhan": "Công bố năm 2026 so với 21 của 7 tháng cuối 2025; hàm ý năm nay doanh nghiệp hoạt động thủ tục dày hơn"
+      },
+      {
+       "so": "4",
+       "nhan": "Công bố thay nhân sự chủ chốt; hàm ý bộ máy điều hành có xáo trộn, cần đọc chức danh nào thay"
+      },
+      {
+       "so": "4",
+       "nhan": "Công bố trong quý IV tính đến 13/10, 3 về cổ tức; hàm ý cổ tức là trọng tâm thông tin hiện tại"
+      }
+     ]
+    },
+    {
+     "loai": "cot_chong",
+     "tieu_de": "Công bố thông tin theo năm và nhóm: cổ đông lớn và quản trị nhân sự chiếm phần lớn",
+     "nhom": [
+      "Cổ đông lớn, người nội bộ",
+      "Quản trị, nhân sự",
+      "Đại hội cổ đông",
+      "Báo cáo định kỳ",
+      "Phát hành, tăng vốn, cổ tức",
+      "Công ty con, đầu tư, tái cấu trúc",
+      "Khác"
+     ],
+     "du_lieu": [
+      {
+       "nhan": "2025",
+       "gia_tri": [
+        9,
+        3,
+        3,
+        2,
+        3,
+        1,
+        0
+       ]
+      },
+      {
+       "nhan": "2026",
+       "gia_tri": [
+        10,
+        8,
+        6,
+        4,
+        3,
+        0,
+        1
+       ]
+      }
+     ],
+     "chu_thich": "Năm 2025 tính từ 5/5/2025, năm 2026 tính đến 13/10/2026. Hàm ý: công bố quản trị, nhân sự tăng từ 3 lên 8, cho thấy năm 2026 là năm thay đổi bộ máy."
+    },
+    {
+     "loai": "bang",
+     "cot": [
+      "Nhóm",
+      "Số công bố",
+      "Tỷ trọng",
+      "Hàm ý"
+     ],
+     "hang": [
+      [
+       "Cổ đông lớn, người nội bộ",
+       "19",
+       "35,8%",
+       "Mạch thông tin chính là thay đổi sở hữu; chiều mua hay bán quyết định ý nghĩa"
+      ],
+      [
+       "Quản trị, nhân sự",
+       "11",
+       "20,8%",
+       "Bộ máy đang thay đổi, có 4 lần chạm vị trí chủ chốt"
+      ],
+      [
+       "Đại hội cổ đông",
+       "9",
+       "17,0%",
+       "Tin bắt buộc, ít giá trị dẫn dắt"
+      ],
+      [
+       "Báo cáo định kỳ",
+       "6",
+       "11,3%",
+       "Tin bắt buộc"
+      ],
+      [
+       "Phát hành, tăng vốn, cổ tức",
+       "6",
+       "11,3%",
+       "Dồn vào tháng 10/2026, đúng lúc lợi nhuận giảm"
+      ],
+      [
+       "Công ty con và khác",
+       "2",
+       "3,8%",
+       "Ít tin chủ động về dự án, đầu tư"
+      ]
+     ]
+    },
+    {
+     "loai": "doan",
+     "text": "Mười công bố gần nhất từ 27/7 đến 13/10/2026 gồm 3 về phát hành và cổ tức, 3 về cổ đông lớn và người nội bộ, 2 về quản trị nhân sự ngày 7/9, 1 báo cáo định kỳ và 1 văn bản khác ngày 19/8 mang giọng chủ động định hướng. Có 2 công bố kể từ 5/2025 mà tiêu đề không nói nội dung, phải mở văn bản mới biết."
+    },
+    {
+     "loai": "nguon",
+     "text": "Nguồn: Công bố thông tin HOSE qua Hub TVN, 5/2025 đến 10/2026."
+    },
+    {
+     "loai": "nhan_dinh",
+     "cau": [
+      "Doanh nghiệp đang kể câu chuyện cổ tức, không kể câu chuyện tăng trưởng.",
+      "Phần lớn công bố là tin bắt buộc; tin chủ động về dự án hay thị trường gần như không có.",
+      "Hàm ý: nếu muốn giá giữ được, doanh nghiệp cần giải thích lộ trình biên lãi, điều hiện chưa có trong công bố."
+     ]
+    }
+   ]
+  },
+  {
+   "tieu_de": "3. Dòng tiền",
+   "khoi": [
+    {
+     "loai": "the_so",
+     "items": [
+      {
+       "so": "19.050",
+       "nhan": "Giá đóng cửa 23/10/2026 (đồng); mốc neo cho khuyến nghị"
+      },
+      {
+       "so": "+19,44%",
+       "nhan": "Giá 20 phiên; hàm ý vượt VN-Index (âm 0,61%) gần 20 điểm phần trăm"
+      },
+      {
+       "so": "+13,06%",
+       "nhan": "Giá 60 phiên; hàm ý phần lớn mức tăng dồn vào tháng gần nhất, nhịp đang dốc"
+      },
+      {
+       "so": "chưa có",
+       "nhan": "Giá trị giao dịch và khối ngoại; hàm ý chưa xác nhận được độ dày của tiền"
+      }
+     ]
+    },
+    {
+     "loai": "bang",
+     "cot": [
+      "Mã",
+      "Giá 23/10 (đồng)",
+      "20 phiên",
+      "60 phiên",
+      "Báo 30 ngày",
+      "Hàm ý"
+     ],
+     "hang": [
+      [
+       "ANV",
+       "19.050",
+       "+19,44%",
+       "+13,06%",
+       "2 bài trung tính",
+       "Mạnh nhất nhóm dù tin kết quả kém nhất"
+      ],
+      [
+       "FMC",
+       "36.500",
+       "+11,28%",
+       "+7,35%",
+       "2 bài tích cực",
+       "Giá đi cùng kết quả quý III tốt: đồng pha"
+      ],
+      [
+       "VHC",
+       "52.100",
+       "+5,15%",
+       "âm 3,16%",
+       "0 bài",
+       "Đầu ngành tăng chậm, chưa có dòng tiền ngành rõ"
+      ],
+      [
+       "VN-Index",
+       "1.774,15 điểm",
+       "âm 0,61%",
+       "không có",
+       "không áp dụng",
+       "Thị trường chung đứng yên trong 20 phiên"
+      ]
+     ]
+    },
+    {
+     "loai": "nguon",
+     "text": "Nguồn: giá đóng cửa trong kho Hub TVN đến 23/10/2026."
+    },
+    {
+     "loai": "nhan_dinh",
+     "cau": [
+      "Tiền đã vào ANV, mạnh hơn cả đầu ngành VHC và FMC.",
+      "FMC tăng có lợi nhuận đỡ, ANV tăng khi lợi nhuận đi xuống, nên chất lượng nhịp tăng của ANV kém hơn.",
+      "Hàm ý: đây là tiền đi trước câu chuyện, chưa phải tiền xác nhận kết quả."
+     ]
+    }
+   ]
+  },
+  {
+   "tieu_de": "4. Đánh giá",
+   "khoi": [
+    {
+     "loai": "bang",
+     "cot": [
+      "Tiêu chí",
+      "Số liệu",
+      "Đọc",
+      "Hàm ý"
+     ],
+     "hang": [
+      [
+       "Sự chú ý",
+       "Điểm 8, 2 bài, 21 chủ đề F247 năm 2026",
+       "Thấp",
+       "Chưa có đám đông, chưa có câu chuyện"
+      ],
+      [
+       "Giọng",
+       "2 trên 2 bài trung tính",
+       "Trung tính",
+       "Không có tin tốt làm nền cho giá"
+      ],
+      [
+       "Kết quả",
+       "Lợi nhuận quý III giảm do giá vốn",
+       "Xấu",
+       "Thực tế chưa xác nhận kỳ vọng"
+      ],
+      [
+       "Giá",
+       "+19,44% 20 phiên",
+       "Mạnh",
+       "Tiền đã vào trước"
+      ]
+     ]
+    },
+    {
+     "loai": "doan",
+     "text": "Nhãn đánh giá: Tiền vào trước câu chuyện. Giá tăng 19,44% trong 20 phiên trong khi báo chí trung tính, diễn đàn vắng và lợi nhuận quý III giảm. Đây không phải nhãn Nghĩ tốt, tiền đã vào, vì thị trường chưa hề nghĩ tốt một cách công khai. Độ tin cậy thấp do thiếu khối lượng và khối ngoại."
+    },
+    {
+     "loai": "nhan_dinh",
+     "cau": [
+      "ANV đang ở trạng thái tiền vào trước câu chuyện.",
+      "Người mua đang đặt cược quý IV tốt hơn, chưa có bằng chứng.",
+      "Hàm ý: rủi ro trả lại phần tăng cao hơn thường lệ nếu báo cáo quý IV không cải thiện."
+     ]
+    }
+   ]
+  },
+  {
+   "tieu_de": "5. Bối cảnh thị trường và ngành",
+   "khoi": [
+    {
+     "loai": "dong_ho",
+     "diem": 53.5,
+     "nhan": "Bình thường",
+     "mo_ta": "Tâm lý gốc +7 (phiên trước âm 2). Hàm ý: thị trường không hưng phấn, nên nhịp tăng của ANV là câu chuyện riêng của mã chứ không phải sóng chung."
+    },
+    {
+     "loai": "the_so",
+     "items": [
+      {
+       "so": "1.774,15",
+       "nhan": "VN-Index 23/10, sát MA50 1.772,22; hàm ý thị trường ở thế giằng co, chưa có xu hướng đỡ mã nhỏ"
+      },
+      {
+       "so": "âm 1.060,5 tỷ",
+       "nhan": "Khối ngoại bán ròng 5 phiên; hàm ý tiền ngoại chưa quay lại, dòng tiền nội đang tự xoay"
+      },
+      {
+       "so": "25/61",
+       "nhan": "Tin bị đọc xấu quy về lãi suất và tín dụng; hàm ý chi phí vay là mối lo chính, chạm trực tiếp doanh nghiệp xuất khẩu dùng vốn lưu động lớn"
+      },
+      {
+       "so": "115,22 USD",
+       "nhan": "Dầu Brent 20/10; hàm ý chi phí vận tải và đầu vào còn cao, khó giúp giá vốn hạ nhanh"
+      }
+     ]
+    },
+    {
+     "loai": "doan",
+     "text": "Vị trí chu kỳ của VN-Index được mô tả là xu hướng tăng theo giá so với bình quân, nhưng la bàn tuần cho thấy đà xuống (âm 39) và tâm lý sợ hãi (âm 43). Tỷ giá USD/VND tại Vietcombank 25.850 đồng, giảm 0,15% trong tuần, hơi bất lợi cho doanh nghiệp xuất khẩu. Kho không có tin chính sách nào trực tiếp về thủy sản trong 5 phiên."
+    },
+    {
+     "loai": "nguon",
+     "text": "Nguồn: Hub TVN, thị trường và vĩ mô đến 23 và 24/10/2026."
+    },
+    {
+     "loai": "nhan_dinh",
+     "cau": [
+      "Bối cảnh chung không ủng hộ một nhịp tăng dài cho mã nhỏ.",
+      "Lãi vay, giá dầu và tỷ giá đều đang nghiêng bất lợi nhẹ cho nhà chế biến xuất khẩu.",
+      "Hàm ý: ANV cần câu chuyện riêng đủ mạnh để đi ngược bối cảnh, và hiện chưa có."
+     ]
+    }
+   ]
+  },
+  {
+   "tieu_de": "6. Khuyến nghị",
+   "khoi": [
+    {
+     "loai": "bang",
+     "cot": [
+      "Mã",
+      "Hành động",
+      "Vùng giá",
+      "Mục tiêu",
+      "Cắt lỗ",
+      "Thời gian",
+      "Luận điểm",
+      "Rủi ro"
+     ],
+     "hang": [
+      [
+       "ANV",
+       "Đứng ngoài",
+       "17.500 đến 18.000 (chờ, neo giá 19.050 ngày 23/10/2026)",
+       "20.500",
+       "16.800",
+       "1 đến 3 tháng",
+       "Giá đã tăng 19,44% trong 20 phiên trước khi lợi nhuận xác nhận; chỉ cân nhắc vào khi giá điều chỉnh về vùng chờ và biên lãi quý IV hồi",
+       "Lợi nhuận quý IV tiếp tục giảm; áp lực bán sau chốt quyền cổ tức; thiếu dữ liệu thanh khoản"
+      ]
+     ]
+    },
+    {
+     "loai": "doan",
+     "text": "Khuyến nghị tham khảo, không phải lời mời mua bán chứng khoán; nhà đầu tư tự chịu trách nhiệm với quyết định của mình."
+    },
+    {
+     "loai": "nhan_dinh",
+     "cau": [
+      "Đứng ngoài là lựa chọn hợp lý lúc này.",
+      "Vùng chờ thấp hơn giá hiện tại khoảng 6% đến 8%, mục tiêu cao hơn khoảng 8%, cắt lỗ thấp hơn khoảng 12%.",
+      "Hàm ý: tỷ lệ lời lỗ chỉ hấp dẫn khi mua ở vùng chờ, không hấp dẫn khi đuổi giá."
+     ]
+    }
+   ]
+  }
+ ],
+ "kich_ban": [
+  {
+   "ten": "Cơ sở",
+   "xac_suat": "50%",
+   "dieu_kien": "Lợi nhuận quý IV đi ngang, giá điều chỉnh sau chốt quyền cổ tức.",
+   "tac_dong": "Giá về vùng 17.500 đến 18.000 đồng rồi tích lũy."
+  },
+  {
+   "ten": "Tích cực",
+   "xac_suat": "25%",
+   "dieu_kien": "Biên lãi gộp quý IV hồi, báo chí và F247 bắt đầu nhắc nhiều hơn.",
+   "tac_dong": "Giá giữ trên 19.000 đồng và hướng tới 20.500 đồng."
+  },
+  {
+   "ten": "Tiêu cực",
+   "xac_suat": "25%",
+   "dieu_kien": "Giá vốn tiếp tục tăng, thị trường chung yếu, khối ngoại bán ròng kéo dài.",
+   "tac_dong": "Giá trả lại phần lớn mức tăng, về dưới 17.000 đồng."
+  }
+ ],
+ "theo_doi": [
+  {
+   "moc": "Ngày chốt quyền cổ tức",
+   "thoi_diem": "Theo công bố của doanh nghiệp, quý IV/2026",
+   "can_xem": "Giá 5 phiên sau ngày không hưởng quyền"
+  },
+  {
+   "moc": "Báo cáo tài chính quý IV",
+   "thoi_diem": "Cuối tháng 1/2027",
+   "can_xem": "Biên lãi gộp so với quý III"
+  },
+  {
+   "moc": "Sự chú ý trên F247 và báo chí",
+   "thoi_diem": "Hằng tuần",
+   "can_xem": "Số chủ đề và số bài có tăng cùng giá không"
+  },
+  {
+   "moc": "Công bố cổ đông lớn, người nội bộ",
+   "thoi_diem": "Liên tục",
+   "can_xem": "Chiều mua hay bán sau nhịp tăng"
+  }
+ ],
+ "ba_dieu": [
+  "ANV tăng 19,44% trong 20 phiên khi VN-Index giảm 0,61%, nhưng lợi nhuận quý III giảm vì giá vốn.",
+  "Báo chí trung tính, F247 vắng: tiền vào trước câu chuyện, chưa có đám đông đỡ giá.",
+  "Đứng ngoài, chờ vùng 17.500 đến 18.000 đồng và biên lãi quý IV hồi mới cân nhắc."
+ ],
+ "nhan_chuyen_muc": "CƠ HỘI CỔ PHIẾU",
+ "tom_gon": {
+  "ket_luan": "ANV có cơ hội thấp đến trung bình nhưng chưa phải điểm vào: giá tăng 19,44% trong 20 phiên trước khi lợi nhuận xác nhận. Đánh giá: Tiền vào trước câu chuyện.",
+  "bieu_do_tieu_de": "Số chủ đề F247 về ANV theo năm: diễn đàn nguội hẳn trong khi giá đang tăng",
+  "cot_trai": {
+   "tieu_de": "Vì sao có thể có cơ hội",
+   "items": [
+    {
+     "dam": "Giá dẫn đầu nhóm.",
+     "text": "+19,44% 20 phiên, hơn FMC và VHC: có tiền đang đặt cược vào mã."
+    },
+    {
+     "dam": "Cổ tức hai năm.",
+     "text": "Khoảng 270 tỷ đồng sắp chi: lực đỡ ngắn hạn cho giá."
+    },
+    {
+     "dam": "Chưa có đám đông.",
+     "text": "F247 chỉ 21 chủ đề năm 2026: còn dư địa nếu câu chuyện được kể."
+    }
+   ]
+  },
+  "cot_phai": {
+   "tieu_de": "Vì sao cần thận trọng",
+   "danh_so": true,
+   "items": [
+    {
+     "dam": "Lãi quý III giảm:",
+     "text": "giá vốn tăng, thực tế chưa xác nhận giá."
+    },
+    {
+     "dam": "Thiếu dữ liệu tiền:",
+     "text": "chưa có thanh khoản và khối ngoại."
+    },
+    {
+     "dam": "Bộ máy thay đổi:",
+     "text": "4 công bố thay nhân sự chủ chốt."
+    },
+    {
+     "dam": "Bối cảnh xấu:",
+     "text": "khối ngoại bán 1.060,5 tỷ trong 5 phiên."
+    }
+   ]
+  },
+  "the": {
+   "tieu_de": "Điều kiện để hành động",
+   "items": [
+    {
+     "tieu_de": "Giá về vùng chờ",
+     "text": "17.500 đến 18.000 đồng sau chốt quyền"
+    },
+    {
+     "tieu_de": "Biên lãi hồi",
+     "text": "Quý IV cao hơn quý III"
+    },
+    {
+     "tieu_de": "Chú ý tăng",
+     "text": "Báo và F247 nhắc nhiều hơn cùng giá"
+    },
+    {
+     "tieu_de": "Nội bộ không bán",
+     "text": "Không có công bố bán sau nhịp tăng"
+    }
+   ]
+  },
+  "bay_cau": [
+   "Doanh nghiệp ưu tiên cổ tức, không kể chuyện tăng trưởng.",
+   "Truyền thông rất ít: 2 bài trong 30 ngày.",
+   "Thị trường chưa chú ý: F247 chỉ 21 chủ đề năm nay.",
+   "Lợi nhuận quý III giảm vì giá vốn tăng.",
+   "Giá đã tăng 19,44% trong 20 phiên.",
+   "Giá và lợi nhuận đi ngược nhau.",
+   "Tiền vào trước câu chuyện, cần quý IV xác nhận."
+  ],
+  "ham_y": [
+   "Tiền mua kỳ vọng biên lãi hồi, chưa mua kết quả.",
+   "Cổ tức đỡ giá trước chốt quyền, dễ chốt lời sau đó.",
+   "Không có đám đông nên nhịp tăng dễ gãy nếu tiền dẫn rút."
+  ],
+  "ba_dieu": [
+   "ANV tăng 19,44% trong 20 phiên khi lợi nhuận quý III giảm.",
+   "Báo trung tính, F247 vắng: tiền vào trước câu chuyện.",
+   "Đứng ngoài, chờ 17.500 đến 18.000 đồng và quý IV xác nhận."
+  ],
+  "nguon": "Nguồn: Hub TVN, báo chí, HOSE, F247, giá đến 23/10/2026. Khuyến nghị tham khảo, không phải lời mời mua bán chứng khoán; nhà đầu tư tự chịu trách nhiệm với quyết định của mình."
+ },
+ "gioi_han": [
+  "Kho chưa có khối lượng, giá trị giao dịch, khối ngoại và giá 5 phiên của ANV, nên chưa đo được độ dày dòng tiền.",
+  "ANV không nằm trong nhóm mã được nhắc nhiều 5 phiên, nên không có số lần nhắc so với kỳ trước và hàm ý tin riêng cho mã.",
+  "Công bố thông tin chỉ có từ 5/5/2025; không có website doanh nghiệp, phỏng vấn lãnh đạo, tự doanh hay số liệu tài chính chi tiết.",
+  "Nhận định về lợi nhuận quý III dựa trên một bài báo; chưa đối chiếu báo cáo tài chính gốc.",
+  "Hàm ý về giá dầu và giá vốn là giả thuyết, chưa có số liệu chi phí riêng của doanh nghiệp."
+ ],
+ "nguon": [
+  {
+   "ten": "Vietstock",
+   "url": "http://vietstock.vn/2026/10/lai-quy-3-cua-anv-tiep-tuc-giam-do-gia-von-leo-thang-737-1505134.htm",
+   "thoi_diem": "2026-10-22 11:44",
+   "ghi_chu": "Kết quả quý III"
+  },
+  {
+   "ten": "Vietstock",
+   "url": "http://vietstock.vn/2026/10/nam-viet-anv-sap-chi-gan-270-ty-dong-tra-co-tuc-nam-2025-va-2026-738-1500891.htm",
+   "thoi_diem": "2026-10-09 16:35",
+   "ghi_chu": "Kế hoạch cổ tức"
+  },
+  {
+   "ten": "Tin nhanh Chứng khoán",
+   "url": "https://www.tinnhanhchungkhoan.vn/thuc-pham-sao-ta-fmc-bao-lai-quy-iii-tang-hon-78-dang-co-20528-ty-dong-gui-ngan-hang-post399966.html",
+   "thoi_diem": "2026-10-22 07:26",
+   "ghi_chu": "So sánh cùng ngành, FMC"
+  },
+  {
+   "ten": "Dân Trí",
+   "url": "https://dantri.com.vn/kinh-doanh/mb-giam-lai-suat-cho-vay-toi-2nam-dong-hanh-cung-doanh-nghiep-va-nguoi-dan-20261020093142779.htm",
+   "thoi_diem": "2026-10-20 09:47",
+   "ghi_chu": "Bối cảnh lãi suất và tín dụng"
+  },
+  {
+   "ten": "Hub TVN",
+   "url": "https://jukytwo.github.io/tvn-hub/",
+   "thoi_diem": "2026-10-23",
+   "ghi_chu": "Giá, công bố HOSE, F247, tâm lý thị trường"
+  }
+ ],
+ "du_lieu_dau_vao": [
+  {
+   "thoi_diem": "2026-10-22 11:44",
+   "nguon": "Vietstock",
+   "tieu_de": "Lợi nhuận quý III của Nam Việt đi xuống thêm, chủ yếu vì chi phí giá vốn",
+   "url": "http://vietstock.vn/2026/10/lai-quy-3-cua-anv-tiep-tuc-giam-do-gia-von-leo-thang-737-1505134.htm",
+   "giong": "trung_tinh"
+  },
+  {
+   "thoi_diem": "2026-10-09 16:35",
+   "nguon": "Vietstock",
+   "tieu_de": "Nam Việt lên kế hoạch chia cổ tức tiền mặt gộp cho hai năm, khoảng 270 tỷ đồng",
+   "url": "http://vietstock.vn/2026/10/nam-viet-anv-sap-chi-gan-270-ty-dong-tra-co-tuc-nam-2025-va-2026-738-1500891.htm",
+   "giong": "trung_tinh"
+  },
+  {
+   "thoi_diem": "2026-10-22 07:26",
+   "nguon": "Tin nhanh Chứng khoán",
+   "tieu_de": "Doanh nghiệp cùng ngành FMC báo lãi quý III tăng mạnh",
+   "url": "https://www.tinnhanhchungkhoan.vn/thuc-pham-sao-ta-fmc-bao-lai-quy-iii-tang-hon-78-dang-co-20528-ty-dong-gui-ngan-hang-post399966.html",
+   "giong": "tich_cuc"
+  },
+  {
+   "thoi_diem": "2026-10-20 09:47",
+   "nguon": "Dân Trí",
+   "tieu_de": "Một ngân hàng lớn hạ lãi vay cho doanh nghiệp và người dân",
+   "url": "https://dantri.com.vn/kinh-doanh/mb-giam-lai-suat-cho-vay-toi-2nam-dong-hanh-cung-doanh-nghiep-va-nguoi-dan-20261020093142779.htm",
+   "giong": "tich_cuc"
+  }
+ ]
+}
